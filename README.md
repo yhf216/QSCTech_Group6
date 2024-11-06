@@ -1,0 +1,1 @@
+# QSC Proj. of Group 6
