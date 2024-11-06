@@ -1,0 +1,24 @@
+{
+  "name": "qsc-proj-6-be",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc",
+    "start": "node dist/index.js",
+    "dev": "nodemon dist/index.js"
+  },
+  "author": "5dbwat4 & more",
+  "license": "MIT",
+  "description": "",
+  "dependencies": {
+    "express-jwt": "^8.4.1",
+    "express.js": "^1.0.0",
+    "sqlite": "^5.1.1",
+    "sqlite3": "^5.1.7",
+    "tsc": "^2.0.4",
+    "tsx": "^4.19.2",
+    "typescript": "^5.6.3",
+    "uuid": "^11.0.2"
+  }
+}
