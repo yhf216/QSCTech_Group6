@@ -8,16 +8,3 @@
 ```shell
 npm install
 ```
-
-## Serve for dev
-
-```shell
-npm run dev
-```
-
-## Build and serve
-
-```shell
-npm run build
-node index
-```

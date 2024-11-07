@@ -31,7 +31,7 @@ export default (app, db) => {
             return res.status(400).json({ error: 'Username and password are required' });
         }
         if (/^[a-f0-9]{64}$/.test(password) === false) {
-            return res.status(400).json({ error: 'Password is not SHA256 hashed' });
+            return res.status(400).json({ error: 'Password invalid' });
         }
         if (await db.get(`SELECT * FROM users WHERE username =?`, [username])) {
             return res.status(400).json({ error: 'Username already exists' });
