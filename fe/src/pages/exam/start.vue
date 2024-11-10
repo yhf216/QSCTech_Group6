@@ -16,6 +16,9 @@
 import { ref,watch  } from "vue"  ;
 import { VNumberInput } from 'vuetify/labs/VNumberInput'
 import{API} from "@/utils/APIHelper"
+import { useRouter } from "vue-router"
+
+const router = useRouter()
 
 const examLength = ref(10)
 
@@ -26,7 +29,9 @@ function startExam() {
     examRange:"CET4",
     examLength:examLength.value
   }).then(response => {
-    console.log(response)
+    // console.log(response)
+    window.currentExamInfo = response
+    router.push("/exam/ongoing/"+response.examId)
   })
 }
 

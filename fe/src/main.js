@@ -4,6 +4,8 @@ import router from './router'
 import 'vuetify/styles'
 import { createVuetify } from 'vuetify'
 
+import './assets/blockify.css'
+
 const vuetify = createVuetify({
   ssr: true,
 })
