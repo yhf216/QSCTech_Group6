@@ -1,13 +1,11 @@
 <script setup>
-import {initAPIHooks} from "./utils/APIHelper"
-import {useMessage, useNotification} from "naive-ui"
-
-initAPIHooks(useMessage(), useNotification())
+import initHooks from './components/initHooks.vue'
 </script>
 
 <template>
     <n-message-provider> 
         <n-notification-provider>
+            <init-hooks/>
             <router-view></router-view>
         </n-notification-provider>
         </n-message-provider> 

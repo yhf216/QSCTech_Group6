@@ -7,12 +7,16 @@ export {}
 
 declare module 'vue' {
   export interface GlobalComponents {
+    InitHooks: typeof import('./src/components/initHooks.vue')['default']
+    NButton: typeof import('naive-ui')['NButton']
     NCard: typeof import('naive-ui')['NCard']
     NMessageProvider: typeof import('naive-ui')['NMessageProvider']
     NNotificationProvider: typeof import('naive-ui')['NNotificationProvider']
+    Question: typeof import('./src/components/question.vue')['default']
     RouterLink: typeof import('vue-router')['RouterLink']
     RouterView: typeof import('vue-router')['RouterView']
     Simple: typeof import('./src/components/CardsComponents/Simple.vue')['default']
     TagTreeSelect: typeof import('./src/components/TagTreeSelect.vue')['default']
+    VBtn: typeof import('vuetify/components')['VBtn']
   }
 }

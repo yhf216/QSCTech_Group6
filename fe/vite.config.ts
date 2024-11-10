@@ -8,7 +8,7 @@ import VueJsx from '@vitejs/plugin-vue-jsx'
 // import { defineConfig } from 'vite'
 import AutoImport from 'unplugin-auto-import/vite'
 import Components from 'unplugin-vue-components/vite'
-import { ElementPlusResolver,NaiveUiResolver } from 'unplugin-vue-components/resolvers'
+import { ElementPlusResolver,NaiveUiResolver,Vuetify3Resolver } from 'unplugin-vue-components/resolvers'
 import VueRouter from 'unplugin-vue-router/vite'
 import Pages from 'vite-plugin-pages';
 import react from '@vitejs/plugin-react-swc'
@@ -24,10 +24,10 @@ export default defineConfig({
     Vue(),
     VueJsx(),
     AutoImport({
-      resolvers: [ElementPlusResolver(),NaiveUiResolver()],
+      resolvers: [ElementPlusResolver(),NaiveUiResolver(),Vuetify3Resolver()],
     }),
     Components({
-      resolvers: [ElementPlusResolver(),NaiveUiResolver()],
+      resolvers: [ElementPlusResolver(),NaiveUiResolver(),Vuetify3Resolver()],
     }),
     react()
   ],

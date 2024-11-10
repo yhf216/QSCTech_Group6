@@ -20,7 +20,8 @@
     "vue": "^3.5.12",
     "naive-ui": "^2.40.1",
     "vue-router": "^4.4.5",
-    "ant-design-vue": "^4.2.5"
+    "ant-design-vue": "^4.2.5",
+    "vuetify": "^3.7.4"
   },
   "devDependencies": {
     "@types/react": "^18.2.15",
