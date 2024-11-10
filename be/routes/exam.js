@@ -1,5 +1,5 @@
-import uuid_v4 from 'uuid/v4';
-import {dic_data} from '../data/dic_data_handler'
+import {v4 as uuid_v4} from 'uuid';
+import {dic_data} from '../data/dic_data_handler.js'
 import { expressjwt } from 'express-jwt';
 
 let cache = [];
@@ -10,13 +10,13 @@ const getRandomTrans = () => {
 }
 
 export default (app, db) => {
-   app.post('/exam/start',expressjwt({secret: process.env.JWT_SECRET}), (req, res) => {
+   app.post('/exam/start', (req, res) => {
       const examId= uuid_v4();
       const { examRange,examLength } = req.body;
       //generate a random array of numbers within the range
 
       if(!examRange || ! Object.keys(dic_data).includes(examRange)){
-         res.status(400).json({ message: 'Invalid exam range' });
+         res.json({code: 400, message: 'Invalid exam range' });
          return;
       }
       const shuffledArray = dic_data[examRange].sort(() => 0.5 - Math.random()).sort(() => 0.5 - Math.random()).sort(() => 0.5 - Math.random()).slice(0, examLength);
@@ -42,6 +42,7 @@ export default (app, db) => {
          answerArray.push({
              id: concurrentQID,
              answer: rightAnswerID,
+         })
          
         });
 
@@ -50,11 +51,17 @@ export default (app, db) => {
          examRange,
          examLength,
          answerArray,
+         startTime: new Date().getTime(),
       });
 
       res.status(200).json({
+        code: 200,
+
+        data:{
          examId,
          questionArray,
+         startTime: new Date().getTime(),
+        }
       });
    });
 
@@ -62,7 +69,7 @@ export default (app, db) => {
       const { examId, answers } = req.body;
       const exam = cache.find(exam => exam.examId === examId);
       if (!exam) {
-         res.status(400).json({ message: 'Invalid exam id' });
+         res.json({code: 400,  message: 'Invalid exam id' });
          return;
       }
       const { answerArray } = exam;
@@ -70,7 +77,7 @@ export default (app, db) => {
          const correctAnswer = answerArray.find(ans => ans.id === curr.id).answer;
          return acc + (curr.answer === correctAnswer ? 1 : 0);
       }, 0);
-      res.status(200).json({ score });
+      res.status(200).json({code: 200, data: { score }});   
    });
       
 };

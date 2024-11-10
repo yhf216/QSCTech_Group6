@@ -1,7 +1,36 @@
 <template>
   <n-card> </n-card>
-  <v-btn variant="outlined">
-  Button
+  <v-number-input
+  :reverse="false"
+  controlVariant="default"
+  label=""
+  :hideInput="false"
+  :inset="false" v-model="examLength"
+  variant="outlined"
+></v-number-input>
+  <v-btn variant="outlined" @click="startExam">
+  Start Exam
 </v-btn>
 </template>
-<script setup></script>
+<script setup>
+import { ref,watch  } from "vue"  ;
+import { VNumberInput } from 'vuetify/labs/VNumberInput'
+import{API} from "@/utils/APIHelper"
+
+const examLength = ref(10)
+
+
+function startExam() {
+  console.log("start exam")
+  API.post("/exam/start", {
+    examRange:"CET4",
+    examLength:examLength.value
+  }).then(response => {
+    console.log(response)
+  })
+}
+
+// watch(examLength, (newVal, oldVal) => {
+//   console.log(newVal, oldVal)
+// })
+</script>

@@ -80,3 +80,5 @@ app.use(async (_, $, next) => {
 // BTW, I hate typescript ( when I need to write something quickly ).
 import UsersRouteFactory from "./routes/user.js";
 UsersRouteFactory(app, db);
+import ExamRouteFactory from "./routes/exam.js";
+ExamRouteFactory(app, db);

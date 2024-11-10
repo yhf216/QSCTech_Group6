@@ -18,5 +18,6 @@ declare module 'vue' {
     Simple: typeof import('./src/components/CardsComponents/Simple.vue')['default']
     TagTreeSelect: typeof import('./src/components/TagTreeSelect.vue')['default']
     VBtn: typeof import('vuetify/components')['VBtn']
+    VNumberInput: typeof import('vuetify/components')['VNumberInput']
   }
 }
