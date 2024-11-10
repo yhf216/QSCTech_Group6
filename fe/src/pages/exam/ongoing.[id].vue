@@ -69,5 +69,5 @@ const handleSubmit = () => {
   }).then((response) => {
     router.push("/exam/result/" + response.id)
   })
-})
+}
 </script>
