@@ -4,17 +4,13 @@
     "trans": [
         {
             "tranCn": "获取",
-            "descOther": "英释",
-            "descCn": "中释",
             "pos": "v",
-            "tranOther": "to find information, especially on a computer"
+            "tranEn": "to find information, especially on a computer"
         },
         {
             "tranCn": "接近，入口",
-            "descOther": "英释",
-            "descCn": "中释",
             "pos": "n",
-            "tranOther": "the right to enter a place, use something, see someone etc"
+            "tranEn": "the right to enter a place, use something, see someone etc"
         }
     ]
 }
