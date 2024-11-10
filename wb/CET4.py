@@ -3,23 +3,22 @@ import json
 
 app = Flask(__name__)
 
-# 读取 JSON 文件
 def load_words():
     with open('CET4.json', 'r', encoding='utf-8') as file:
         return json.load(file)
 
-# 保存 JSON 文件
+
 def save_words(words):
     with open('CET4.json', 'w', encoding='utf-8') as file:
         json.dump(words, file, ensure_ascii=False, indent=4)
 
-# 获取所有单词
+
 @app.route('/words', methods=['GET'])
 def get_words():
     words = load_words()
     return jsonify(words)
 
-# 获取单个单词
+
 @app.route('/words/<int:word_id>', methods=['GET'])
 def get_word(word_id):
     words = load_words()
@@ -28,7 +27,7 @@ def get_word(word_id):
         return jsonify({'error': 'Word not found'}), 404
     return jsonify(word)
 
-# 添加单词
+
 @app.route('/words', methods=['POST'])
 def add_word():
     data = request.json
@@ -52,7 +51,7 @@ def add_word():
     save_words(words)
     return jsonify(new_word), 201
 
-# 更新单词
+
 @app.route('/words/<int:word_id>', methods=['PUT'])
 def update_word(word_id):
     data = request.json
@@ -77,7 +76,7 @@ def update_word(word_id):
     save_words(words)
     return jsonify({'message': 'Word updated successfully'})
 
-# 删除单词
+
 @app.route('/words/<int:word_id>', methods=['DELETE'])
 def delete_word(word_id):
     words = load_words()
