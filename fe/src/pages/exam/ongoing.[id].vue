@@ -1,5 +1,8 @@
 <template>
-    <n-spin>
+    <n-spin :show="loading">
+        <template #loading>
+            <p>Uploading Data.</p>
+        </template>
   <n-card
     style="width: 70%; min-width: 800px; max-width: 100%; margin: auto auto"
     hoverable
@@ -34,6 +37,8 @@ import { useRoute } from "vue-router";
 import {API} from "@/utils/APIHelper"
 import { useRouter } from "vue-router";
 
+const route = useRoute();
+
 const router = useRouter();
 
 const examQuestions = window.currentExamInfo.questionArray;
@@ -45,6 +50,8 @@ console.log(currentQues.value);
 const Selections = ref([]);
 
 const currentSelected = ref(0);
+
+const loading = ref(false);
 
 const updateSelected = (id) => {
   Selections.value.push({
@@ -63,11 +70,13 @@ const updateSelected = (id) => {
 
 
 const handleSubmit = () => {
+    loading.value = true;
   API.post("/exam/submit", {
-    examId: window.currentExamInfo.id,
+    examId: route.params.id,
     answers: Selections.value,
   }).then((response) => {
-    router.push("/exam/result/" + response.id)
+    loading.value = false;
+    router.push("/exam/result/" + response)
   })
 }
 </script>

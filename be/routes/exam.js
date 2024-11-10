@@ -54,6 +54,7 @@ export default (app, db) => {
          examLength,
          answerArray,
          startTime: new Date().getTime(),
+         questionArray
       });
 
       res.status(200).json({
