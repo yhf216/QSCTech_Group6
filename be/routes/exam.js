@@ -92,5 +92,16 @@ export default (app, db) => {
 
       res.status(200).json({code: 200, data: reportId});   
    });
+
+   app.get('/exam/report/:reportId', (req, res) => {
+      const { reportId } = req.params;
+      const report = reports.find(report => report.id === reportId);
+      if (!report) {
+         res.json({code: 400,  message: 'Invalid report id' });
+         return;
+      }
+      res.status(200).json({code: 200, data: report});   
+
+   });
       
 };
