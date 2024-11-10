@@ -1,8 +1,8 @@
 import json
 import os
 # 本文件由AI生成，用于本地提取json中需要的字段
-source_folder = 'D:\\Code\\QSCTech_Group6\\dic_data\\original_data'
-output_file = 'extracted_data.json'
+source_folder = 'D:\\Code\\QSCTech_Group6\\dic_data\\original_data\\CET6' #根据需要调整
+output_file = 'CET6.json'
 
 extracted_data = []
 
@@ -19,10 +19,18 @@ for filename in os.listdir(source_folder):
                     
                     # 提取需要的字段
                     extracted_item = {
-                        'wordRank': data.get('wordRank'),
-                        'headWord': data.get('headWord'),
-                        'trans': data['content']['word']['content']['trans'] if 'content' in data and 'word' in data['content'] and 'content' in data['content']['word'] and 'trans' in data['content']['word']['content'] else []
+                        'id': data.get('wordRank'),
+                        'word': data.get('headWord'),
+                        'trans': []
                     }
+
+                    trans_list = data.get('content', {}).get('word', {}).get('content', {}).get('trans', [])
+                    for trans in trans_list:
+                        extracted_item['trans'].append({
+                            'tranCn': trans.get('tranCn'),
+                            'pos': trans.get('pos'),
+                            'tranEn': trans.get('tranOther')
+                        })
                     extracted_data.append(extracted_item)
                 except json.JSONDecodeError as e:
                     print(f"Error decoding JSON in file {filename}: {e}")
