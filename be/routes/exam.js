@@ -4,6 +4,8 @@ import { expressjwt } from 'express-jwt';
 
 let cache = [];
 
+let reports = []; // It will be moved to database
+
 const getRandomTrans = () => {
    const randomIndex = Math.floor(Math.random() * dic_data.CET4.length);
    return dic_data.CET4[randomIndex].trans[0];
@@ -77,7 +79,18 @@ export default (app, db) => {
          const correctAnswer = answerArray.find(ans => ans.id === curr.id).answer;
          return acc + (curr.answer === correctAnswer ? 1 : 0);
       }, 0);
-      res.status(200).json({code: 200, data: { score }});   
+      const reportId = uuid_v4();
+
+      reports.push({
+         id: reportId,
+         examId,
+         score,
+         answers,
+         exam,
+         endTime: new Date().getTime(),
+      });
+
+      res.status(200).json({code: 200, data: reportId});   
    });
       
 };
