@@ -1,7 +1,7 @@
 import json
 import os
 # 本文件由AI生成，用于本地提取json中需要的字段
-source_folder = 'D:\\Code\\QSC\\QSCTech_Group6\\original_data_for_test\\level4words_jsons'
+source_folder = 'D:\\Code\\QSCTech_Group6\\dic_data\\original_data'
 output_file = 'extracted_data.json'
 
 extracted_data = []
