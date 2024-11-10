@@ -6,7 +6,7 @@ let cache = [];
 
 const getRandomTrans = () => {
    const randomIndex = Math.floor(Math.random() * dic_data.CET4.length);
-   return dic_data.trans[randomIndex].trans[0];
+   return dic_data.CET4[randomIndex].trans[0];
 }
 
 export default (app, db) => {
@@ -35,7 +35,7 @@ export default (app, db) => {
                     id : rightAnswerID,
                     desc : item.trans[Math.floor(Math.random() * item.trans.length)]
                 },
-                ...Array(3).map(()=>({id: uuid_v4(), desc: getRandomTrans()})),
+                ...([0,0,0].map(()=>({id: uuid_v4(), desc: getRandomTrans()}))),
              ].sort(() => 0.5 - Math.random()).sort(() => 0.5 - Math.random())
          }); 
 
