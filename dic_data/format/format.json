@@ -1,6 +1,6 @@
 {
-    "wordRank": 5,
-    "headWord": "access",
+    "id": 5,
+    "word": "access",
     "trans": [
         {
             "tranCn": "获取",
