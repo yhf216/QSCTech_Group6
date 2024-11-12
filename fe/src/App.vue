@@ -8,7 +8,7 @@ const document = window.document
     <n-message-provider> 
         <n-notification-provider>
             <init-hooks/>
-            <Background/>
+            <!-- <Background/> -->
 
             <router-view></router-view>
         </n-notification-provider>

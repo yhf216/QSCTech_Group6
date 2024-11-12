@@ -64,10 +64,10 @@ document.addEventListener('DOMContentLoaded', () => {
 <style lang="scss">
 
 :root {
-  --color-bg1: rgb(8, 10, 15);
-  --color-bg2: rgb(0, 17, 32);
-  --color1: 18, 113, 255;
-  --color2: 107, 74, 255;
+  --color-bg1: rgb(235, 234, 243);
+  --color-bg2: rgb(147, 139, 233);
+  --color1: 29,12,211;
+  --color2: 12,23,108;
   --color3: 100, 100, 255;
   --color4: 50, 160, 220;
   --color5: 80, 47, 122;
