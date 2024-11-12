@@ -28,54 +28,60 @@
           v-for="question in result.wrongAnswers"
           :title="question.question.question"
         >
-        <n-space vertical>
-          <n-button
-            :type="
-              option.id == question.answer
-                ? 'success'
-                : option.id == question.userAnswer
-                ? 'error'
-                : 'info'
-            "
-            :render-icon="()=>h(
-               option.id == question.answer
-                ? CheckmarkCircleOutline
-                : option.id == question.userAnswer
-                ? CloseCircleOutline
-                : ArrowForwardOutline,
-                {
-                  style: {
-                    color:
-                      option.id == question.answer
-                       ? '#52c41a'
-                        : option.id == question.userAnswer
-                       ? '#f5222d'
-                        : '#1890ff'
-                  }
-                }
-            )"
-            dashed
-            round
-            v-for="option in question.question.options"
-            :key="option.id"
-          >
-            {{ option.desc.tranEn }}
-          </n-button>
-        </n-space>
+          <n-space vertical>
+            <n-button
+              :type="
+                option.id == question.answer
+                  ? 'success'
+                  : option.id == question.userAnswer
+                  ? 'error'
+                  : 'info'
+              "
+              :render-icon="
+                () =>
+                  h(
+                    option.id == question.answer
+                      ? CheckmarkCircleOutline
+                      : option.id == question.userAnswer
+                      ? CloseCircleOutline
+                      : ArrowForwardOutline,
+                    {
+                      style: {
+                        color:
+                          option.id == question.answer
+                            ? '#52c41a'
+                            : option.id == question.userAnswer
+                            ? '#f5222d'
+                            : '#1890ff',
+                      },
+                    }
+                  )
+              "
+              dashed
+              round
+              v-for="option in question.question.options"
+              :key="option.id"
+            >
+              {{ option.desc.tranEn }}
+            </n-button>
+          </n-space>
         </n-card>
       </n-collapse-item>
     </n-collapse>
     <n-divider></n-divider>
-    <v-btn variant="outlined" @click="restart">
-  Try again
-</v-btn>
+    <v-btn variant="outlined" @click="restart"> Try again </v-btn>
   </n-card>
 </template>
 <script setup>
 import { API } from "@/utils/APIHelper";
 import { CheckOutlined, CloseOutlined } from "@vicons/antd";
-import { ArrowForwardOutline, CheckmarkCircleOutline, CheckmarkOutline, CloseCircleOutline } from "@vicons/ionicons5";
-import { ref,h } from "vue";
+import {
+  ArrowForwardOutline,
+  CheckmarkCircleOutline,
+  CheckmarkOutline,
+  CloseCircleOutline,
+} from "@vicons/ionicons5";
+import { ref, h } from "vue";
 import { useRoute } from "vue-router";
 import { useRouter } from "vue-router";
 
@@ -92,10 +98,9 @@ API.get("/exam/report/" + route.params.id).then((response) => {
   duration.value = Math.round((response.endTime - response.startTime) / 1000);
 });
 
-
 const restart = () => {
-  router.push("/exam/start")
-}
+  router.push("/exam/start");
+};
 </script>
 
 <style scoped>

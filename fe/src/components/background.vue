@@ -1,73 +1,81 @@
 <template>
-<div class="gradient-bg">
-  <svg 
-       viewBox="0 0 100vw 100vw"
-       xmlns='http://www.w3.org/2000/svg'
-       class="noiseBg"
-       >
-    <filter id='noiseFilterBg'>
-      <feTurbulence 
-                    type='fractalNoise'
-                    baseFrequency='0.6'
-                    stitchTiles='stitch' />
-    </filter>
-
-    <rect
-          width='100%'
-          height='100%'
-          preserveAspectRatio="xMidYMid meet"
-          filter='url(#noiseFilterBg)' />
-  </svg>
-  <svg xmlns="http://www.w3.org/2000/svg" class="svgBlur">
-    <defs>
-      <filter id="goo">
-        <feGaussianBlur in="SourceGraphic" stdDeviation="10" result="blur" />
-        <feColorMatrix in="blur" mode="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 18 -8" result="goo" />
-        <feBlend in="SourceGraphic" in2="goo" />
+  <div class="gradient-bg">
+    <svg
+      viewBox="0 0 100vw 100vw"
+      xmlns="http://www.w3.org/2000/svg"
+      class="noiseBg"
+    >
+      <filter id="noiseFilterBg">
+        <feTurbulence
+          type="fractalNoise"
+          baseFrequency="0.6"
+          stitchTiles="stitch"
+        />
       </filter>
-    </defs>
-  </svg>
-  <div class="gradients-container">
-    <div class="g1"></div>
-    <div class="g2"></div>
-    <div class="g3"></div>
-    <div class="g4"></div>
-    <div class="g5"></div>
-    <div class="interactive"></div>
+
+      <rect
+        width="100%"
+        height="100%"
+        preserveAspectRatio="xMidYMid meet"
+        filter="url(#noiseFilterBg)"
+      />
+    </svg>
+    <svg xmlns="http://www.w3.org/2000/svg" class="svgBlur">
+      <defs>
+        <filter id="goo">
+          <feGaussianBlur in="SourceGraphic" stdDeviation="10" result="blur" />
+          <feColorMatrix
+            in="blur"
+            mode="matrix"
+            values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 18 -8"
+            result="goo"
+          />
+          <feBlend in="SourceGraphic" in2="goo" />
+        </filter>
+      </defs>
+    </svg>
+    <div class="gradients-container">
+      <div class="g1"></div>
+      <div class="g2"></div>
+      <div class="g3"></div>
+      <div class="g4"></div>
+      <div class="g5"></div>
+      <div class="interactive"></div>
+    </div>
   </div>
-</div>
 </template>
 <script setup>
-document.addEventListener('DOMContentLoaded', () => {
-    const interBubble = document.querySelector('.interactive');
-    let curX = 0;
-    let curY = 0;
-    let tgX = 0;
-    let tgY = 0;
+document.addEventListener("DOMContentLoaded", () => {
+  const interBubble = document.querySelector(".interactive");
+  let curX = 0;
+  let curY = 0;
+  let tgX = 0;
+  let tgY = 0;
 
-    const move = () => {
-        curX += (tgX - curX) / 20;
-        curY += (tgY - curY) / 20;
-        interBubble.style.transform = `translate(${Math.round(curX)}px, ${Math.round(curY)}px)`;
-        requestAnimationFrame(move);
-    };
+  const move = () => {
+    curX += (tgX - curX) / 20;
+    curY += (tgY - curY) / 20;
+    interBubble.style.transform = `translate(${Math.round(
+      curX
+    )}px, ${Math.round(curY)}px)`;
+    requestAnimationFrame(move);
+  };
 
-    window.addEventListener('mousemove', (event) => {
-        tgX = event.clientX;
-        tgY = event.clientY;
-    });
+  window.addEventListener("mousemove", (event) => {
+    tgX = event.clientX;
+    tgY = event.clientY;
+  });
 
-    move();
+  move();
 });
 </script>
 
 <style lang="scss">
-
 :root {
   --color-bg1: rgb(235, 234, 243);
   --color-bg2: rgb(147, 139, 233);
-  --color1: 29,12,211;
-  --color2: 12,23,108;
+  --color1: 29, 12, 211;
+  --color2: 12, 23, 108;
   --color3: 100, 100, 255;
   --color4: 50, 160, 220;
   --color5: 80, 47, 122;
@@ -76,9 +84,9 @@ document.addEventListener('DOMContentLoaded', () => {
   --blending: hard-light;
 }
 
-
-html, body {
-  font-family: 'Dongle', sans-serif;
+html,
+body {
+  font-family: "Dongle", sans-serif;
   margin: 0;
   padding: 0;
   height: 100%;
@@ -86,16 +94,17 @@ html, body {
 }
 
 body {
-  background: #FFF;
-  font-family: 'Montserrat', sans-serif;
+  background: #fff;
+  font-family: "Montserrat", sans-serif;
   overflow: hidden;
 }
 
-h1, h2, h3 {
-  font-family: 'Montserrat', sans-serif;
+h1,
+h2,
+h3 {
+  font-family: "Montserrat", sans-serif;
   font-weight: 700;
 }
-
 
 @keyframes moveInCircle {
   0% {
@@ -133,10 +142,9 @@ h1, h2, h3 {
   }
 }
 
-
 .gradient-bg {
-    position: absolute;
-    z-index: -1;
+  position: absolute;
+  z-index: -1;
   width: 100vw;
   height: 100vh;
   overflow: hidden;
@@ -159,14 +167,19 @@ h1, h2, h3 {
     opacity: 0.3;
   }
   .gradients-container {
-    filter: url(#goo) blur(40px) ;
+    filter: url(#goo) blur(40px);
     width: 100%;
     height: 100%;
   }
 
   .g1 {
     position: absolute;
-    background: radial-gradient(circle at center, rgba(var(--color1), 0.8) 0, rgba(var(--color1), 0) 50%) no-repeat;
+    background: radial-gradient(
+        circle at center,
+        rgba(var(--color1), 0.8) 0,
+        rgba(var(--color1), 0) 50%
+      )
+      no-repeat;
     mix-blend-mode: var(--blending);
 
     width: var(--circle-size);
@@ -182,7 +195,12 @@ h1, h2, h3 {
 
   .g2 {
     position: absolute;
-    background: radial-gradient(circle at center, rgba(var(--color2), 0.8) 0, rgba(var(--color2), 0) 50%) no-repeat;
+    background: radial-gradient(
+        circle at center,
+        rgba(var(--color2), 0.8) 0,
+        rgba(var(--color2), 0) 50%
+      )
+      no-repeat;
     mix-blend-mode: var(--blending);
 
     width: var(--circle-size);
@@ -198,7 +216,12 @@ h1, h2, h3 {
 
   .g3 {
     position: absolute;
-    background: radial-gradient(circle at center, rgba(var(--color3), 0.8) 0, rgba(var(--color3), 0) 50%) no-repeat;
+    background: radial-gradient(
+        circle at center,
+        rgba(var(--color3), 0.8) 0,
+        rgba(var(--color3), 0) 50%
+      )
+      no-repeat;
     mix-blend-mode: var(--blending);
 
     width: var(--circle-size);
@@ -214,7 +237,12 @@ h1, h2, h3 {
 
   .g4 {
     position: absolute;
-    background: radial-gradient(circle at center, rgba(var(--color4), 0.8) 0, rgba(var(--color4), 0) 50%) no-repeat;
+    background: radial-gradient(
+        circle at center,
+        rgba(var(--color4), 0.8) 0,
+        rgba(var(--color4), 0) 50%
+      )
+      no-repeat;
     mix-blend-mode: var(--blending);
 
     width: var(--circle-size);
@@ -230,7 +258,12 @@ h1, h2, h3 {
 
   .g5 {
     position: absolute;
-    background: radial-gradient(circle at center, rgba(var(--color5), 0.8) 0, rgba(var(--color5), 0) 50%) no-repeat;
+    background: radial-gradient(
+        circle at center,
+        rgba(var(--color5), 0.8) 0,
+        rgba(var(--color5), 0) 50%
+      )
+      no-repeat;
     mix-blend-mode: var(--blending);
 
     width: calc(var(--circle-size) * 2);
@@ -246,7 +279,12 @@ h1, h2, h3 {
 
   .interactive {
     position: absolute;
-    background: radial-gradient(circle at center, rgba(var(--color-interactive), 0.8) 0, rgba(var(--color-interactive), 0) 50%) no-repeat;
+    background: radial-gradient(
+        circle at center,
+        rgba(var(--color-interactive), 0.8) 0,
+        rgba(var(--color-interactive), 0) 50%
+      )
+      no-repeat;
     mix-blend-mode: var(--blending);
 
     width: 100%;
@@ -257,4 +295,4 @@ h1, h2, h3 {
     opacity: 0.7;
   }
 }
-    </style>
+</style>

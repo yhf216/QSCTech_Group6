@@ -1,9 +1,7 @@
-<template>
-
-</template>
+<template></template>
 <script setup>
-import {initAPIHooks} from "@/utils/APIHelper"
-import {useMessage, useNotification} from "naive-ui"
+import { initAPIHooks } from "@/utils/APIHelper";
+import { useMessage, useNotification } from "naive-ui";
 
-initAPIHooks(useMessage(), useNotification())
+initAPIHooks(useMessage(), useNotification());
 </script>
