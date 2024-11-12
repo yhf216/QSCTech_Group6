@@ -65,6 +65,10 @@
         </n-card>
       </n-collapse-item>
     </n-collapse>
+    <n-divider></n-divider>
+    <v-btn variant="outlined" @click="restart">
+  Try again
+</v-btn>
   </n-card>
 </template>
 <script setup>
@@ -73,6 +77,9 @@ import { CheckOutlined, CloseOutlined } from "@vicons/antd";
 import { ArrowForwardOutline, CheckmarkCircleOutline, CheckmarkOutline, CloseCircleOutline } from "@vicons/ionicons5";
 import { ref,h } from "vue";
 import { useRoute } from "vue-router";
+import { useRouter } from "vue-router";
+
+const router = useRouter();
 
 const route = useRoute();
 
@@ -84,6 +91,11 @@ API.get("/exam/report/" + route.params.id).then((response) => {
   result.value = response;
   duration.value = Math.round((response.endTime - response.startTime) / 1000);
 });
+
+
+const restart = () => {
+  router.push("/exam/start")
+}
 </script>
 
 <style scoped>
