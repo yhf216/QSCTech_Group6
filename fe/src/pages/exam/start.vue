@@ -3,6 +3,12 @@
     style="width: 70%; min-width: 800px; max-width: 100%; margin: auto auto"
     hoverable
   >
+  <n-h1 style="text-align: center; margin-top: 20px">开始答题！</n-h1>
+  <v-select
+  label="题目范围"
+  :items="AnswerOptions"
+  v-model="examRange"
+></v-select>
   <v-number-input
   :reverse="false"
 controlVariant="default"
@@ -26,11 +32,18 @@ const router = useRouter()
 
 const examLength = ref(10)
 
+const examRange = ref("CET4")
+
+const AnswerOptions = [
+"CET4",
+"CET6"
+]
+
 
 function startExam() {
   console.log("start exam")
   API.post("/exam/start", {
-    examRange:"CET4",
+    examRange: examRange.value,
     examLength:examLength.value
   }).then(response => {
     // console.log(response)

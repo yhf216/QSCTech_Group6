@@ -33,6 +33,7 @@ declare module 'vue' {
     VCard: typeof import('vuetify/components')['VCard']
     VNumberInput: typeof import('vuetify/components')['VNumberInput']
     VProgressLinear: typeof import('vuetify/components')['VProgressLinear']
+    VSelect: typeof import('vuetify/components')['VSelect']
     VSheet: typeof import('vuetify/components')['VSheet']
   }
 }
