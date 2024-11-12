@@ -77,18 +77,6 @@ document.addEventListener('DOMContentLoaded', () => {
 }
 
 
-* {
-  margin:0;
-  padding:0;
-  outline:none;
-  list-style:none;
-  text-decoration:none;
-  box-sizing:border-box;
-  color:#FFF;
-  background: transparent;
-  border:none;
-}
-
 html, body {
   font-family: 'Dongle', sans-serif;
   margin: 0;

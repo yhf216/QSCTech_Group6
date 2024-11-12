@@ -1,5 +1,5 @@
 <template>
-    <n-spin :show="loading">
+    <n-spin :show="loading" style="margin: auto auto">
         <template #loading>
             <p>Uploading Data.</p>
         </template>
