@@ -8,7 +8,7 @@
     hoverable
   >
     <n-h1 prefix="bar">{{ currentQues.question }}</n-h1>
-
+<div style="display: flex; justify-content: space-between; margin-bottom: 10px;    align-items: center;">
     <v-progress-linear
       color="light-blue"
       height="10"
@@ -16,13 +16,14 @@
       striped
     >
     </v-progress-linear>
-    <n-p>{{ currentSelected + 1 }} / {{ examQuestions.length }}</n-p>
+    <n-p style="width: 90px;margin: auto 0; text-align: center;">{{ currentSelected + 1 }} / {{ examQuestions.length }}</n-p>
+  </div>
 
-    <n-space vertical>
+    <n-space vertical style="letter-spacing: 0cap !important;">
       <v-btn
         class="text-none"
         outlined
-        variant="text"
+        variant="outlined"
         v-for="option in currentQues.options"
         :key="option.id"
         @click="updateSelected(option.id)"

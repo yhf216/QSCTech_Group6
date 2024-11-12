@@ -75,7 +75,7 @@ export default (app, db) => {
          res.json({code: 400,  message: 'Invalid exam id' });
          return;
       }
-      const { answerArray } = exam;
+      const { answerArray,questionArray } = exam;
       const score = answers.reduce((acc, curr) => {
          const correctAnswer = answerArray.find(ans => ans.id === curr.id).answer;
          return acc + (curr.answer === correctAnswer ? 1 : 0);
@@ -86,8 +86,13 @@ export default (app, db) => {
          id: reportId,
          examId,
          score,
-         answers,
-         exam,
+         wrongAnswers: answers.filter(ans => ans.answer !== answerArray.find(ans => ans.id === ans.id).answer).map(ans => ({           
+            question: questionArray.find(q => q.id === ans.id),
+            answer: answerArray.find(a => a.id === ans.id).answer,
+            userAnswer: ans.answer,
+         })),
+         totalScore: answerArray.length,  
+         startTime: exam.startTime,
          endTime: new Date().getTime(),
       });
 

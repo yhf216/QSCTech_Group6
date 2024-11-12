@@ -1,16 +1,20 @@
 <template>
-  <n-card> </n-card>
+  <n-card
+    style="width: 70%; min-width: 800px; max-width: 100%; margin: auto auto"
+    hoverable
+  >
   <v-number-input
   :reverse="false"
-  controlVariant="default"
-  label=""
+controlVariant="default"
+  label="题目数量"
   :hideInput="false"
   :inset="false" v-model="examLength"
-  variant="outlined"
+  variant="filled"
 ></v-number-input>
   <v-btn variant="outlined" @click="startExam">
   Start Exam
 </v-btn>
+</n-card>
 </template>
 <script setup>
 import { ref,watch  } from "vue"  ;
