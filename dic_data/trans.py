@@ -1,8 +1,8 @@
 import json
 import os
 # 本文件由AI生成，用于本地提取json中需要的字段
-source_folder = 'D:\\Code\\QSCTech_Group6\\dic_data\\original_data\\CET6' #根据需要调整
-output_file = 'CET6.json'
+source_folder = 'D:\\Code\\QSCTech_Group6\\dic_data\\original_data\\CET4' #根据需要调整
+output_file = 'CET4.json'
 
 extracted_data = []
 
@@ -16,22 +16,23 @@ for filename in os.listdir(source_folder):
                 try:
                     # 尝试将每一行解析为 JSON 对象
                     data = json.loads(line)
-                    
-                    # 提取需要的字段
-                    extracted_item = {
-                        'id': data.get('wordRank'),
-                        'word': data.get('headWord'),
-                        'trans': []
-                    }
-
                     trans_list = data.get('content', {}).get('word', {}).get('content', {}).get('trans', [])
-                    for trans in trans_list:
-                        extracted_item['trans'].append({
-                            'tranCn': trans.get('tranCn'),
-                            'pos': trans.get('pos'),
-                            'tranEn': trans.get('tranOther')
-                        })
-                    extracted_data.append(extracted_item)
+                    if all('tranOther' in trans for trans in trans_list):
+                    # 提取需要的字段
+                        extracted_item = {
+                            'id': data.get('wordRank'),
+                            'word': data.get('headWord'),
+                            'trans': []
+                        }
+                    
+                        for trans in trans_list:
+                            extracted_item['trans'].append({
+                                'tranCn': trans.get('tranCn'),
+                                'pos': trans.get('pos'),
+                               'tranEn': trans.get('tranOther')
+                           })
+                    
+                        extracted_data.append(extracted_item)
                 except json.JSONDecodeError as e:
                     print(f"Error decoding JSON in file {filename}: {e}")
 

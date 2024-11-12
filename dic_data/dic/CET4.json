@@ -1,16 +1,5 @@
 [
     {
-        "id": 1,
-        "word": "abruptly",
-        "trans": [
-            {
-                "tranCn": "突然地",
-                "pos": "adv",
-                "tranEn": null
-            }
-        ]
-    },
-    {
         "id": 2,
         "word": "absorb",
         "trans": [
@@ -346,17 +335,6 @@
         ]
     },
     {
-        "id": 32,
-        "word": "advocator",
-        "trans": [
-            {
-                "tranCn": "主张者，倡导者",
-                "pos": "n",
-                "tranEn": null
-            }
-        ]
-    },
-    {
         "id": 33,
         "word": "affectionate",
         "trans": [
@@ -364,17 +342,6 @@
                 "tranCn": "深情的，柔情的",
                 "pos": "adj",
                 "tranEn": "showing in a gentle way that you love someone and care about them"
-            }
-        ]
-    },
-    {
-        "id": 34,
-        "word": "affirmation",
-        "trans": [
-            {
-                "tranCn": "断言，肯定",
-                "pos": "n",
-                "tranEn": null
             }
         ]
     },
@@ -494,17 +461,6 @@
         ]
     },
     {
-        "id": 45,
-        "word": "analyze",
-        "trans": [
-            {
-                "tranCn": "分析",
-                "pos": "v",
-                "tranEn": null
-            }
-        ]
-    },
-    {
         "id": 46,
         "word": "ancient",
         "trans": [
@@ -534,17 +490,6 @@
                 "tranCn": "每年的",
                 "pos": "adj",
                 "tranEn": "happening once a year"
-            }
-        ]
-    },
-    {
-        "id": 49,
-        "word": "annually",
-        "trans": [
-            {
-                "tranCn": "每年，一年一次",
-                "pos": "adv",
-                "tranEn": null
             }
         ]
     },
@@ -730,17 +675,6 @@
         ]
     },
     {
-        "id": 66,
-        "word": "approximately",
-        "trans": [
-            {
-                "tranCn": "大约",
-                "pos": "adv",
-                "tranEn": null
-            }
-        ]
-    },
-    {
         "id": 67,
         "word": "architect",
         "trans": [
@@ -759,17 +693,6 @@
                 "tranCn": "档案文件",
                 "pos": "n",
                 "tranEn": "a place where a large number of historical records are stored, or the records that are stored"
-            }
-        ]
-    },
-    {
-        "id": 69,
-        "word": "arrange",
-        "trans": [
-            {
-                "tranCn": "把…（系统地）分类",
-                "pos": "v",
-                "tranEn": null
             }
         ]
     },
@@ -939,17 +862,6 @@
         ]
     },
     {
-        "id": 85,
-        "word": "avail",
-        "trans": [
-            {
-                "tranCn": "有益, 有帮助",
-                "pos": "v",
-                "tranEn": null
-            }
-        ]
-    },
-    {
         "id": 86,
         "word": "average",
         "trans": [
@@ -1061,17 +973,6 @@
                 "tranCn": "破产的，倒闭的",
                 "pos": "adj",
                 "tranEn": "without enough money to pay what you owe"
-            }
-        ]
-    },
-    {
-        "id": 96,
-        "word": "bargain",
-        "trans": [
-            {
-                "tranCn": "讨价还价",
-                "pos": "n",
-                "tranEn": null
             }
         ]
     },
@@ -1313,17 +1214,6 @@
                 "tranCn": "能干的，有能力的",
                 "pos": "adj",
                 "tranEn": "having the qualities or ability needed to do something"
-            }
-        ]
-    },
-    {
-        "id": 118,
-        "word": "caregiver",
-        "trans": [
-            {
-                "tranCn": "照料者",
-                "pos": "n",
-                "tranEn": null
             }
         ]
     },
@@ -2053,17 +1943,6 @@
         ]
     },
     {
-        "id": 184,
-        "word": "consist",
-        "trans": [
-            {
-                "tranCn": "由……组成",
-                "pos": "v",
-                "tranEn": null
-            }
-        ]
-    },
-    {
         "id": 185,
         "word": "consistent",
         "trans": [
@@ -2575,17 +2454,6 @@
         ]
     },
     {
-        "id": 231,
-        "word": "delightful",
-        "trans": [
-            {
-                "tranCn": "高兴的",
-                "pos": "adj",
-                "tranEn": null
-            }
-        ]
-    },
-    {
         "id": 232,
         "word": "deliver",
         "trans": [
@@ -2802,28 +2670,6 @@
                 "tranCn": "决定；下决心",
                 "pos": "v",
                 "tranEn": "if something determines something else, it directly influences or decides it"
-            }
-        ]
-    },
-    {
-        "id": 252,
-        "word": "determination",
-        "trans": [
-            {
-                "tranCn": "意志",
-                "pos": "n",
-                "tranEn": null
-            }
-        ]
-    },
-    {
-        "id": 253,
-        "word": "device",
-        "trans": [
-            {
-                "tranCn": "装置，设备",
-                "pos": "n",
-                "tranEn": null
             }
         ]
     },
@@ -3136,17 +2982,6 @@
         ]
     },
     {
-        "id": 282,
-        "word": "domination",
-        "trans": [
-            {
-                "tranCn": "主导",
-                "pos": "n",
-                "tranEn": null
-            }
-        ]
-    },
-    {
         "id": 283,
         "word": "donation",
         "trans": [
@@ -3180,17 +3015,6 @@
         ]
     },
     {
-        "id": 286,
-        "word": "downfall",
-        "trans": [
-            {
-                "tranCn": "（雨等的）大下特下",
-                "pos": "n",
-                "tranEn": null
-            }
-        ]
-    },
-    {
         "id": 287,
         "word": "download",
         "trans": [
@@ -3198,17 +3022,6 @@
                 "tranCn": "下载",
                 "pos": "v",
                 "tranEn": "to move information or programs from a computer network to a small computer"
-            }
-        ]
-    },
-    {
-        "id": 288,
-        "word": "dramatically",
-        "trans": [
-            {
-                "tranCn": "戏剧性地，引人注目地",
-                "pos": "adv",
-                "tranEn": null
             }
         ]
     },
@@ -3268,17 +3081,6 @@
         ]
     },
     {
-        "id": 294,
-        "word": "easygoing",
-        "trans": [
-            {
-                "tranCn": "脾气随和的，温和的",
-                "pos": "adj",
-                "tranEn": null
-            }
-        ]
-    },
-    {
         "id": 295,
         "word": "effect",
         "trans": [
@@ -3286,17 +3088,6 @@
                 "tranCn": "影响",
                 "pos": "n",
                 "tranEn": "a change that is caused by an event, action etc"
-            }
-        ]
-    },
-    {
-        "id": 296,
-        "word": "efficiently",
-        "trans": [
-            {
-                "tranCn": "有效地",
-                "pos": "adj",
-                "tranEn": null
             }
         ]
     },
@@ -3495,28 +3286,6 @@
                 "tranCn": "丰富；使富有",
                 "pos": "v",
                 "tranEn": "to improve the quality of something, especially by adding things to it"
-            }
-        ]
-    },
-    {
-        "id": 315,
-        "word": "enroll",
-        "trans": [
-            {
-                "tranCn": "注册",
-                "pos": "v",
-                "tranEn": null
-            }
-        ]
-    },
-    {
-        "id": 316,
-        "word": "enrollment",
-        "trans": [
-            {
-                "tranCn": "入学人数",
-                "pos": "n",
-                "tranEn": null
             }
         ]
     },
@@ -3840,17 +3609,6 @@
         ]
     },
     {
-        "id": 346,
-        "word": "expressiveness",
-        "trans": [
-            {
-                "tranCn": "表达",
-                "pos": "n",
-                "tranEn": null
-            }
-        ]
-    },
-    {
         "id": 347,
         "word": "extension",
         "trans": [
@@ -3972,17 +3730,6 @@
         ]
     },
     {
-        "id": 358,
-        "word": "favorable",
-        "trans": [
-            {
-                "tranCn": "赞同的",
-                "pos": "adj",
-                "tranEn": null
-            }
-        ]
-    },
-    {
         "id": 359,
         "word": "feasible",
         "trans": [
@@ -4061,17 +3808,6 @@
                 "tranCn": "筹集资金",
                 "pos": "v",
                 "tranEn": "to provide money, especially a lot of money, to pay for something"
-            }
-        ]
-    },
-    {
-        "id": 366,
-        "word": "fine",
-        "trans": [
-            {
-                "tranCn": "罚款",
-                "pos": "v",
-                "tranEn": null
             }
         ]
     },
@@ -4235,22 +3971,6 @@
         ]
     },
     {
-        "id": 381,
-        "word": "gear",
-        "trans": [
-            {
-                "tranCn": "齿轮",
-                "pos": "n",
-                "tranEn": null
-            },
-            {
-                "tranCn": "使合适",
-                "pos": "v",
-                "tranEn": "to be organized in a way that is suitable for a particular purpose or situation"
-            }
-        ]
-    },
-    {
         "id": 382,
         "word": "gender",
         "trans": [
@@ -4258,17 +3978,6 @@
                 "tranCn": "性别",
                 "pos": "n",
                 "tranEn": "the fact of being male or female"
-            }
-        ]
-    },
-    {
-        "id": 383,
-        "word": "generalization",
-        "trans": [
-            {
-                "tranCn": "一般化",
-                "pos": "n",
-                "tranEn": null
             }
         ]
     },
@@ -4350,17 +4059,6 @@
         ]
     },
     {
-        "id": 391,
-        "word": "grab",
-        "trans": [
-            {
-                "tranCn": "抢先，抢占，抢夺",
-                "pos": "v",
-                "tranEn": null
-            }
-        ]
-    },
-    {
         "id": 392,
         "word": "grocery",
         "trans": [
@@ -4368,17 +4066,6 @@
                 "tranCn": "杂货店",
                 "pos": "n",
                 "tranEn": "food and other goods that are sold by a grocer or a supermarket"
-            }
-        ]
-    },
-    {
-        "id": 393,
-        "word": "groundlessly",
-        "trans": [
-            {
-                "tranCn": "无缘无故地，无根据地",
-                "pos": "adv",
-                "tranEn": null
             }
         ]
     },
@@ -4434,17 +4121,6 @@
                 "tranCn": "控制，处理",
                 "pos": "v",
                 "tranEn": "to do the things that are necessary to complete a job"
-            }
-        ]
-    },
-    {
-        "id": 399,
-        "word": "hardworking",
-        "trans": [
-            {
-                "tranCn": "苦干的，不辞辛劳的",
-                "pos": "adj",
-                "tranEn": null
             }
         ]
     },
@@ -4544,28 +4220,6 @@
                 "tranCn": "诚实",
                 "pos": "n",
                 "tranEn": "the quality of being honest"
-            }
-        ]
-    },
-    {
-        "id": 409,
-        "word": "honor",
-        "trans": [
-            {
-                "tranCn": "纪念",
-                "pos": "v",
-                "tranEn": null
-            }
-        ]
-    },
-    {
-        "id": 410,
-        "word": "hospitalize",
-        "trans": [
-            {
-                "tranCn": "就医",
-                "pos": "v",
-                "tranEn": null
             }
         ]
     },
@@ -4735,17 +4389,6 @@
         ]
     },
     {
-        "id": 426,
-        "word": "impermanency",
-        "trans": [
-            {
-                "tranCn": "非永久性",
-                "pos": "n",
-                "tranEn": null
-            }
-        ]
-    },
-    {
         "id": 427,
         "word": "implement",
         "trans": [
@@ -4764,17 +4407,6 @@
                 "tranCn": "意味；暗示",
                 "pos": "v",
                 "tranEn": "to suggest that something is true, without saying this directly"
-            }
-        ]
-    },
-    {
-        "id": 429,
-        "word": "import",
-        "trans": [
-            {
-                "tranCn": "进口",
-                "pos": "n & v",
-                "tranEn": null
             }
         ]
     },
@@ -5098,17 +4730,6 @@
         ]
     },
     {
-        "id": 459,
-        "word": "installment",
-        "trans": [
-            {
-                "tranCn": "安装，分期付款",
-                "pos": "n",
-                "tranEn": null
-            }
-        ]
-    },
-    {
         "id": 460,
         "word": "instant",
         "trans": [
@@ -5215,17 +4836,6 @@
                 "tranCn": "智能的",
                 "pos": "adj",
                 "tranEn": "an intelligent person has a high level of mental ability and is good at understanding ideas and thinking clearly"
-            }
-        ]
-    },
-    {
-        "id": 470,
-        "word": "intend",
-        "trans": [
-            {
-                "tranCn": "打算",
-                "pos": "v",
-                "tranEn": null
             }
         ]
     },
@@ -5345,17 +4955,6 @@
         ]
     },
     {
-        "id": 481,
-        "word": "irrationally",
-        "trans": [
-            {
-                "tranCn": "不合理地，无理性地",
-                "pos": "adv",
-                "tranEn": null
-            }
-        ]
-    },
-    {
         "id": 482,
         "word": "irritate",
         "trans": [
@@ -5401,17 +5000,6 @@
                 "tranCn": "联合的",
                 "pos": "adj",
                 "tranEn": "involving two or more people or groups, or owned or shared by them"
-            }
-        ]
-    },
-    {
-        "id": 486,
-        "word": "keenly",
-        "trans": [
-            {
-                "tranCn": "敏锐地",
-                "pos": "adv",
-                "tranEn": null
             }
         ]
     },
@@ -5493,17 +5081,6 @@
         ]
     },
     {
-        "id": 494,
-        "word": "loan",
-        "trans": [
-            {
-                "tranCn": "贷款",
-                "pos": "n",
-                "tranEn": null
-            }
-        ]
-    },
-    {
         "id": 495,
         "word": "locate",
         "trans": [
@@ -5570,22 +5147,6 @@
         ]
     },
     {
-        "id": 501,
-        "word": "major",
-        "trans": [
-            {
-                "tranCn": "主要的",
-                "pos": "adj",
-                "tranEn": "very large or important, when compared to other things or people of a similar kind"
-            },
-            {
-                "tranCn": "主修",
-                "pos": "v",
-                "tranEn": null
-            }
-        ]
-    },
-    {
         "id": 502,
         "word": "majority",
         "trans": [
@@ -5637,17 +5198,6 @@
                 "tranCn": "边缘，范围",
                 "pos": "n",
                 "tranEn": "the edge of something, especially an area of land or water"
-            }
-        ]
-    },
-    {
-        "id": 507,
-        "word": "marvelous",
-        "trans": [
-            {
-                "tranCn": "引起惊异的",
-                "pos": "adj",
-                "tranEn": null
             }
         ]
     },
@@ -5783,17 +5333,6 @@
         ]
     },
     {
-        "id": 519,
-        "word": "mineral",
-        "trans": [
-            {
-                "tranCn": "矿物的，似矿物的",
-                "pos": "adj",
-                "tranEn": null
-            }
-        ]
-    },
-    {
         "id": 520,
         "word": "miscalculation",
         "trans": [
@@ -5882,17 +5421,6 @@
         ]
     },
     {
-        "id": 528,
-        "word": "motivation",
-        "trans": [
-            {
-                "tranCn": "激励，刺激",
-                "pos": "n",
-                "tranEn": null
-            }
-        ]
-    },
-    {
         "id": 529,
         "word": "mutual",
         "trans": [
@@ -5900,17 +5428,6 @@
                 "tranCn": "相互的",
                 "pos": "adj",
                 "tranEn": "mutual feelings such as respect, trust, or hatred are feelings that two or more people have for each other"
-            }
-        ]
-    },
-    {
-        "id": 530,
-        "word": "narrow",
-        "trans": [
-            {
-                "tranCn": "限制",
-                "pos": "v",
-                "tranEn": null
             }
         ]
     },
@@ -5944,17 +5461,6 @@
                 "tranCn": "谈判，协商，交涉",
                 "pos": "v",
                 "tranEn": "to discuss something in order to reach an agreement, especially in business or politics"
-            }
-        ]
-    },
-    {
-        "id": 534,
-        "word": "neighborhood",
-        "trans": [
-            {
-                "tranCn": "地区",
-                "pos": "n",
-                "tranEn": null
             }
         ]
     },
@@ -6113,28 +5619,6 @@
         ]
     },
     {
-        "id": 549,
-        "word": "overweight",
-        "trans": [
-            {
-                "tranCn": "超重的",
-                "pos": "v",
-                "tranEn": null
-            }
-        ]
-    },
-    {
-        "id": 550,
-        "word": "overwhelm",
-        "trans": [
-            {
-                "tranCn": "压倒，战胜",
-                "pos": "v",
-                "tranEn": null
-            }
-        ]
-    },
-    {
         "id": 551,
         "word": "painful",
         "trans": [
@@ -6197,17 +5681,6 @@
                 "tranCn": "被动的",
                 "pos": "adj",
                 "tranEn": "someone who is passive tends to accept things that happen to them or things that people say to them, without taking any action"
-            }
-        ]
-    },
-    {
-        "id": 557,
-        "word": "patiently",
-        "trans": [
-            {
-                "tranCn": "耐心地",
-                "pos": "adv",
-                "tranEn": null
             }
         ]
     },
@@ -6596,22 +6069,6 @@
         ]
     },
     {
-        "id": 592,
-        "word": "previous",
-        "trans": [
-            {
-                "tranCn": "之前的",
-                "pos": "adj",
-                "tranEn": "A previous event or thing is one that happened or existed before the one that you are talking about"
-            },
-            {
-                "tranCn": "先前地",
-                "pos": "adv",
-                "tranEn": null
-            }
-        ]
-    },
-    {
         "id": 593,
         "word": "previously",
         "trans": [
@@ -6727,22 +6184,6 @@
         ]
     },
     {
-        "id": 603,
-        "word": "programming",
-        "trans": [
-            {
-                "tranCn": "计划，节目(单)，程序；",
-                "pos": "n",
-                "tranEn": "the activity of writing programs for computers, or something written by a programmer"
-            },
-            {
-                "tranCn": "编程",
-                "pos": "vt",
-                "tranEn": null
-            }
-        ]
-    },
-    {
         "id": 604,
         "word": "prohibit",
         "trans": [
@@ -6794,17 +6235,6 @@
                 "tranCn": "促进，提升，推销",
                 "pos": "v",
                 "tranEn": "If people promote something, they help or encourage it to happen, increase, or spread"
-            }
-        ]
-    },
-    {
-        "id": 609,
-        "word": "prompt",
-        "trans": [
-            {
-                "tranCn": "敏捷的；v. 敦促",
-                "pos": "adj",
-                "tranEn": null
             }
         ]
     },
@@ -6926,17 +6356,6 @@
                 "tranCn": "量，数量",
                 "pos": "n",
                 "tranEn": "an amount of something that can be counted or measured"
-            }
-        ]
-    },
-    {
-        "id": 621,
-        "word": "quit",
-        "trans": [
-            {
-                "tranCn": "放弃",
-                "pos": "v",
-                "tranEn": null
             }
         ]
     },
@@ -7302,17 +6721,6 @@
         ]
     },
     {
-        "id": 653,
-        "word": "repave",
-        "trans": [
-            {
-                "tranCn": "再铺，重新铺砌",
-                "pos": "v",
-                "tranEn": null
-            }
-        ]
-    },
-    {
         "id": 654,
         "word": "replace",
         "trans": [
@@ -7397,17 +6805,6 @@
                 "tranCn": "预定",
                 "pos": "n",
                 "tranEn": "an arrangement which you make so that a place in a hotel, restaurant, plane etc is kept for you at a particular time in the future"
-            }
-        ]
-    },
-    {
-        "id": 662,
-        "word": "resident",
-        "trans": [
-            {
-                "tranCn": "居民",
-                "pos": "n",
-                "tranEn": null
             }
         ]
     },
@@ -8334,17 +7731,6 @@
         ]
     },
     {
-        "id": 745,
-        "word": "sustain",
-        "trans": [
-            {
-                "tranCn": "维持",
-                "pos": "n",
-                "tranEn": null
-            }
-        ]
-    },
-    {
         "id": 746,
         "word": "sustainable",
         "trans": [
@@ -8488,17 +7874,6 @@
         ]
     },
     {
-        "id": 759,
-        "word": "tedious",
-        "trans": [
-            {
-                "tranCn": "单调沉闷的",
-                "pos": "adj",
-                "tranEn": null
-            }
-        ]
-    },
-    {
         "id": 760,
         "word": "temptation",
         "trans": [
@@ -8572,17 +7947,6 @@
                 "tranCn": "顺应潮水航行",
                 "pos": "n & v",
                 "tranEn": "a current of water caused by the tide"
-            }
-        ]
-    },
-    {
-        "id": 767,
-        "word": "tighten",
-        "trans": [
-            {
-                "tranCn": "紧的，紧缩的",
-                "pos": "adj",
-                "tranEn": null
             }
         ]
     },
@@ -8719,17 +8083,6 @@
         ]
     },
     {
-        "id": 780,
-        "word": "tumor",
-        "trans": [
-            {
-                "tranCn": "瘤",
-                "pos": "n",
-                "tranEn": null
-            }
-        ]
-    },
-    {
         "id": 781,
         "word": "ultimately",
         "trans": [
@@ -8737,17 +8090,6 @@
                 "tranCn": "最后，最终",
                 "pos": "adv",
                 "tranEn": "finally, after everything else has been done or considered"
-            }
-        ]
-    },
-    {
-        "id": 782,
-        "word": "unaffordable",
-        "trans": [
-            {
-                "tranCn": "买不起的，负担不起的",
-                "pos": "adj",
-                "tranEn": null
             }
         ]
     },
@@ -9098,17 +8440,6 @@
         ]
     },
     {
-        "id": 814,
-        "word": "lap",
-        "trans": [
-            {
-                "tranCn": "膝盖",
-                "pos": "n",
-                "tranEn": null
-            }
-        ]
-    },
-    {
         "id": 815,
         "word": "sideways",
         "trans": [
@@ -9127,17 +8458,6 @@
                 "tranCn": "咽下，吞下",
                 "pos": "v",
                 "tranEn": "to make food or drink go down your throat and towards your stomach"
-            }
-        ]
-    },
-    {
-        "id": 817,
-        "word": "durability",
-        "trans": [
-            {
-                "tranCn": "持久",
-                "pos": "n",
-                "tranEn": null
             }
         ]
     },
@@ -9230,17 +8550,6 @@
         ]
     },
     {
-        "id": 826,
-        "word": "overcharge",
-        "trans": [
-            {
-                "tranCn": "向……多收费",
-                "pos": "v",
-                "tranEn": null
-            }
-        ]
-    },
-    {
         "id": 827,
         "word": "grid",
         "trans": [
@@ -9325,17 +8634,6 @@
                 "tranCn": "使用，公共设施",
                 "pos": "n",
                 "tranEn": "a service such as gas or electricity provided for people to use"
-            }
-        ]
-    },
-    {
-        "id": 835,
-        "word": "prohibitively",
-        "trans": [
-            {
-                "tranCn": "过分地，非常地",
-                "pos": "adv",
-                "tranEn": null
             }
         ]
     },
@@ -9670,17 +8968,6 @@
         ]
     },
     {
-        "id": 866,
-        "word": "radically",
-        "trans": [
-            {
-                "tranCn": "完全地，彻底地",
-                "pos": "adv",
-                "tranEn": null
-            }
-        ]
-    },
-    {
         "id": 867,
         "word": "voluntary",
         "trans": [
@@ -9688,28 +8975,6 @@
                 "tranCn": "自愿的，主动的",
                 "pos": "adj",
                 "tranEn": "done willingly and without being forced"
-            }
-        ]
-    },
-    {
-        "id": 868,
-        "word": "independently",
-        "trans": [
-            {
-                "tranCn": "独立地",
-                "pos": "adv",
-                "tranEn": null
-            }
-        ]
-    },
-    {
-        "id": 869,
-        "word": "favor",
-        "trans": [
-            {
-                "tranCn": "偏好, 赞同",
-                "pos": "v",
-                "tranEn": null
             }
         ]
     },
@@ -9813,17 +9078,6 @@
         ]
     },
     {
-        "id": 879,
-        "word": "awful",
-        "trans": [
-            {
-                "tranCn": "可怕的，骇人的",
-                "pos": "adj",
-                "tranEn": null
-            }
-        ]
-    },
-    {
         "id": 880,
         "word": "chat",
         "trans": [
@@ -9897,17 +9151,6 @@
                 "tranCn": "严格的",
                 "pos": "adj",
                 "tranEn": "careful, thorough, and exact"
-            }
-        ]
-    },
-    {
-        "id": 887,
-        "word": "counseling",
-        "trans": [
-            {
-                "tranCn": "咨询服务",
-                "pos": "n",
-                "tranEn": null
             }
         ]
     },
@@ -10066,17 +9309,6 @@
         ]
     },
     {
-        "id": 902,
-        "word": "reframe",
-        "trans": [
-            {
-                "tranCn": "重新装裱",
-                "pos": "v",
-                "tranEn": null
-            }
-        ]
-    },
-    {
         "id": 903,
         "word": "inquiry",
         "trans": [
@@ -10117,17 +9349,6 @@
                 "tranCn": "场合",
                 "pos": "n",
                 "tranEn": "An occasion is a time when something happens, or a case of it happening"
-            }
-        ]
-    },
-    {
-        "id": 907,
-        "word": "extensively",
-        "trans": [
-            {
-                "tranCn": "广泛地",
-                "pos": "adv",
-                "tranEn": null
             }
         ]
     },
@@ -10561,17 +9782,6 @@
         ]
     },
     {
-        "id": 947,
-        "word": "interruption",
-        "trans": [
-            {
-                "tranCn": "打扰，中断",
-                "pos": "n",
-                "tranEn": null
-            }
-        ]
-    },
-    {
         "id": 948,
         "word": "prescription",
         "trans": [
@@ -10605,17 +9815,6 @@
         ]
     },
     {
-        "id": 951,
-        "word": "undoubtedly",
-        "trans": [
-            {
-                "tranCn": "无疑",
-                "pos": "adv",
-                "tranEn": null
-            }
-        ]
-    },
-    {
         "id": 952,
         "word": "distinctive",
         "trans": [
@@ -10645,17 +9844,6 @@
                 "tranCn": "使具有权利，使具有资格",
                 "pos": "v",
                 "tranEn": "to give someone the official right to do or have something"
-            }
-        ]
-    },
-    {
-        "id": 955,
-        "word": "fussy",
-        "trans": [
-            {
-                "tranCn": "大惊小怪的，小题大做的",
-                "pos": "adj",
-                "tranEn": null
             }
         ]
     },
@@ -10775,17 +9963,6 @@
         ]
     },
     {
-        "id": 966,
-        "word": "geographic",
-        "trans": [
-            {
-                "tranCn": "地理的",
-                "pos": "adj",
-                "tranEn": null
-            }
-        ]
-    },
-    {
         "id": 967,
         "word": "diplomatic",
         "trans": [
@@ -10797,17 +9974,6 @@
         ]
     },
     {
-        "id": 968,
-        "word": "judgement",
-        "trans": [
-            {
-                "tranCn": "判断，决定",
-                "pos": "n",
-                "tranEn": null
-            }
-        ]
-    },
-    {
         "id": 969,
         "word": "private",
         "trans": [
@@ -10815,17 +9981,6 @@
                 "tranCn": "私人的",
                 "pos": "adj",
                 "tranEn": "for use by one person or group, not for everyone"
-            }
-        ]
-    },
-    {
-        "id": 970,
-        "word": "cozy",
-        "trans": [
-            {
-                "tranCn": "舒适的",
-                "pos": "adj",
-                "tranEn": null
             }
         ]
     },
@@ -10892,17 +10047,6 @@
                 "tranCn": "有趣的，好玩儿的",
                 "pos": "adj",
                 "tranEn": "funny and entertaining"
-            }
-        ]
-    },
-    {
-        "id": 977,
-        "word": "panic",
-        "trans": [
-            {
-                "tranCn": "恐慌的",
-                "pos": "adj",
-                "tranEn": null
             }
         ]
     },
@@ -11149,17 +10293,6 @@
         ]
     },
     {
-        "id": 1000,
-        "word": "liberation",
-        "trans": [
-            {
-                "tranCn": "解放",
-                "pos": "n",
-                "tranEn": null
-            }
-        ]
-    },
-    {
         "id": 1001,
         "word": "option",
         "trans": [
@@ -11358,17 +10491,6 @@
         ]
     },
     {
-        "id": 1019,
-        "word": "racially",
-        "trans": [
-            {
-                "tranCn": "种族上地",
-                "pos": "adv",
-                "tranEn": null
-            }
-        ]
-    },
-    {
         "id": 1020,
         "word": "disappointing",
         "trans": [
@@ -11468,17 +10590,6 @@
         ]
     },
     {
-        "id": 1029,
-        "word": "distress",
-        "trans": [
-            {
-                "tranCn": "使痛苦，悲痛",
-                "pos": "v",
-                "tranEn": null
-            }
-        ]
-    },
-    {
         "id": 1030,
         "word": "discourage",
         "trans": [
@@ -11486,17 +10597,6 @@
                 "tranCn": "使气馁, 阻碍",
                 "pos": "v",
                 "tranEn": "If someone or something discourages you, they cause you to lose your enthusiasm about your actions"
-            }
-        ]
-    },
-    {
-        "id": 1031,
-        "word": "prosper",
-        "trans": [
-            {
-                "tranCn": "繁荣",
-                "pos": "v",
-                "tranEn": null
             }
         ]
     },
@@ -11765,17 +10865,6 @@
         ]
     },
     {
-        "id": 1056,
-        "word": "passively",
-        "trans": [
-            {
-                "tranCn": "消极地",
-                "pos": "adv",
-                "tranEn": null
-            }
-        ]
-    },
-    {
         "id": 1057,
         "word": "outcome",
         "trans": [
@@ -11849,17 +10938,6 @@
                 "tranCn": "地位",
                 "pos": "n",
                 "tranEn": "the official legal position or condition of a person, group, country etc"
-            }
-        ]
-    },
-    {
-        "id": 1064,
-        "word": "preferentially",
-        "trans": [
-            {
-                "tranCn": "优先地",
-                "pos": "adv",
-                "tranEn": null
             }
         ]
     },
@@ -12139,17 +11217,6 @@
         ]
     },
     {
-        "id": 1090,
-        "word": "offense",
-        "trans": [
-            {
-                "tranCn": "过错，犯罪",
-                "pos": "n",
-                "tranEn": null
-            }
-        ]
-    },
-    {
         "id": 1091,
         "word": "convict",
         "trans": [
@@ -12212,17 +11279,6 @@
                 "tranCn": "惩罚",
                 "pos": "n",
                 "tranEn": "a punishment for breaking a law, rule, or legal agreement"
-            }
-        ]
-    },
-    {
-        "id": 1097,
-        "word": "logically",
-        "trans": [
-            {
-                "tranCn": "合乎情理地，符合逻辑地",
-                "pos": "adv",
-                "tranEn": null
             }
         ]
     },
@@ -12403,17 +11459,6 @@
         ]
     },
     {
-        "id": 1114,
-        "word": "startup",
-        "trans": [
-            {
-                "tranCn": "启动，开办",
-                "pos": "n",
-                "tranEn": null
-            }
-        ]
-    },
-    {
         "id": 1115,
         "word": "reproduce",
         "trans": [
@@ -12465,17 +11510,6 @@
                 "tranCn": "对手",
                 "pos": "n",
                 "tranEn": "someone who you try to defeat in a competition, game, fight, or argument"
-            }
-        ]
-    },
-    {
-        "id": 1120,
-        "word": "explicitly",
-        "trans": [
-            {
-                "tranCn": "直接地，明确地",
-                "pos": "adv",
-                "tranEn": null
             }
         ]
     },
@@ -12678,17 +11712,6 @@
         ]
     },
     {
-        "id": 1139,
-        "word": "code",
-        "trans": [
-            {
-                "tranCn": "代码，密码",
-                "pos": "n",
-                "tranEn": null
-            }
-        ]
-    },
-    {
         "id": 1140,
         "word": "investigate",
         "trans": [
@@ -12887,17 +11910,6 @@
         ]
     },
     {
-        "id": 1158,
-        "word": "implementation",
-        "trans": [
-            {
-                "tranCn": "实现，履行",
-                "pos": "n",
-                "tranEn": null
-            }
-        ]
-    },
-    {
         "id": 1159,
         "word": "weaken",
         "trans": [
@@ -13015,17 +12027,6 @@
                 "tranCn": "关于；在…周围",
                 "pos": "prep",
                 "tranEn": "concerning or relating to a particular subject"
-            }
-        ]
-    },
-    {
-        "id": 8,
-        "word": "above",
-        "trans": [
-            {
-                "tranCn": "在…上面；高于",
-                "pos": "prep",
-                "tranEn": null
             }
         ]
     },
@@ -13238,17 +12239,6 @@
         ]
     },
     {
-        "id": 27,
-        "word": "accessary",
-        "trans": [
-            {
-                "tranCn": "同谋，从犯",
-                "pos": "n",
-                "tranEn": null
-            }
-        ]
-    },
-    {
         "id": 28,
         "word": "accident",
         "trans": [
@@ -13282,17 +12272,6 @@
         ]
     },
     {
-        "id": 31,
-        "word": "accommodation",
-        "trans": [
-            {
-                "tranCn": "招待设备；预定铺位",
-                "pos": "n",
-                "tranEn": null
-            }
-        ]
-    },
-    {
         "id": 32,
         "word": "accompany",
         "trans": [
@@ -13322,17 +12301,6 @@
                 "tranCn": "使一致；给予",
                 "pos": "v",
                 "tranEn": "to give someone or something special attention or a particular type of treatment"
-            }
-        ]
-    },
-    {
-        "id": 35,
-        "word": "accordance",
-        "trans": [
-            {
-                "tranCn": "一致；和谐；授予",
-                "pos": "n",
-                "tranEn": null
             }
         ]
     },
@@ -13508,17 +12476,6 @@
                 "tranCn": "英亩(=607亩)",
                 "pos": "n",
                 "tranEn": "a unit for measuring area, equal to 4,840 square yards or 4,047 square metres"
-            }
-        ]
-    },
-    {
-        "id": 51,
-        "word": "across",
-        "trans": [
-            {
-                "tranCn": "横过；在…对面",
-                "pos": "prep",
-                "tranEn": null
             }
         ]
     },
@@ -13704,22 +12661,6 @@
         ]
     },
     {
-        "id": 68,
-        "word": "adjective",
-        "trans": [
-            {
-                "tranCn": "形容词",
-                "pos": "n",
-                "tranEn": "a word that describes a noun or  pronoun  . In the phrase ‘black hat’, ‘black’ is an adjective and in the sentence ‘It makes her happy’, ‘happy’ is an adjective."
-            },
-            {
-                "tranCn": "形容词的",
-                "pos": "adj",
-                "tranEn": null
-            }
-        ]
-    },
-    {
         "id": 69,
         "word": "adjust",
         "trans": [
@@ -13884,17 +12825,6 @@
         ]
     },
     {
-        "id": 83,
-        "word": "advisable",
-        "trans": [
-            {
-                "tranCn": "明智的；可取的",
-                "pos": "n",
-                "tranEn": null
-            }
-        ]
-    },
-    {
         "id": 84,
         "word": "advise",
         "trans": [
@@ -13968,17 +12898,6 @@
                 "tranCn": "害怕的；担心的",
                 "pos": "adj",
                 "tranEn": "frightened because you think that you may get hurt or that something bad may happen"
-            }
-        ]
-    },
-    {
-        "id": 91,
-        "word": "Africa",
-        "trans": [
-            {
-                "tranCn": "非洲",
-                "pos": "n",
-                "tranEn": null
             }
         ]
     },
@@ -14290,22 +13209,6 @@
         ]
     },
     {
-        "id": 119,
-        "word": "all",
-        "trans": [
-            {
-                "tranCn": "全部的",
-                "pos": "adj",
-                "tranEn": null
-            },
-            {
-                "tranCn": "全部",
-                "pos": "prep",
-                "tranEn": null
-            }
-        ]
-    },
-    {
         "id": 120,
         "word": "allow",
         "trans": [
@@ -14426,17 +13329,6 @@
         ]
     },
     {
-        "id": 130,
-        "word": "alternative",
-        "trans": [
-            {
-                "tranCn": "替换物；取舍，抉择",
-                "pos": "n",
-                "tranEn": null
-            }
-        ]
-    },
-    {
         "id": 131,
         "word": "although",
         "trans": [
@@ -14525,17 +13417,6 @@
         ]
     },
     {
-        "id": 139,
-        "word": "America",
-        "trans": [
-            {
-                "tranCn": "美洲；美国",
-                "pos": "n",
-                "tranEn": null
-            }
-        ]
-    },
-    {
         "id": 140,
         "word": "American",
         "trans": [
@@ -14563,17 +13444,6 @@
         ]
     },
     {
-        "id": 142,
-        "word": "amongst",
-        "trans": [
-            {
-                "tranCn": "在…之中(=among)",
-                "pos": "prep",
-                "tranEn": null
-            }
-        ]
-    },
-    {
         "id": 143,
         "word": "amount",
         "trans": [
@@ -14581,17 +13451,6 @@
                 "tranCn": "总数；数量；和",
                 "pos": "n",
                 "tranEn": "a quantity of something such as time, money, or a substance"
-            }
-        ]
-    },
-    {
-        "id": 144,
-        "word": "ampere",
-        "trans": [
-            {
-                "tranCn": "安培",
-                "pos": "n",
-                "tranEn": null
             }
         ]
     },
@@ -14814,17 +13673,6 @@
         ]
     },
     {
-        "id": 163,
-        "word": "another",
-        "trans": [
-            {
-                "tranCn": "再一个的；别的",
-                "pos": "adj",
-                "tranEn": null
-            }
-        ]
-    },
-    {
         "id": 164,
         "word": "answer",
         "trans": [
@@ -14880,39 +13728,6 @@
         ]
     },
     {
-        "id": 169,
-        "word": "any",
-        "trans": [
-            {
-                "tranCn": "什么，一些；任何的",
-                "pos": "adj",
-                "tranEn": null
-            }
-        ]
-    },
-    {
-        "id": 170,
-        "word": "anybody",
-        "trans": [
-            {
-                "tranCn": "任何人",
-                "pos": "prep",
-                "tranEn": null
-            }
-        ]
-    },
-    {
-        "id": 171,
-        "word": "anyhow",
-        "trans": [
-            {
-                "tranCn": "无论如何",
-                "pos": "adv",
-                "tranEn": null
-            }
-        ]
-    },
-    {
         "id": 172,
         "word": "anyone",
         "trans": [
@@ -14931,17 +13746,6 @@
                 "tranCn": "任何事物；一切",
                 "pos": "pron",
                 "tranEn": "any thing, event, situation etc, when it is not important to say exactly which"
-            }
-        ]
-    },
-    {
-        "id": 174,
-        "word": "anyway",
-        "trans": [
-            {
-                "tranCn": "无论如何",
-                "pos": "adv",
-                "tranEn": null
             }
         ]
     },
@@ -15204,33 +14008,6 @@
         ]
     },
     {
-        "id": 198,
-        "word": "approximate",
-        "trans": [
-            {
-                "tranCn": "近似的",
-                "pos": "adj",
-                "tranEn": null
-            },
-            {
-                "tranCn": "近似",
-                "pos": "v",
-                "tranEn": "to be close to a particular number"
-            }
-        ]
-    },
-    {
-        "id": 199,
-        "word": "approximately",
-        "trans": [
-            {
-                "tranCn": "近似地，大约",
-                "pos": "adv",
-                "tranEn": null
-            }
-        ]
-    },
-    {
         "id": 200,
         "word": "April",
         "trans": [
@@ -15348,17 +14125,6 @@
                 "tranCn": "军队；陆军",
                 "pos": "n",
                 "tranEn": "the part of a country’s military force that is trained to fight on land in a war"
-            }
-        ]
-    },
-    {
-        "id": 211,
-        "word": "around",
-        "trans": [
-            {
-                "tranCn": "在…周围",
-                "pos": "prep",
-                "tranEn": null
             }
         ]
     },
@@ -15524,17 +14290,6 @@
                 "tranCn": "惭愧(的)；羞耻(的)",
                 "pos": "adj",
                 "tranEn": "feeling very sorry and embarrassed because of something you have done"
-            }
-        ]
-    },
-    {
-        "id": 227,
-        "word": "Asia",
-        "trans": [
-            {
-                "tranCn": "亚洲",
-                "pos": "n",
-                "tranEn": null
             }
         ]
     },
@@ -15769,22 +14524,6 @@
         ]
     },
     {
-        "id": 248,
-        "word": "Atlantic",
-        "trans": [
-            {
-                "tranCn": "大西洋的",
-                "pos": "adj",
-                "tranEn": null
-            },
-            {
-                "tranCn": "大西洋",
-                "pos": "n",
-                "tranEn": null
-            }
-        ]
-    },
-    {
         "id": 249,
         "word": "atmosphere",
         "trans": [
@@ -15836,17 +14575,6 @@
                 "tranCn": "缚，系，贴；附加",
                 "pos": "v",
                 "tranEn": "to fasten or connect one object to another"
-            }
-        ]
-    },
-    {
-        "id": 254,
-        "word": "attack",
-        "trans": [
-            {
-                "tranCn": "攻击，进攻",
-                "pos": "vt&vi&n",
-                "tranEn": null
             }
         ]
     },
@@ -16011,17 +14739,6 @@
                 "tranCn": "耳的，听觉的",
                 "pos": "adj",
                 "tranEn": "relating to the sense of hearing, or someone’s ability to understand sounds"
-            }
-        ]
-    },
-    {
-        "id": 269,
-        "word": "Australia",
-        "trans": [
-            {
-                "tranCn": "澳大利亚",
-                "pos": "n",
-                "tranEn": null
             }
         ]
     },
@@ -16256,17 +14973,6 @@
         ]
     },
     {
-        "id": 290,
-        "word": "awfully",
-        "trans": [
-            {
-                "tranCn": "令人畏惧的；很",
-                "pos": "adv",
-                "tranEn": null
-            }
-        ]
-    },
-    {
         "id": 291,
         "word": "awkward",
         "trans": [
@@ -16274,17 +14980,6 @@
                 "tranCn": "笨拙的；尴尬的",
                 "pos": "adj",
                 "tranEn": "making you feel embarrassed so that you are not sure what to do or say"
-            }
-        ]
-    },
-    {
-        "id": 292,
-        "word": "ax",
-        "trans": [
-            {
-                "tranCn": "斧子",
-                "pos": "n",
-                "tranEn": null
             }
         ]
     },
@@ -16548,22 +15243,6 @@
                 "tranCn": "赤裸的；仅仅的",
                 "pos": "adj",
                 "tranEn": "not covered by clothes"
-            }
-        ]
-    },
-    {
-        "id": 316,
-        "word": "bargain",
-        "trans": [
-            {
-                "tranCn": "交易",
-                "pos": "n",
-                "tranEn": "an agreement, made between two people or groups to do something in return for something else"
-            },
-            {
-                "tranCn": "议价；成交",
-                "pos": "v",
-                "tranEn": null
             }
         ]
     },
@@ -17023,17 +15702,6 @@
         ]
     },
     {
-        "id": 357,
-        "word": "behalf",
-        "trans": [
-            {
-                "tranCn": "利益，维护，支持",
-                "pos": "n",
-                "tranEn": null
-            }
-        ]
-    },
-    {
         "id": 358,
         "word": "behave",
         "trans": [
@@ -17041,17 +15709,6 @@
                 "tranCn": "表现，举止；运转",
                 "pos": "v",
                 "tranEn": "to do things that are good, bad, sensible etc"
-            }
-        ]
-    },
-    {
-        "id": 359,
-        "word": "behavior",
-        "trans": [
-            {
-                "tranCn": "行为，举止，态度",
-                "pos": "n",
-                "tranEn": null
             }
         ]
     },
@@ -17138,17 +15795,6 @@
         ]
     },
     {
-        "id": 367,
-        "word": "below",
-        "trans": [
-            {
-                "tranCn": "在…下面(以下)",
-                "pos": "prep",
-                "tranEn": null
-            }
-        ]
-    },
-    {
         "id": 368,
         "word": "belt",
         "trans": [
@@ -17183,17 +15829,6 @@
                 "tranCn": "弯曲",
                 "pos": "v",
                 "tranEn": "to move part of your body so that it is not straight or so that you are not upright"
-            }
-        ]
-    },
-    {
-        "id": 371,
-        "word": "beneath",
-        "trans": [
-            {
-                "tranCn": "在…下方",
-                "pos": "prep",
-                "tranEn": null
             }
         ]
     },
@@ -17298,17 +15933,6 @@
                 "tranCn": "更好地",
                 "pos": "adv",
                 "tranEn": "to a higher standard or quality"
-            }
-        ]
-    },
-    {
-        "id": 381,
-        "word": "between",
-        "trans": [
-            {
-                "tranCn": "在…中间",
-                "pos": "prep",
-                "tranEn": null
             }
         ]
     },
@@ -17972,17 +16596,6 @@
         ]
     },
     {
-        "id": 436,
-        "word": "both",
-        "trans": [
-            {
-                "tranCn": "两者(都)",
-                "pos": "pron",
-                "tranEn": null
-            }
-        ]
-    },
-    {
         "id": 437,
         "word": "bother",
         "trans": [
@@ -18039,17 +16652,6 @@
                 "tranCn": "反跳，弹起；跳起",
                 "pos": "v",
                 "tranEn": "if a ball or other object bounces, or you bounce it, it immediately moves up or away from a surface after hitting it"
-            }
-        ]
-    },
-    {
-        "id": 442,
-        "word": "bound",
-        "trans": [
-            {
-                "tranCn": "一定的；有义务的",
-                "pos": "adj",
-                "tranEn": null
             }
         ]
     },
@@ -18120,22 +16722,6 @@
         ]
     },
     {
-        "id": 449,
-        "word": "brake",
-        "trans": [
-            {
-                "tranCn": "闸，刹车",
-                "pos": "n",
-                "tranEn": "a piece of equipment that makes a vehicle go more slowly or stop"
-            },
-            {
-                "tranCn": "制动",
-                "pos": "v",
-                "tranEn": null
-            }
-        ]
-    },
-    {
         "id": 450,
         "word": "branch",
         "trans": [
@@ -18143,22 +16729,6 @@
                 "tranCn": "树枝；分部；分科",
                 "pos": "n",
                 "tranEn": "a part of a tree that grows out from the  trunk (=  main stem  )  and that has leaves, fruit, or smaller branches growing from it"
-            }
-        ]
-    },
-    {
-        "id": 451,
-        "word": "brand",
-        "trans": [
-            {
-                "tranCn": "商品；烙印",
-                "pos": "n",
-                "tranEn": "a mark made or burned on a farm animal’s skin that shows who it belongs to"
-            },
-            {
-                "tranCn": "铭刻",
-                "pos": "v",
-                "tranEn": null
             }
         ]
     },
@@ -18349,17 +16919,6 @@
         ]
     },
     {
-        "id": 468,
-        "word": "brighten",
-        "trans": [
-            {
-                "tranCn": "使发光；使快活",
-                "pos": "v",
-                "tranEn": null
-            }
-        ]
-    },
-    {
         "id": 469,
         "word": "brilliant",
         "trans": [
@@ -18411,39 +16970,6 @@
                 "tranCn": "短而硬的毛；鬃毛",
                 "pos": "n",
                 "tranEn": "a short stiff hair that feels rough"
-            }
-        ]
-    },
-    {
-        "id": 474,
-        "word": "Britain",
-        "trans": [
-            {
-                "tranCn": "不列颠，英国",
-                "pos": "n",
-                "tranEn": null
-            }
-        ]
-    },
-    {
-        "id": 475,
-        "word": "British",
-        "trans": [
-            {
-                "tranCn": "不列颠的，英联邦的",
-                "pos": "adj",
-                "tranEn": null
-            }
-        ]
-    },
-    {
-        "id": 476,
-        "word": "brittle",
-        "trans": [
-            {
-                "tranCn": "脆的；易损坏的",
-                "pos": "adj",
-                "tranEn": null
             }
         ]
     },
@@ -18585,17 +17111,6 @@
         ]
     },
     {
-        "id": 489,
-        "word": "brute",
-        "trans": [
-            {
-                "tranCn": "禽兽，畜生",
-                "pos": "n",
-                "tranEn": null
-            }
-        ]
-    },
-    {
         "id": 490,
         "word": "bubble",
         "trans": [
@@ -18663,17 +17178,6 @@
                 "tranCn": "电灯泡；球状物",
                 "pos": "n",
                 "tranEn": "the glass part of an electric light, that the light shines from"
-            }
-        ]
-    },
-    {
-        "id": 496,
-        "word": "bulk",
-        "trans": [
-            {
-                "tranCn": "物体，容积，大批",
-                "pos": "n",
-                "tranEn": null
             }
         ]
     },
@@ -18962,17 +17466,6 @@
         ]
     },
     {
-        "id": 521,
-        "word": "cafe",
-        "trans": [
-            {
-                "tranCn": "咖啡馆；小餐厅",
-                "pos": "n",
-                "tranEn": null
-            }
-        ]
-    },
-    {
         "id": 522,
         "word": "cafeteria",
         "trans": [
@@ -19138,17 +17631,6 @@
         ]
     },
     {
-        "id": 537,
-        "word": "Canada",
-        "trans": [
-            {
-                "tranCn": "加拿大",
-                "pos": "n",
-                "tranEn": null
-            }
-        ]
-    },
-    {
         "id": 538,
         "word": "Canadian",
         "trans": [
@@ -19244,17 +17726,6 @@
                 "tranCn": "独木舟，皮艇，划子",
                 "pos": "n",
                 "tranEn": "a long light boat that is pointed at both ends and which you move along using a  paddle "
-            }
-        ]
-    },
-    {
-        "id": 547,
-        "word": "canteen",
-        "trans": [
-            {
-                "tranCn": "小卖部；临时餐室",
-                "pos": "n",
-                "tranEn": null
             }
         ]
     },
@@ -19605,17 +18076,6 @@
         ]
     },
     {
-        "id": 579,
-        "word": "catalog",
-        "trans": [
-            {
-                "tranCn": "目录，目录册",
-                "pos": "n",
-                "tranEn": null
-            }
-        ]
-    },
-    {
         "id": 580,
         "word": "catch",
         "trans": [
@@ -19749,17 +18209,6 @@
                 "tranCn": "分；分币；百",
                 "pos": "n",
                 "tranEn": "1/100th of the standard unit of money in some countries. For example, there are 100 cents in one dollar or in one  euro  : symbol ¢."
-            }
-        ]
-    },
-    {
-        "id": 592,
-        "word": "centigrade",
-        "trans": [
-            {
-                "tranCn": "百分度的",
-                "pos": "adj",
-                "tranEn": null
             }
         ]
     },
@@ -20349,17 +18798,6 @@
         ]
     },
     {
-        "id": 643,
-        "word": "China",
-        "trans": [
-            {
-                "tranCn": "中国",
-                "pos": "n",
-                "tranEn": null
-            }
-        ]
-    },
-    {
         "id": 644,
         "word": "Chinese",
         "trans": [
@@ -20465,17 +18903,6 @@
                 "tranCn": "教堂，礼拜堂；教会",
                 "pos": "n",
                 "tranEn": "a building where Christians go to worship"
-            }
-        ]
-    },
-    {
-        "id": 653,
-        "word": "cigaret",
-        "trans": [
-            {
-                "tranCn": "香烟，纸烟，卷烟",
-                "pos": "n",
-                "tranEn": null
             }
         ]
     },
@@ -21061,17 +19488,6 @@
         ]
     },
     {
-        "id": 705,
-        "word": "code",
-        "trans": [
-            {
-                "tranCn": "准则；法典；代码",
-                "pos": "n",
-                "tranEn": null
-            }
-        ]
-    },
-    {
         "id": 706,
         "word": "coffee",
         "trans": [
@@ -21237,17 +19653,6 @@
                 "tranCn": "殖民地；侨居地",
                 "pos": "n",
                 "tranEn": "a country or area that is under the political control of a more powerful country, usually one that is far away"
-            }
-        ]
-    },
-    {
-        "id": 720,
-        "word": "color",
-        "trans": [
-            {
-                "tranCn": "颜色，彩色；颜料",
-                "pos": "n",
-                "tranEn": null
             }
         ]
     },
@@ -21680,17 +20085,6 @@
         ]
     },
     {
-        "id": 759,
-        "word": "complicate",
-        "trans": [
-            {
-                "tranCn": "使复杂；使陷入",
-                "pos": "vt",
-                "tranEn": null
-            }
-        ]
-    },
-    {
         "id": 760,
         "word": "complicated",
         "trans": [
@@ -21753,17 +20147,6 @@
                 "tranCn": "理解，理解力；领悟",
                 "pos": "n",
                 "tranEn": "the ability to understand something"
-            }
-        ]
-    },
-    {
-        "id": 766,
-        "word": "comprehensive",
-        "trans": [
-            {
-                "tranCn": "广泛的；理解的",
-                "pos": "adj",
-                "tranEn": null
             }
         ]
     },
@@ -22324,17 +20707,6 @@
                 "tranCn": "考虑，思考；体贴",
                 "pos": "n",
                 "tranEn": "careful thought and attention, especially before making an official or important decision"
-            }
-        ]
-    },
-    {
-        "id": 817,
-        "word": "consist",
-        "trans": [
-            {
-                "tranCn": "由…组成；在于",
-                "pos": "v",
-                "tranEn": null
             }
         ]
     },
@@ -23014,17 +21386,6 @@
                 "tranCn": "咳嗽",
                 "pos": "n",
                 "tranEn": "a medical condition that makes you cough a lot"
-            }
-        ]
-    },
-    {
-        "id": 877,
-        "word": "could",
-        "trans": [
-            {
-                "tranCn": "v(can的过去式)",
-                "pos": "aux",
-                "tranEn": null
             }
         ]
     },
@@ -24094,22 +22455,6 @@
         ]
     },
     {
-        "id": 968,
-        "word": "deal",
-        "trans": [
-            {
-                "tranCn": "买卖；待遇",
-                "pos": "n",
-                "tranEn": "treatment of a particular type that is given or received"
-            },
-            {
-                "tranCn": "给予",
-                "pos": "v",
-                "tranEn": null
-            }
-        ]
-    },
-    {
         "id": 969,
         "word": "dear",
         "trans": [
@@ -24832,17 +23177,6 @@
         ]
     },
     {
-        "id": 1031,
-        "word": "desk",
-        "trans": [
-            {
-                "tranCn": "书桌，办公桌",
-                "pos": "n",
-                "tranEn": null
-            }
-        ]
-    },
-    {
         "id": 1032,
         "word": "despair",
         "trans": [
@@ -25002,17 +23336,6 @@
         ]
     },
     {
-        "id": 1046,
-        "word": "device",
-        "trans": [
-            {
-                "tranCn": "器械，装置；设计",
-                "pos": "n",
-                "tranEn": null
-            }
-        ]
-    },
-    {
         "id": 1047,
         "word": "devil",
         "trans": [
@@ -25091,17 +23414,6 @@
                 "tranCn": "方言，土语，地方话",
                 "pos": "n",
                 "tranEn": "a form of a language which is spoken only in one area, with words or grammar that are slightly different from other forms of the same language"
-            }
-        ]
-    },
-    {
-        "id": 1054,
-        "word": "dialog",
-        "trans": [
-            {
-                "tranCn": "对话，对白",
-                "pos": "n",
-                "tranEn": null
             }
         ]
     },
@@ -25227,17 +23539,6 @@
         ]
     },
     {
-        "id": 1066,
-        "word": "difficulty",
-        "trans": [
-            {
-                "tranCn": "困难；难事；困境",
-                "pos": "adj",
-                "tranEn": null
-            }
-        ]
-    },
-    {
         "id": 1067,
         "word": "dig",
         "trans": [
@@ -25343,17 +23644,6 @@
                 "tranCn": "直接的；直率的",
                 "pos": "adj",
                 "tranEn": "done without any other people, actions, processes etc coming between"
-            }
-        ]
-    },
-    {
-        "id": 1076,
-        "word": "direction",
-        "trans": [
-            {
-                "tranCn": "方向，方位；指导",
-                "pos": "n",
-                "tranEn": null
             }
         ]
     },
@@ -25626,17 +23916,6 @@
         ]
     },
     {
-        "id": 1100,
-        "word": "dishonour",
-        "trans": [
-            {
-                "tranCn": "不光彩；丢脸的人",
-                "pos": "n",
-                "tranEn": null
-            }
-        ]
-    },
-    {
         "id": 1101,
         "word": "disk",
         "trans": [
@@ -25688,17 +23967,6 @@
                 "tranCn": "陈列，展览；显示",
                 "pos": "v",
                 "tranEn": "to show something to people, or put it in a place where people can see it easily"
-            }
-        ]
-    },
-    {
-        "id": 1106,
-        "word": "displease",
-        "trans": [
-            {
-                "tranCn": "使不愉快，使生气",
-                "pos": "v",
-                "tranEn": null
             }
         ]
     },
@@ -26081,22 +24349,6 @@
         ]
     },
     {
-        "id": 1140,
-        "word": "dot",
-        "trans": [
-            {
-                "tranCn": "点，圆点",
-                "pos": "n",
-                "tranEn": "a small round mark or spot"
-            },
-            {
-                "tranCn": "打点于",
-                "pos": "v",
-                "tranEn": null
-            }
-        ]
-    },
-    {
         "id": 1141,
         "word": "double",
         "trans": [
@@ -26234,22 +24486,6 @@
                 "tranCn": "龙；凶暴的人",
                 "pos": "n",
                 "tranEn": "a large imaginary animal that has wings and a long tail and can breathe out fire"
-            }
-        ]
-    },
-    {
-        "id": 1152,
-        "word": "drain",
-        "trans": [
-            {
-                "tranCn": "排去；放水",
-                "pos": "v",
-                "tranEn": null
-            },
-            {
-                "tranCn": "耗竭",
-                "pos": "n",
-                "tranEn": "something that continuously uses a lot of time, money etc"
             }
         ]
     },
@@ -26690,22 +24926,6 @@
         ]
     },
     {
-        "id": 1189,
-        "word": "each",
-        "trans": [
-            {
-                "tranCn": "各，各自",
-                "pos": "pron",
-                "tranEn": null
-            },
-            {
-                "tranCn": "各",
-                "pos": "adj",
-                "tranEn": null
-            }
-        ]
-    },
-    {
         "id": 1190,
         "word": "eager",
         "trans": [
@@ -27095,17 +25315,6 @@
                 "tranCn": "八十，八十个",
                 "pos": "num",
                 "tranEn": "the number 80"
-            }
-        ]
-    },
-    {
-        "id": 1223,
-        "word": "either",
-        "trans": [
-            {
-                "tranCn": "(两者)任何一个",
-                "pos": "pron",
-                "tranEn": null
             }
         ]
     },
@@ -27714,17 +25923,6 @@
                 "tranCn": "工程，工程学",
                 "pos": "n",
                 "tranEn": "the work involved in designing and building roads, bridges, machines etc"
-            }
-        ]
-    },
-    {
-        "id": 1277,
-        "word": "England",
-        "trans": [
-            {
-                "tranCn": "英格兰；英国",
-                "pos": "n",
-                "tranEn": null
             }
         ]
     },
@@ -28479,17 +26677,6 @@
         ]
     },
     {
-        "id": 1343,
-        "word": "except",
-        "trans": [
-            {
-                "tranCn": "除…之外",
-                "pos": "prep",
-                "tranEn": null
-            }
-        ]
-    },
-    {
         "id": 1344,
         "word": "exception",
         "trans": [
@@ -28583,17 +26770,6 @@
         ]
     },
     {
-        "id": 1352,
-        "word": "exclusively",
-        "trans": [
-            {
-                "tranCn": "专门地",
-                "pos": "adv",
-                "tranEn": null
-            }
-        ]
-    },
-    {
         "id": 1353,
         "word": "excursion",
         "trans": [
@@ -28644,22 +26820,6 @@
                 "tranCn": "执行者",
                 "pos": "n",
                 "tranEn": "a group of people who are in charge of an organization and make the rules"
-            }
-        ]
-    },
-    {
-        "id": 1357,
-        "word": "exercise",
-        "trans": [
-            {
-                "tranCn": "锻炼，训练",
-                "pos": "n",
-                "tranEn": "physical activities that you do in order to stay healthy and become stronger"
-            },
-            {
-                "tranCn": "练习",
-                "pos": "v",
-                "tranEn": null
             }
         ]
     },
@@ -28845,22 +27005,6 @@
         ]
     },
     {
-        "id": 1374,
-        "word": "expert",
-        "trans": [
-            {
-                "tranCn": "专家",
-                "pos": "n",
-                "tranEn": "someone who has a special skill or special knowledge of a subject, gained as a result of training or experience"
-            },
-            {
-                "tranCn": "熟练的",
-                "pos": "adj",
-                "tranEn": null
-            }
-        ]
-    },
-    {
         "id": 1375,
         "word": "explain",
         "trans": [
@@ -29037,17 +27181,6 @@
                 "tranCn": "广阔的；广泛的",
                 "pos": "adj",
                 "tranEn": "large in size, amount, or degree"
-            }
-        ]
-    },
-    {
-        "id": 1390,
-        "word": "extent",
-        "trans": [
-            {
-                "tranCn": "广度；范围；程度",
-                "pos": "n",
-                "tranEn": null
             }
         ]
     },
@@ -29775,22 +27908,6 @@
         ]
     },
     {
-        "id": 1454,
-        "word": "feed",
-        "trans": [
-            {
-                "tranCn": "喂(养)",
-                "pos": "v",
-                "tranEn": "to give food to a person or animal"
-            },
-            {
-                "tranCn": "吃饲料",
-                "pos": "v",
-                "tranEn": null
-            }
-        ]
-    },
-    {
         "id": 1455,
         "word": "feedback",
         "trans": [
@@ -30338,22 +28455,6 @@
                 "tranCn": "火焰；光辉；热情",
                 "pos": "n",
                 "tranEn": "hot bright burning gas that you see when something is on fire"
-            }
-        ]
-    },
-    {
-        "id": 1501,
-        "word": "flare",
-        "trans": [
-            {
-                "tranCn": "闪耀",
-                "pos": "v",
-                "tranEn": null
-            },
-            {
-                "tranCn": "使闪亮",
-                "pos": "v",
-                "tranEn": null
             }
         ]
     },
@@ -31172,17 +29273,6 @@
         ]
     },
     {
-        "id": 1571,
-        "word": "France",
-        "trans": [
-            {
-                "tranCn": "法国，法兰西",
-                "pos": "n",
-                "tranEn": null
-            }
-        ]
-    },
-    {
         "id": 1572,
         "word": "frank",
         "trans": [
@@ -31292,17 +29382,6 @@
         ]
     },
     {
-        "id": 1581,
-        "word": "frequently",
-        "trans": [
-            {
-                "tranCn": "时常，常常",
-                "pos": "adv",
-                "tranEn": null
-            }
-        ]
-    },
-    {
         "id": 1582,
         "word": "fresh",
         "trans": [
@@ -31398,17 +29477,6 @@
                 "tranCn": "蛙",
                 "pos": "n",
                 "tranEn": "a small green animal that lives near water and has long legs for jumping"
-            }
-        ]
-    },
-    {
-        "id": 1591,
-        "word": "from",
-        "trans": [
-            {
-                "tranCn": "从…来；离开",
-                "pos": "prep",
-                "tranEn": null
             }
         ]
     },
@@ -31840,17 +29908,6 @@
         ]
     },
     {
-        "id": 1629,
-        "word": "gasp",
-        "trans": [
-            {
-                "tranCn": "气喘，喘息",
-                "pos": "v",
-                "tranEn": null
-            }
-        ]
-    },
-    {
         "id": 1630,
         "word": "gate",
         "trans": [
@@ -32077,17 +30134,6 @@
                 "tranCn": "德国人",
                 "pos": "n",
                 "tranEn": "someone from Germany"
-            }
-        ]
-    },
-    {
-        "id": 1650,
-        "word": "Germany",
-        "trans": [
-            {
-                "tranCn": "德意志，德国",
-                "pos": "n",
-                "tranEn": null
             }
         ]
     },
@@ -32648,17 +30694,6 @@
         ]
     },
     {
-        "id": 1697,
-        "word": "gramme",
-        "trans": [
-            {
-                "tranCn": "克(重量单位)",
-                "pos": "n",
-                "tranEn": null
-            }
-        ]
-    },
-    {
         "id": 1698,
         "word": "grand",
         "trans": [
@@ -32710,22 +30745,6 @@
                 "tranCn": "孙子，外孙子",
                 "pos": "n",
                 "tranEn": "the son of your son or daughter"
-            }
-        ]
-    },
-    {
-        "id": 1703,
-        "word": "grant",
-        "trans": [
-            {
-                "tranCn": "授给物",
-                "pos": "n",
-                "tranEn": null
-            },
-            {
-                "tranCn": "授予",
-                "pos": "v",
-                "tranEn": "to give someone something or allow them to have something that they have asked for"
             }
         ]
     },
@@ -32790,17 +30809,6 @@
         ]
     },
     {
-        "id": 1709,
-        "word": "gratitude",
-        "trans": [
-            {
-                "tranCn": "感激，感谢，感恩",
-                "pos": "adj",
-                "tranEn": null
-            }
-        ]
-    },
-    {
         "id": 1710,
         "word": "grave",
         "trans": [
@@ -32824,22 +30832,6 @@
                 "tranCn": "重力，引力；严重性",
                 "pos": "n",
                 "tranEn": "the force that causes something to fall to the ground or to be attracted to another  planet "
-            }
-        ]
-    },
-    {
-        "id": 1712,
-        "word": "gray",
-        "trans": [
-            {
-                "tranCn": "灰色的",
-                "pos": "adj",
-                "tranEn": null
-            },
-            {
-                "tranCn": "灰色",
-                "pos": "n",
-                "tranEn": null
             }
         ]
     },
@@ -33057,22 +31049,6 @@
                 "tranCn": "地；场地；根据",
                 "pos": "n",
                 "tranEn": "a good reason for doing, believing, or saying something"
-            }
-        ]
-    },
-    {
-        "id": 1730,
-        "word": "group",
-        "trans": [
-            {
-                "tranCn": "小组，群",
-                "pos": "n",
-                "tranEn": "several people or things that are all together in the same place"
-            },
-            {
-                "tranCn": "聚集",
-                "pos": "v",
-                "tranEn": null
             }
         ]
     },
@@ -33606,22 +31582,6 @@
         ]
     },
     {
-        "id": 1775,
-        "word": "harness",
-        "trans": [
-            {
-                "tranCn": "治理",
-                "pos": "v",
-                "tranEn": null
-            },
-            {
-                "tranCn": "马具，挽具",
-                "pos": "n",
-                "tranEn": "a set of leather bands used to control a horse or to attach it to a vehicle it is pulling"
-            }
-        ]
-    },
-    {
         "id": 1776,
         "word": "harsh",
         "trans": [
@@ -33645,33 +31605,6 @@
                 "tranCn": "收割",
                 "pos": "v",
                 "tranEn": "to gather crops from the fields"
-            }
-        ]
-    },
-    {
-        "id": 1778,
-        "word": "haste",
-        "trans": [
-            {
-                "tranCn": "急速，急忙；草率",
-                "pos": "n",
-                "tranEn": null
-            }
-        ]
-    },
-    {
-        "id": 1779,
-        "word": "hasten",
-        "trans": [
-            {
-                "tranCn": "催促",
-                "pos": "v",
-                "tranEn": null
-            },
-            {
-                "tranCn": "赶紧",
-                "pos": "v",
-                "tranEn": "to make something happen faster or sooner"
             }
         ]
     },
@@ -34245,17 +32178,6 @@
         ]
     },
     {
-        "id": 1829,
-        "word": "hesitate",
-        "trans": [
-            {
-                "tranCn": "犹豫，踌躇；含糊",
-                "pos": "v",
-                "tranEn": null
-            }
-        ]
-    },
-    {
         "id": 1830,
         "word": "hi",
         "trans": [
@@ -34349,17 +32271,6 @@
         ]
     },
     {
-        "id": 1838,
-        "word": "himself",
-        "trans": [
-            {
-                "tranCn": "他自己；他亲自",
-                "pos": "pron",
-                "tranEn": null
-            }
-        ]
-    },
-    {
         "id": 1839,
         "word": "hint",
         "trans": [
@@ -34383,17 +32294,6 @@
                 "tranCn": "租用，雇用",
                 "pos": "n",
                 "tranEn": "an arrangement in which you pay a sum of money to borrow something for a short time"
-            }
-        ]
-    },
-    {
-        "id": 1841,
-        "word": "his",
-        "trans": [
-            {
-                "tranCn": "他的，他的东西",
-                "pos": "pron",
-                "tranEn": null
             }
         ]
     },
@@ -35027,22 +32927,6 @@
         ]
     },
     {
-        "id": 1896,
-        "word": "ice",
-        "trans": [
-            {
-                "tranCn": "冰，冰块",
-                "pos": "n",
-                "tranEn": "water that has frozen into a solid state"
-            },
-            {
-                "tranCn": "冰镇",
-                "pos": "v",
-                "tranEn": null
-            }
-        ]
-    },
-    {
         "id": 1897,
         "word": "idea",
         "trans": [
@@ -35290,22 +33174,6 @@
         ]
     },
     {
-        "id": 1919,
-        "word": "immigrant",
-        "trans": [
-            {
-                "tranCn": "移民",
-                "pos": "n",
-                "tranEn": "someone who enters another country to live there permanently"
-            },
-            {
-                "tranCn": "移民的",
-                "pos": "adj",
-                "tranEn": null
-            }
-        ]
-    },
-    {
         "id": 1920,
         "word": "impact",
         "trans": [
@@ -35313,17 +33181,6 @@
                 "tranCn": "影响，作用；冲击",
                 "pos": "n",
                 "tranEn": "the effect or influence that an event, situation etc has on someone or something"
-            }
-        ]
-    },
-    {
-        "id": 1921,
-        "word": "impatient",
-        "trans": [
-            {
-                "tranCn": "不耐烦的，急躁的",
-                "pos": "adj",
-                "tranEn": null
             }
         ]
     },
@@ -35346,17 +33203,6 @@
                 "tranCn": "暗示，意指",
                 "pos": "v",
                 "tranEn": "to suggest that something is true, without saying this directly"
-            }
-        ]
-    },
-    {
-        "id": 1924,
-        "word": "import",
-        "trans": [
-            {
-                "tranCn": "输入，进口",
-                "pos": "vt&n",
-                "tranEn": null
             }
         ]
     },
@@ -35635,17 +33481,6 @@
         ]
     },
     {
-        "id": 1949,
-        "word": "India",
-        "trans": [
-            {
-                "tranCn": "印度",
-                "pos": "n",
-                "tranEn": null
-            }
-        ]
-    },
-    {
         "id": 1950,
         "word": "Indian",
         "trans": [
@@ -35669,17 +33504,6 @@
                 "tranCn": "标示，表示；表明",
                 "pos": "v",
                 "tranEn": "to show that a particular situation exists, or that something is likely to be true"
-            }
-        ]
-    },
-    {
-        "id": 1952,
-        "word": "indication",
-        "trans": [
-            {
-                "tranCn": "指示；表示；表明",
-                "pos": "n",
-                "tranEn": null
             }
         ]
     },
@@ -36101,22 +33925,6 @@
         ]
     },
     {
-        "id": 1990,
-        "word": "inside",
-        "trans": [
-            {
-                "tranCn": "在…里面",
-                "pos": "prep",
-                "tranEn": null
-            },
-            {
-                "tranCn": "内部",
-                "pos": "n",
-                "tranEn": "the inner part of something, which is surrounded or hidden by the outer part"
-            }
-        ]
-    },
-    {
         "id": 1991,
         "word": "insist",
         "trans": [
@@ -36380,17 +34188,6 @@
         ]
     },
     {
-        "id": 2014,
-        "word": "intend",
-        "trans": [
-            {
-                "tranCn": "想要，打算；意指",
-                "pos": "vt",
-                "tranEn": null
-            }
-        ]
-    },
-    {
         "id": 2015,
         "word": "intense",
         "trans": [
@@ -36585,17 +34382,6 @@
                 "tranCn": "打断，打扰；中止",
                 "pos": "v",
                 "tranEn": "to stop someone from continuing what they are saying or doing by suddenly speaking to them, making a noise etc"
-            }
-        ]
-    },
-    {
-        "id": 2033,
-        "word": "interruption",
-        "trans": [
-            {
-                "tranCn": "中断，打断；障碍物",
-                "pos": "n",
-                "tranEn": null
             }
         ]
     },
@@ -36809,38 +34595,6 @@
         ]
     },
     {
-        "id": 2053,
-        "word": "inward",
-        "trans": [
-            {
-                "tranCn": "里面的",
-                "pos": "adj",
-                "tranEn": null
-            },
-            {
-                "tranCn": "向内",
-                "pos": "adv",
-                "tranEn": "If something moves or faces inward, it moves or faces toward the inside or centre of something"
-            }
-        ]
-    },
-    {
-        "id": 2054,
-        "word": "iron",
-        "trans": [
-            {
-                "tranCn": "铁；烙铁",
-                "pos": "n",
-                "tranEn": "a common hard metal that is used to make steel, is  magnetic  , and is found in very small quantities in food and blood. It is a chemical  element  : symbol Fe"
-            },
-            {
-                "tranCn": "烫(衣)",
-                "pos": "v",
-                "tranEn": null
-            }
-        ]
-    },
-    {
         "id": 2055,
         "word": "irregular",
         "trans": [
@@ -36923,17 +34677,6 @@
         ]
     },
     {
-        "id": 2062,
-        "word": "its",
-        "trans": [
-            {
-                "tranCn": "它的",
-                "pos": "pron",
-                "tranEn": null
-            }
-        ]
-    },
-    {
         "id": 2063,
         "word": "itself",
         "trans": [
@@ -36990,17 +34733,6 @@
                 "tranCn": "一月",
                 "pos": "n",
                 "tranEn": "the first month of the year, between December and February"
-            }
-        ]
-    },
-    {
-        "id": 2068,
-        "word": "Japan",
-        "trans": [
-            {
-                "tranCn": "日本，日本国",
-                "pos": "n",
-                "tranEn": null
             }
         ]
     },
@@ -37229,17 +34961,6 @@
         ]
     },
     {
-        "id": 2088,
-        "word": "judgement",
-        "trans": [
-            {
-                "tranCn": "意见；审判；判断",
-                "pos": "n",
-                "tranEn": null
-            }
-        ]
-    },
-    {
         "id": 2089,
         "word": "juice",
         "trans": [
@@ -37247,17 +34968,6 @@
                 "tranCn": "(水果等)汁，液",
                 "pos": "n",
                 "tranEn": "the liquid that comes from fruit and vegetables, or a drink that is made from this"
-            }
-        ]
-    },
-    {
-        "id": 2090,
-        "word": "July",
-        "trans": [
-            {
-                "tranCn": "七月",
-                "pos": "n",
-                "tranEn": null
             }
         ]
     },
@@ -37296,22 +35006,6 @@
                 "tranCn": "丛林，密林，莽丛",
                 "pos": "n",
                 "tranEn": "a thick tropical forest with many large plants growing very close together"
-            }
-        ]
-    },
-    {
-        "id": 2094,
-        "word": "junior",
-        "trans": [
-            {
-                "tranCn": "年少的",
-                "pos": "adj",
-                "tranEn": "relating to sport for young people below a particular age"
-            },
-            {
-                "tranCn": "晚辈",
-                "pos": "n",
-                "tranEn": null
             }
         ]
     },
@@ -37760,22 +35454,6 @@
         ]
     },
     {
-        "id": 2134,
-        "word": "lag",
-        "trans": [
-            {
-                "tranCn": "走得慢",
-                "pos": "v",
-                "tranEn": null
-            },
-            {
-                "tranCn": "落后",
-                "pos": "n",
-                "tranEn": null
-            }
-        ]
-    },
-    {
         "id": 2135,
         "word": "lake",
         "trans": [
@@ -37816,22 +35494,6 @@
                 "tranCn": "灯",
                 "pos": "n",
                 "tranEn": "an object that produces light by using electricity, oil, or gas"
-            }
-        ]
-    },
-    {
-        "id": 2139,
-        "word": "land",
-        "trans": [
-            {
-                "tranCn": "陆地；土地",
-                "pos": "n",
-                "tranEn": "an area of ground, especially when used for farming or building"
-            },
-            {
-                "tranCn": "上岸",
-                "pos": "v",
-                "tranEn": null
             }
         ]
     },
@@ -37920,17 +35582,6 @@
                 "tranCn": "大的；巨大的",
                 "pos": "adj",
                 "tranEn": "big in size, amount, or number"
-            }
-        ]
-    },
-    {
-        "id": 2148,
-        "word": "largely",
-        "trans": [
-            {
-                "tranCn": "大部分；大量地",
-                "pos": "adv",
-                "tranEn": null
             }
         ]
     },
@@ -38164,17 +35815,6 @@
         ]
     },
     {
-        "id": 2168,
-        "word": "lead",
-        "trans": [
-            {
-                "tranCn": "铅，铅制品",
-                "pos": "n",
-                "tranEn": null
-            }
-        ]
-    },
-    {
         "id": 2169,
         "word": "leader",
         "trans": [
@@ -38360,22 +36000,6 @@
         ]
     },
     {
-        "id": 2184,
-        "word": "left",
-        "trans": [
-            {
-                "tranCn": "左边的",
-                "pos": "adj",
-                "tranEn": "your left side is the side of your body that contains your heart"
-            },
-            {
-                "tranCn": "在左边",
-                "pos": "adv",
-                "tranEn": null
-            }
-        ]
-    },
-    {
         "id": 2185,
         "word": "leg",
         "trans": [
@@ -38460,22 +36084,6 @@
                 "tranCn": "透镜，镜片；镜头",
                 "pos": "n",
                 "tranEn": "the part of a camera through which the light travels before it reaches the film"
-            }
-        ]
-    },
-    {
-        "id": 2193,
-        "word": "less",
-        "trans": [
-            {
-                "tranCn": "更少的",
-                "pos": "adj",
-                "tranEn": null
-            },
-            {
-                "tranCn": "更少地",
-                "pos": "adv",
-                "tranEn": "not so much or to a smaller degree"
             }
         ]
     },
@@ -38606,17 +36214,6 @@
         ]
     },
     {
-        "id": 2205,
-        "word": "liberation",
-        "trans": [
-            {
-                "tranCn": "解放",
-                "pos": "n",
-                "tranEn": null
-            }
-        ]
-    },
-    {
         "id": 2206,
         "word": "liberty",
         "trans": [
@@ -38646,22 +36243,6 @@
                 "tranCn": "图书馆；藏书",
                 "pos": "n",
                 "tranEn": "a room or building containing books that can be looked at or borrowed"
-            }
-        ]
-    },
-    {
-        "id": 2209,
-        "word": "license",
-        "trans": [
-            {
-                "tranCn": "许可；执照",
-                "pos": "n",
-                "tranEn": null
-            },
-            {
-                "tranCn": "准许",
-                "pos": "v",
-                "tranEn": "to give official permission for someone to do or produce something, or for an activity to take place"
             }
         ]
     },
@@ -38907,17 +36488,6 @@
         ]
     },
     {
-        "id": 2231,
-        "word": "liner",
-        "trans": [
-            {
-                "tranCn": "班船，班机",
-                "pos": "n",
-                "tranEn": null
-            }
-        ]
-    },
-    {
         "id": 2232,
         "word": "link",
         "trans": [
@@ -39017,17 +36587,6 @@
                 "tranCn": "听者，听众之一",
                 "pos": "n",
                 "tranEn": "someone who listens to the radio"
-            }
-        ]
-    },
-    {
-        "id": 2240,
-        "word": "liter",
-        "trans": [
-            {
-                "tranCn": "升(容量单位)",
-                "pos": "n",
-                "tranEn": null
             }
         ]
     },
@@ -39142,22 +36701,6 @@
                 "tranCn": "一条面包，一个面包",
                 "pos": "n",
                 "tranEn": "bread that is shaped and baked in one piece and can be cut into slices"
-            }
-        ]
-    },
-    {
-        "id": 2250,
-        "word": "loan",
-        "trans": [
-            {
-                "tranCn": "贷款；暂借",
-                "pos": "n",
-                "tranEn": null
-            },
-            {
-                "tranCn": "借出",
-                "pos": "vt",
-                "tranEn": null
             }
         ]
     },
@@ -39662,17 +37205,6 @@
                 "tranCn": "磁的，有吸引力的",
                 "pos": "adj",
                 "tranEn": "concerning or produced by  magnetism "
-            }
-        ]
-    },
-    {
-        "id": 2295,
-        "word": "magnificent",
-        "trans": [
-            {
-                "tranCn": "壮丽的；华丽的",
-                "pos": "n",
-                "tranEn": null
             }
         ]
     },
@@ -40386,22 +37918,6 @@
         ]
     },
     {
-        "id": 2355,
-        "word": "meantime",
-        "trans": [
-            {
-                "tranCn": "其时，其间",
-                "pos": "n",
-                "tranEn": null
-            },
-            {
-                "tranCn": "当时",
-                "pos": "adv",
-                "tranEn": "in the period of time between now and a future event, or between two events in the past"
-            }
-        ]
-    },
-    {
         "id": 2356,
         "word": "meanwhile",
         "trans": [
@@ -40480,17 +37996,6 @@
                 "tranCn": "机械的；力学的",
                 "pos": "adj",
                 "tranEn": "affecting or involving a machine"
-            }
-        ]
-    },
-    {
-        "id": 2363,
-        "word": "mechanically",
-        "trans": [
-            {
-                "tranCn": "机械地",
-                "pos": "adv",
-                "tranEn": null
             }
         ]
     },
@@ -40726,17 +38231,6 @@
                 "tranCn": "仁慈，慈悲，恩惠",
                 "pos": "n",
                 "tranEn": "if someone shows mercy, they choose to forgive or to be kind to someone who they have the power to hurt or punish"
-            }
-        ]
-    },
-    {
-        "id": 2384,
-        "word": "mere",
-        "trans": [
-            {
-                "tranCn": "仅仅的；纯粹的",
-                "pos": "adj",
-                "tranEn": null
             }
         ]
     },
@@ -41071,22 +38565,6 @@
                 "tranCn": "矿工",
                 "pos": "n",
                 "tranEn": "someone who works under the ground in a mine to remove coal, gold etc"
-            }
-        ]
-    },
-    {
-        "id": 2414,
-        "word": "mineral",
-        "trans": [
-            {
-                "tranCn": "矿物",
-                "pos": "n",
-                "tranEn": "a substance that is formed naturally in the earth, such as coal, salt, stone, or gold. Minerals can be dug out of the ground and used"
-            },
-            {
-                "tranCn": "矿物的",
-                "pos": "adj",
-                "tranEn": null
             }
         ]
     },
@@ -41605,22 +39083,6 @@
         ]
     },
     {
-        "id": 2459,
-        "word": "more",
-        "trans": [
-            {
-                "tranCn": "更多的",
-                "pos": "adj",
-                "tranEn": null
-            },
-            {
-                "tranCn": "更",
-                "pos": "adv",
-                "tranEn": "having a particular quality to a greater degree"
-            }
-        ]
-    },
-    {
         "id": 2460,
         "word": "moreover",
         "trans": [
@@ -41872,22 +39334,6 @@
         ]
     },
     {
-        "id": 2481,
-        "word": "much",
-        "trans": [
-            {
-                "tranCn": "非常，很",
-                "pos": "adv",
-                "tranEn": "by a great amount"
-            },
-            {
-                "tranCn": "许多的",
-                "pos": "adj",
-                "tranEn": null
-            }
-        ]
-    },
-    {
         "id": 2482,
         "word": "mud",
         "trans": [
@@ -41917,17 +39363,6 @@
                 "tranCn": "大杯",
                 "pos": "n",
                 "tranEn": "a tall cup used for drinking tea, coffee etc"
-            }
-        ]
-    },
-    {
-        "id": 2485,
-        "word": "multiple",
-        "trans": [
-            {
-                "tranCn": "复合的；并联的",
-                "pos": "adj",
-                "tranEn": null
             }
         ]
     },
@@ -42091,17 +39526,6 @@
         ]
     },
     {
-        "id": 2500,
-        "word": "my",
-        "trans": [
-            {
-                "tranCn": "我的",
-                "pos": "pron",
-                "tranEn": null
-            }
-        ]
-    },
-    {
         "id": 2501,
         "word": "myself",
         "trans": [
@@ -42211,17 +39635,6 @@
         ]
     },
     {
-        "id": 2510,
-        "word": "nasty",
-        "trans": [
-            {
-                "tranCn": "龌龊的；淫猥的",
-                "pos": "adj",
-                "tranEn": null
-            }
-        ]
-    },
-    {
         "id": 2511,
         "word": "nation",
         "trans": [
@@ -42311,17 +39724,6 @@
                 "tranCn": "顽皮的，淘气的",
                 "pos": "adj",
                 "tranEn": "a naughty child does not obey adults and behaves badly"
-            }
-        ]
-    },
-    {
-        "id": 2519,
-        "word": "naval",
-        "trans": [
-            {
-                "tranCn": "海军的，军舰的",
-                "pos": "adj",
-                "tranEn": null
             }
         ]
     },
@@ -42550,17 +39952,6 @@
         ]
     },
     {
-        "id": 2539,
-        "word": "neither",
-        "trans": [
-            {
-                "tranCn": "(两者)都不的",
-                "pos": "adj",
-                "tranEn": null
-            }
-        ]
-    },
-    {
         "id": 2540,
         "word": "nephew",
         "trans": [
@@ -42645,22 +40036,6 @@
                 "tranCn": "永不，决不；不",
                 "pos": "adv",
                 "tranEn": "not at any time, or not once"
-            }
-        ]
-    },
-    {
-        "id": 2548,
-        "word": "nevertheless",
-        "trans": [
-            {
-                "tranCn": "然而",
-                "pos": "conj",
-                "tranEn": null
-            },
-            {
-                "tranCn": "仍然",
-                "pos": "adv",
-                "tranEn": "in spite of a fact that you have just mentioned"
             }
         ]
     },
@@ -42804,22 +40179,6 @@
                 "tranCn": "氮",
                 "pos": "n",
                 "tranEn": "a gas that has no colour or smell, and that forms most of the Earth’s air. It is a chemical element: symbol N"
-            }
-        ]
-    },
-    {
-        "id": 2562,
-        "word": "no",
-        "trans": [
-            {
-                "tranCn": "不；并不",
-                "pos": "adv",
-                "tranEn": "used to give a negative reply to a question, offer, or request"
-            },
-            {
-                "tranCn": "没有",
-                "pos": "adj",
-                "tranEn": null
             }
         ]
     },
@@ -43452,17 +40811,6 @@
         ]
     },
     {
-        "id": 2616,
-        "word": "occasionally",
-        "trans": [
-            {
-                "tranCn": "偶然；非经常地",
-                "pos": "adv",
-                "tranEn": null
-            }
-        ]
-    },
-    {
         "id": 2617,
         "word": "occupation",
         "trans": [
@@ -43503,28 +40851,6 @@
                 "tranCn": "发生，出现；事件",
                 "pos": "n",
                 "tranEn": "something that happens"
-            }
-        ]
-    },
-    {
-        "id": 2621,
-        "word": "ocean",
-        "trans": [
-            {
-                "tranCn": "海洋；洋",
-                "pos": "n",
-                "tranEn": null
-            }
-        ]
-    },
-    {
-        "id": 2622,
-        "word": "Oceania",
-        "trans": [
-            {
-                "tranCn": "大洋洲",
-                "pos": "n",
-                "tranEn": null
             }
         ]
     },
@@ -43638,17 +40964,6 @@
         ]
     },
     {
-        "id": 2632,
-        "word": "official",
-        "trans": [
-            {
-                "tranCn": "官员的；官方的",
-                "pos": "adj",
-                "tranEn": null
-            }
-        ]
-    },
-    {
         "id": 2633,
         "word": "often",
         "trans": [
@@ -43656,17 +40971,6 @@
                 "tranCn": "经常，常常",
                 "pos": "adv",
                 "tranEn": "if something happens often, it happens regularly or many times"
-            }
-        ]
-    },
-    {
-        "id": 2634,
-        "word": "oh",
-        "trans": [
-            {
-                "tranCn": "嗬，哦，唉呀",
-                "pos": "int",
-                "tranEn": null
             }
         ]
     },
@@ -43683,17 +40987,6 @@
                 "tranCn": "加油于",
                 "pos": "v",
                 "tranEn": "to put oil onto part of a machine or part of something that moves, to help it to move or work more smoothly"
-            }
-        ]
-    },
-    {
-        "id": 2636,
-        "word": "okay",
-        "trans": [
-            {
-                "tranCn": "对，好",
-                "pos": "(缩作OK)a&ad",
-                "tranEn": null
             }
         ]
     },
@@ -44063,17 +41356,6 @@
         ]
     },
     {
-        "id": 2667,
-        "word": "orchestra",
-        "trans": [
-            {
-                "tranCn": "管弦乐队",
-                "pos": "n",
-                "tranEn": null
-            }
-        ]
-    },
-    {
         "id": 2668,
         "word": "order",
         "trans": [
@@ -44255,17 +41537,6 @@
         ]
     },
     {
-        "id": 2684,
-        "word": "ought",
-        "trans": [
-            {
-                "tranCn": "aux应当，应该",
-                "pos": "v",
-                "tranEn": null
-            }
-        ]
-    },
-    {
         "id": 2685,
         "word": "ounce",
         "trans": [
@@ -44273,17 +41544,6 @@
                 "tranCn": "盎司，英两",
                 "pos": "n",
                 "tranEn": "a unit for measuring weight, equal to 28.35 grams. There are 16 ounces in a pound."
-            }
-        ]
-    },
-    {
-        "id": 2686,
-        "word": "our",
-        "trans": [
-            {
-                "tranCn": "我们的",
-                "pos": "pron",
-                "tranEn": null
             }
         ]
     },
@@ -44431,17 +41691,6 @@
         ]
     },
     {
-        "id": 2700,
-        "word": "outskirt",
-        "trans": [
-            {
-                "tranCn": "外边，郊区",
-                "pos": "n",
-                "tranEn": null
-            }
-        ]
-    },
-    {
         "id": 2701,
         "word": "outstanding",
         "trans": [
@@ -44535,28 +41784,6 @@
         ]
     },
     {
-        "id": 2709,
-        "word": "overhead",
-        "trans": [
-            {
-                "tranCn": "在头顶上的；架空的",
-                "pos": "adj",
-                "tranEn": null
-            }
-        ]
-    },
-    {
-        "id": 2710,
-        "word": "overlook",
-        "trans": [
-            {
-                "tranCn": "眺望；看漏；放任",
-                "pos": "v",
-                "tranEn": null
-            }
-        ]
-    },
-    {
         "id": 2711,
         "word": "overnight",
         "trans": [
@@ -44591,17 +41818,6 @@
                 "tranCn": "追上，赶上；压倒",
                 "pos": "v",
                 "tranEn": "to go past a moving vehicle or person because you are going faster than them and want to get in front of them"
-            }
-        ]
-    },
-    {
-        "id": 2714,
-        "word": "overtime",
-        "trans": [
-            {
-                "tranCn": "超时的，加班的",
-                "pos": "adj",
-                "tranEn": null
             }
         ]
     },
@@ -44689,22 +41905,6 @@
                 "tranCn": "踱步",
                 "pos": "v",
                 "tranEn": "to walk first in one direction and then in another many times, especially because you are nervous"
-            }
-        ]
-    },
-    {
-        "id": 2722,
-        "word": "pacific",
-        "trans": [
-            {
-                "tranCn": "和平的",
-                "pos": "adj",
-                "tranEn": "peaceful and loving or wanting peace"
-            },
-            {
-                "tranCn": "太平洋",
-                "pos": "n",
-                "tranEn": null
             }
         ]
     },
@@ -44857,17 +42057,6 @@
                 "tranCn": "宫，宫殿",
                 "pos": "n",
                 "tranEn": "the official home of a person of very high rank, especially a king or queen – often used in names"
-            }
-        ]
-    },
-    {
-        "id": 2735,
-        "word": "pale",
-        "trans": [
-            {
-                "tranCn": "苍白的；浅的",
-                "pos": "adj",
-                "tranEn": null
             }
         ]
     },
@@ -45293,17 +42482,6 @@
         ]
     },
     {
-        "id": 2772,
-        "word": "paw",
-        "trans": [
-            {
-                "tranCn": "脚爪，爪子",
-                "pos": "n",
-                "tranEn": null
-            }
-        ]
-    },
-    {
         "id": 2773,
         "word": "pay",
         "trans": [
@@ -45501,17 +42679,6 @@
         ]
     },
     {
-        "id": 2790,
-        "word": "percent",
-        "trans": [
-            {
-                "tranCn": "百分之…",
-                "pos": "n",
-                "tranEn": null
-            }
-        ]
-    },
-    {
         "id": 2791,
         "word": "percentage",
         "trans": [
@@ -45596,22 +42763,6 @@
                 "tranCn": "允许，许可，同意",
                 "pos": "n",
                 "tranEn": "If someone who has authority over you gives you permission to do something, they say that they will allow you to do it"
-            }
-        ]
-    },
-    {
-        "id": 2799,
-        "word": "permit",
-        "trans": [
-            {
-                "tranCn": "允许",
-                "pos": "v",
-                "tranEn": "to allow something to happen, especially by an official decision, rule, or law"
-            },
-            {
-                "tranCn": "执照",
-                "pos": "n",
-                "tranEn": null
             }
         ]
     },
@@ -45924,22 +43075,6 @@
                 "tranCn": "(西点)馅饼",
                 "pos": "n",
                 "tranEn": "fruit baked inside a  pastry  covering"
-            }
-        ]
-    },
-    {
-        "id": 2827,
-        "word": "piece",
-        "trans": [
-            {
-                "tranCn": "碎片，块",
-                "pos": "n",
-                "tranEn": "an amount of something that has been separated from the main part"
-            },
-            {
-                "tranCn": "拼合",
-                "pos": "v",
-                "tranEn": null
             }
         ]
     },
@@ -46308,17 +43443,6 @@
         ]
     },
     {
-        "id": 2857,
-        "word": "player",
-        "trans": [
-            {
-                "tranCn": "游戏的人；比赛者",
-                "pos": "n",
-                "tranEn": null
-            }
-        ]
-    },
-    {
         "id": 2858,
         "word": "playground",
         "trans": [
@@ -46476,22 +43600,6 @@
         ]
     },
     {
-        "id": 2870,
-        "word": "pocket",
-        "trans": [
-            {
-                "tranCn": "衣袋",
-                "pos": "n",
-                "tranEn": "a type of small bag in or on a coat, trousers etc that you can put money, keys etc in"
-            },
-            {
-                "tranCn": "袖珍的",
-                "pos": "n",
-                "tranEn": null
-            }
-        ]
-    },
-    {
         "id": 2871,
         "word": "poem",
         "trans": [
@@ -46603,17 +43711,6 @@
                 "tranCn": "政策，方针",
                 "pos": "n",
                 "tranEn": "a way of doing something that has been officially agreed and chosen by a political party, a business, or another organization"
-            }
-        ]
-    },
-    {
-        "id": 2881,
-        "word": "polish",
-        "trans": [
-            {
-                "tranCn": "磨光；使优美",
-                "pos": "v",
-                "tranEn": null
             }
         ]
     },
@@ -47199,17 +44296,6 @@
         ]
     },
     {
-        "id": 2933,
-        "word": "prefer",
-        "trans": [
-            {
-                "tranCn": "宁可，宁愿",
-                "pos": "v",
-                "tranEn": null
-            }
-        ]
-    },
-    {
         "id": 2934,
         "word": "preferable",
         "trans": [
@@ -47283,17 +44369,6 @@
                 "tranCn": "前置词，介词",
                 "pos": "n",
                 "tranEn": "a word that is used before a noun,  pronoun  , or  gerund  to show place, time, direction etc. In the phrase ‘the trees in the park’, ‘in’ is a preposition."
-            }
-        ]
-    },
-    {
-        "id": 2941,
-        "word": "prescribe",
-        "trans": [
-            {
-                "tranCn": "命令；处(方)",
-                "pos": "v",
-                "tranEn": null
             }
         ]
     },
@@ -47424,22 +44499,6 @@
         ]
     },
     {
-        "id": 2953,
-        "word": "previous",
-        "trans": [
-            {
-                "tranCn": "先的；前的",
-                "pos": "adj",
-                "tranEn": "A previous event or thing is one that happened or existed before the one that you are talking about"
-            },
-            {
-                "tranCn": "在前",
-                "pos": "adv",
-                "tranEn": null
-            }
-        ]
-    },
-    {
         "id": 2954,
         "word": "price",
         "trans": [
@@ -47485,22 +44544,6 @@
                 "tranCn": "最初的；基本的",
                 "pos": "adj",
                 "tranEn": "relating to the education of children between 5 and 11 years old"
-            }
-        ]
-    },
-    {
-        "id": 2958,
-        "word": "prime",
-        "trans": [
-            {
-                "tranCn": "首要的",
-                "pos": "adj",
-                "tranEn": "most important"
-            },
-            {
-                "tranCn": "春，青春",
-                "pos": "n",
-                "tranEn": null
             }
         ]
     },
@@ -47674,17 +44717,6 @@
         ]
     },
     {
-        "id": 2973,
-        "word": "probably",
-        "trans": [
-            {
-                "tranCn": "或许，大概",
-                "pos": "adv",
-                "tranEn": null
-            }
-        ]
-    },
-    {
         "id": 2974,
         "word": "problem",
         "trans": [
@@ -47801,17 +44833,6 @@
                 "tranCn": "专业人员",
                 "pos": "n",
                 "tranEn": "someone who earns money by doing a job, sport, or activity that many other people do just for fun"
-            }
-        ]
-    },
-    {
-        "id": 2984,
-        "word": "professor",
-        "trans": [
-            {
-                "tranCn": "教授",
-                "pos": "n",
-                "tranEn": null
             }
         ]
     },
@@ -48160,22 +45181,6 @@
         ]
     },
     {
-        "id": 3014,
-        "word": "prove",
-        "trans": [
-            {
-                "tranCn": "证明",
-                "pos": "v",
-                "tranEn": "to show that something is true by providing facts, information etc"
-            },
-            {
-                "tranCn": "结果是",
-                "pos": "v",
-                "tranEn": null
-            }
-        ]
-    },
-    {
         "id": 3015,
         "word": "provide",
         "trans": [
@@ -48183,17 +45188,6 @@
                 "tranCn": "提供；装备，供给",
                 "pos": "v",
                 "tranEn": "to give something to someone or make it available to them, because they need it or want it"
-            }
-        ]
-    },
-    {
-        "id": 3016,
-        "word": "provided",
-        "trans": [
-            {
-                "tranCn": "以…为条件",
-                "pos": "conj",
-                "tranEn": null
             }
         ]
     },
@@ -48755,22 +45749,6 @@
         ]
     },
     {
-        "id": 3064,
-        "word": "railroad",
-        "trans": [
-            {
-                "tranCn": "铁路",
-                "pos": "n",
-                "tranEn": "a railway or the railway"
-            },
-            {
-                "tranCn": "由铁路运输",
-                "pos": "v",
-                "tranEn": null
-            }
-        ]
-    },
-    {
         "id": 3065,
         "word": "railway",
         "trans": [
@@ -48853,22 +45831,6 @@
         ]
     },
     {
-        "id": 3072,
-        "word": "rapid",
-        "trans": [
-            {
-                "tranCn": "快的",
-                "pos": "adj",
-                "tranEn": "happening or done very quickly and in a very short time"
-            },
-            {
-                "tranCn": "急流",
-                "pos": "n",
-                "tranEn": null
-            }
-        ]
-    },
-    {
         "id": 3073,
         "word": "rare",
         "trans": [
@@ -48876,17 +45838,6 @@
                 "tranCn": "稀薄的；稀有的",
                 "pos": "adj",
                 "tranEn": "not seen or found very often, or not happening very often"
-            }
-        ]
-    },
-    {
-        "id": 3074,
-        "word": "rarely",
-        "trans": [
-            {
-                "tranCn": "很少，难得",
-                "pos": "adv",
-                "tranEn": null
             }
         ]
     },
@@ -49083,17 +46034,6 @@
         ]
     },
     {
-        "id": 3092,
-        "word": "really",
-        "trans": [
-            {
-                "tranCn": "真正地；实在",
-                "pos": "adv",
-                "tranEn": null
-            }
-        ]
-    },
-    {
         "id": 3093,
         "word": "realm",
         "trans": [
@@ -49192,17 +46132,6 @@
         ]
     },
     {
-        "id": 3101,
-        "word": "receiver",
-        "trans": [
-            {
-                "tranCn": "收受者，收件人",
-                "pos": "n",
-                "tranEn": null
-            }
-        ]
-    },
-    {
         "id": 3102,
         "word": "recent",
         "trans": [
@@ -49221,17 +46150,6 @@
                 "tranCn": "最近，新近",
                 "pos": "adv",
                 "tranEn": "not long ago"
-            }
-        ]
-    },
-    {
-        "id": 3104,
-        "word": "reception",
-        "trans": [
-            {
-                "tranCn": "接待；招待会；接受",
-                "pos": "adj",
-                "tranEn": null
             }
         ]
     },
@@ -49367,22 +46285,6 @@
         ]
     },
     {
-        "id": 3116,
-        "word": "refer",
-        "trans": [
-            {
-                "tranCn": "使求助于",
-                "pos": "v",
-                "tranEn": null
-            },
-            {
-                "tranCn": "谈到",
-                "pos": "v",
-                "tranEn": "If you refer to a particular subject or person, you talk about them or mention them"
-            }
-        ]
-    },
-    {
         "id": 3117,
         "word": "reference",
         "trans": [
@@ -49423,17 +46325,6 @@
                 "tranCn": "反射；映象；反映",
                 "pos": "n",
                 "tranEn": "something that shows what something else is like, or that is a sign of a particular situation"
-            }
-        ]
-    },
-    {
-        "id": 3121,
-        "word": "reflexion",
-        "trans": [
-            {
-                "tranCn": "反射；映象；反映",
-                "pos": "n",
-                "tranEn": null
             }
         ]
     },
@@ -49713,17 +46604,6 @@
                 "tranCn": "有关的，贴切的",
                 "pos": "adj",
                 "tranEn": "directly relating to the subject or problem being discussed or considered"
-            }
-        ]
-    },
-    {
-        "id": 3146,
-        "word": "reliability",
-        "trans": [
-            {
-                "tranCn": "可靠性",
-                "pos": "n",
-                "tranEn": null
             }
         ]
     },
@@ -50160,17 +47040,6 @@
         ]
     },
     {
-        "id": 3184,
-        "word": "reservior",
-        "trans": [
-            {
-                "tranCn": "水库；蓄水池",
-                "pos": "n",
-                "tranEn": null
-            }
-        ]
-    },
-    {
         "id": 3185,
         "word": "residence",
         "trans": [
@@ -50178,22 +47047,6 @@
                 "tranCn": "居住；驻扎；住处",
                 "pos": "n",
                 "tranEn": "legal permission to live in a country for a certain period of time"
-            }
-        ]
-    },
-    {
-        "id": 3186,
-        "word": "resident",
-        "trans": [
-            {
-                "tranCn": "居住的",
-                "pos": "adj",
-                "tranEn": null
-            },
-            {
-                "tranCn": "居民",
-                "pos": "n",
-                "tranEn": null
             }
         ]
     },
@@ -50646,22 +47499,6 @@
         ]
     },
     {
-        "id": 3225,
-        "word": "rival",
-        "trans": [
-            {
-                "tranCn": "竞争者",
-                "pos": "n",
-                "tranEn": "a person, group, or organization that you compete with in sport, business, a fight etc"
-            },
-            {
-                "tranCn": "竞争的",
-                "pos": "adj",
-                "tranEn": null
-            }
-        ]
-    },
-    {
         "id": 3226,
         "word": "roar",
         "trans": [
@@ -50696,22 +47533,6 @@
                 "tranCn": "机器人；自动机",
                 "pos": "n",
                 "tranEn": "a machine that can move and do some of the work of a person, and is usually controlled by a computer"
-            }
-        ]
-    },
-    {
-        "id": 3229,
-        "word": "rocket",
-        "trans": [
-            {
-                "tranCn": "n.",
-                "pos": "n",
-                "tranEn": null
-            },
-            {
-                "tranCn": "火箭，火箭发动机",
-                "pos": "n",
-                "tranEn": "a vehicle used for travelling or carrying things into space, which is shaped like a big tube"
             }
         ]
     },
@@ -51366,22 +48187,6 @@
         ]
     },
     {
-        "id": 3285,
-        "word": "semiconductor",
-        "trans": [
-            {
-                "tranCn": "n.",
-                "pos": "n",
-                "tranEn": null
-            },
-            {
-                "tranCn": "半导体",
-                "pos": "n",
-                "tranEn": "a substance, such as  silicon  , that allows some electric currents to pass through it, and is used in electronic equipment"
-            }
-        ]
-    },
-    {
         "id": 3286,
         "word": "senate",
         "trans": [
@@ -51553,22 +48358,6 @@
                 "tranCn": "荫蔽",
                 "pos": "v",
                 "tranEn": "to protect something from direct light"
-            }
-        ]
-    },
-    {
-        "id": 3301,
-        "word": "shave",
-        "trans": [
-            {
-                "tranCn": "剃，刮",
-                "pos": "v",
-                "tranEn": "to cut off hair very close to the skin, especially from the face, using a  razor "
-            },
-            {
-                "tranCn": "修面",
-                "pos": "v",
-                "tranEn": null
             }
         ]
     },
@@ -51790,22 +48579,6 @@
         ]
     },
     {
-        "id": 3319,
-        "word": "sign",
-        "trans": [
-            {
-                "tranCn": "符号；招牌",
-                "pos": "n",
-                "tranEn": "a mark or shape that has a particular meaning"
-            },
-            {
-                "tranCn": "签名",
-                "pos": "n",
-                "tranEn": null
-            }
-        ]
-    },
-    {
         "id": 3320,
         "word": "signal",
         "trans": [
@@ -51840,17 +48613,6 @@
                 "tranCn": "意义，意味；重要性",
                 "pos": "n",
                 "tranEn": "The significance of something is the importance that it has, usually because it will have an effect on a situation or shows something about a situation"
-            }
-        ]
-    },
-    {
-        "id": 3323,
-        "word": "significant",
-        "trans": [
-            {
-                "tranCn": "有意义的；重要的",
-                "pos": "n",
-                "tranEn": null
             }
         ]
     },
@@ -51900,17 +48662,6 @@
                 "tranCn": "傻的，愚蠢的",
                 "pos": "adj",
                 "tranEn": "not sensible, or showing bad judgment"
-            }
-        ]
-    },
-    {
-        "id": 3328,
-        "word": "silver",
-        "trans": [
-            {
-                "tranCn": "银；银子；银器",
-                "pos": "n",
-                "tranEn": null
             }
         ]
     },
@@ -52021,17 +48772,6 @@
                 "tranCn": "有技能的，熟练的",
                 "pos": "adj",
                 "tranEn": "someone who is skilled has the training and experience that is needed to do something well"
-            }
-        ]
-    },
-    {
-        "id": 3339,
-        "word": "skillful",
-        "trans": [
-            {
-                "tranCn": "灵巧的，娴熟的",
-                "pos": "adj",
-                "tranEn": null
             }
         ]
     },
@@ -52151,17 +48891,6 @@
                 "tranCn": "倾斜",
                 "pos": "v",
                 "tranEn": "if the ground or a surface slopes, it is higher at one end than the other"
-            }
-        ]
-    },
-    {
-        "id": 3349,
-        "word": "smart",
-        "trans": [
-            {
-                "tranCn": "巧妙的；洒脱的",
-                "pos": "adj",
-                "tranEn": null
             }
         ]
     },
@@ -52313,22 +49042,6 @@
         ]
     },
     {
-        "id": 3362,
-        "word": "somewhat",
-        "trans": [
-            {
-                "tranCn": "一点儿",
-                "pos": "pron",
-                "tranEn": null
-            },
-            {
-                "tranCn": "有点",
-                "pos": "adv",
-                "tranEn": "more than a little but not very"
-            }
-        ]
-    },
-    {
         "id": 3363,
         "word": "sophisticated",
         "trans": [
@@ -52454,22 +49167,6 @@
         ]
     },
     {
-        "id": 3373,
-        "word": "spare",
-        "trans": [
-            {
-                "tranCn": "节约",
-                "pos": "v",
-                "tranEn": null
-            },
-            {
-                "tranCn": "多余的",
-                "pos": "adj",
-                "tranEn": "not being used or not needed at the present time"
-            }
-        ]
-    },
-    {
         "id": 3374,
         "word": "spark",
         "trans": [
@@ -52584,32 +49281,6 @@
         ]
     },
     {
-        "id": 3383,
-        "word": "spite",
-        "trans": [
-            {
-                "tranCn": "n.",
-                "pos": "n",
-                "tranEn": null
-            },
-            {
-                "tranCn": "恶意,怨恨,不顾",
-                "pos": "n",
-                "tranEn": "without being affected or prevented by something"
-            },
-            {
-                "tranCn": "vt.",
-                "pos": "n",
-                "tranEn": null
-            },
-            {
-                "tranCn": "刁难,欺侮",
-                "pos": "n",
-                "tranEn": null
-            }
-        ]
-    },
-    {
         "id": 3384,
         "word": "split",
         "trans": [
@@ -52633,22 +49304,6 @@
                 "tranCn": "损坏，糟蹋；宠坏",
                 "pos": "v",
                 "tranEn": "to have a bad effect on something so that it is no longer attractive, enjoyable, useful etc"
-            }
-        ]
-    },
-    {
-        "id": 3386,
-        "word": "sponsor",
-        "trans": [
-            {
-                "tranCn": "发起者",
-                "pos": "n",
-                "tranEn": "someone who officially introduces or supports a proposal for a new law"
-            },
-            {
-                "tranCn": "发起",
-                "pos": "v",
-                "tranEn": null
             }
         ]
     },
@@ -52823,17 +49478,6 @@
                 "tranCn": "桩；赌金；奖品",
                 "pos": "n",
                 "tranEn": "money that you risk as the result of a horse race, card game etc"
-            }
-        ]
-    },
-    {
-        "id": 3401,
-        "word": "stale",
-        "trans": [
-            {
-                "tranCn": "陈腐的；走了气的",
-                "pos": "n",
-                "tranEn": null
             }
         ]
     },
@@ -53057,22 +49701,6 @@
                 "tranCn": "长(统)袜",
                 "pos": "n",
                 "tranEn": "a thin close-fitting piece of clothing that covers a woman’s leg and foot"
-            }
-        ]
-    },
-    {
-        "id": 3420,
-        "word": "stoop",
-        "trans": [
-            {
-                "tranCn": "俯身；弯身",
-                "pos": "v",
-                "tranEn": "to bend your body forward and down"
-            },
-            {
-                "tranCn": "弯腰",
-                "pos": "n",
-                "tranEn": null
             }
         ]
     },
@@ -53305,38 +49933,6 @@
         ]
     },
     {
-        "id": 3439,
-        "word": "stuff",
-        "trans": [
-            {
-                "tranCn": "材料",
-                "pos": "n",
-                "tranEn": null
-            },
-            {
-                "tranCn": "装，填，塞",
-                "pos": "v",
-                "tranEn": "to push or put something into a small space, especially in a quick careless way"
-            }
-        ]
-    },
-    {
-        "id": 3440,
-        "word": "submarine",
-        "trans": [
-            {
-                "tranCn": "水下的",
-                "pos": "adj",
-                "tranEn": null
-            },
-            {
-                "tranCn": "潜水艇",
-                "pos": "n",
-                "tranEn": "a ship, especially a military one, that can stay under water"
-            }
-        ]
-    },
-    {
         "id": 3441,
         "word": "submerge",
         "trans": [
@@ -53500,17 +50096,6 @@
         ]
     },
     {
-        "id": 3454,
-        "word": "sulfur",
-        "trans": [
-            {
-                "tranCn": "硫(磺)，硫黄",
-                "pos": "n",
-                "tranEn": null
-            }
-        ]
-    },
-    {
         "id": 3455,
         "word": "sulphur",
         "trans": [
@@ -53518,22 +50103,6 @@
                 "tranCn": "硫(磺)，硫黄",
                 "pos": "n",
                 "tranEn": "a common light yellow chemical substance that burns with a very strong unpleasant smell, and is used in drugs, explosives, and industry. It is a chemical element :symbol S"
-            }
-        ]
-    },
-    {
-        "id": 3456,
-        "word": "sum",
-        "trans": [
-            {
-                "tranCn": "总数；金额",
-                "pos": "n",
-                "tranEn": "an amount of money"
-            },
-            {
-                "tranCn": "共计",
-                "pos": "v",
-                "tranEn": null
             }
         ]
     },
@@ -53692,17 +50261,6 @@
                 "tranCn": "吊，悬；推迟",
                 "pos": "v",
                 "tranEn": "to attach something to a high place so that it hangs down"
-            }
-        ]
-    },
-    {
-        "id": 3470,
-        "word": "suspicion",
-        "trans": [
-            {
-                "tranCn": "怀疑，疑心，猜疑",
-                "pos": "n",
-                "tranEn": null
             }
         ]
     },
@@ -53903,17 +50461,6 @@
         ]
     },
     {
-        "id": 3487,
-        "word": "systematical",
-        "trans": [
-            {
-                "tranCn": "有系统的；有计划的",
-                "pos": "adj",
-                "tranEn": null
-            }
-        ]
-    },
-    {
         "id": 3488,
         "word": "tag",
         "trans": [
@@ -53921,22 +50468,6 @@
                 "tranCn": "附加语；标签",
                 "pos": "n",
                 "tranEn": "a small piece of paper, plastic etc attached to something to show what it is, who owns it, what it costs etc"
-            }
-        ]
-    },
-    {
-        "id": 3489,
-        "word": "tailor",
-        "trans": [
-            {
-                "tranCn": "裁缝",
-                "pos": "n",
-                "tranEn": "someone whose job is to make men’s clothes, that are measured to fit each customer perfectly"
-            },
-            {
-                "tranCn": "裁制衣服",
-                "pos": "v",
-                "tranEn": null
             }
         ]
     },
@@ -54166,38 +50697,6 @@
         ]
     },
     {
-        "id": 3510,
-        "word": "tension",
-        "trans": [
-            {
-                "tranCn": "n.",
-                "pos": "n",
-                "tranEn": null
-            },
-            {
-                "tranCn": "紧张,不安,拉紧,张力",
-                "pos": "n",
-                "tranEn": "a nervous worried feeling that makes it impossible for you to relax"
-            }
-        ]
-    },
-    {
-        "id": 3511,
-        "word": "terminal",
-        "trans": [
-            {
-                "tranCn": "末端的",
-                "pos": "adj",
-                "tranEn": null
-            },
-            {
-                "tranCn": "末端",
-                "pos": "n",
-                "tranEn": "a piece of computer equipment consisting of at least a  keyboard  and a screen, that you use for putting in or taking out information from a large computer"
-            }
-        ]
-    },
-    {
         "id": 3512,
         "word": "terrible",
         "trans": [
@@ -54227,27 +50726,6 @@
                 "tranCn": "恐怖，惊骇",
                 "pos": "n",
                 "tranEn": "a feeling of extreme fear"
-            }
-        ]
-    },
-    {
-        "id": 3515,
-        "word": "textile",
-        "trans": [
-            {
-                "tranCn": "n.",
-                "pos": "n",
-                "tranEn": null
-            },
-            {
-                "tranCn": "纺织品",
-                "pos": "n",
-                "tranEn": "any type of woven cloth that is made in large quantities, used especially by people in the business of making clothes etc"
-            },
-            {
-                "tranCn": "纺织的",
-                "pos": "adj",
-                "tranEn": null
             }
         ]
     },
@@ -54396,22 +50874,6 @@
                 "tranCn": "到处",
                 "pos": "adv",
                 "tranEn": "Throughout is also an adverb"
-            }
-        ]
-    },
-    {
-        "id": 3529,
-        "word": "thrust",
-        "trans": [
-            {
-                "tranCn": "插，刺",
-                "pos": "v",
-                "tranEn": "to make a sudden movement forward with a sword or knife"
-            },
-            {
-                "tranCn": "插；讽刺",
-                "pos": "n",
-                "tranEn": null
             }
         ]
     },
@@ -54660,17 +51122,6 @@
         ]
     },
     {
-        "id": 3549,
-        "word": "tour",
-        "trans": [
-            {
-                "tranCn": "旅行，游历",
-                "pos": "n&vi",
-                "tranEn": null
-            }
-        ]
-    },
-    {
         "id": 3550,
         "word": "tourist",
         "trans": [
@@ -54845,17 +51296,6 @@
         ]
     },
     {
-        "id": 3564,
-        "word": "transistor",
-        "trans": [
-            {
-                "tranCn": "晶体管",
-                "pos": "n",
-                "tranEn": null
-            }
-        ]
-    },
-    {
         "id": 3565,
         "word": "transmission",
         "trans": [
@@ -55015,22 +51455,6 @@
                 "tranCn": "极大的，非常的",
                 "pos": "adj",
                 "tranEn": "very big, fast, powerful etc"
-            }
-        ]
-    },
-    {
-        "id": 3578,
-        "word": "trend",
-        "trans": [
-            {
-                "tranCn": "伸向；倾向",
-                "pos": "v",
-                "tranEn": null
-            },
-            {
-                "tranCn": "倾向",
-                "pos": "n",
-                "tranEn": "a general tendency in the way a situation is changing or developing"
             }
         ]
     },
@@ -55236,22 +51660,6 @@
         ]
     },
     {
-        "id": 3595,
-        "word": "twin",
-        "trans": [
-            {
-                "tranCn": "孪生的",
-                "pos": "adj",
-                "tranEn": null
-            },
-            {
-                "tranCn": "孪生儿",
-                "pos": "n",
-                "tranEn": null
-            }
-        ]
-    },
-    {
         "id": 3596,
         "word": "twist",
         "trans": [
@@ -55423,17 +51831,6 @@
                 "tranCn": "解开，打开；取消",
                 "pos": "v",
                 "tranEn": "to open something that is tied, fastened or wrapped"
-            }
-        ]
-    },
-    {
-        "id": 3611,
-        "word": "undoubtedly",
-        "trans": [
-            {
-                "tranCn": "无容置疑，肯定地",
-                "pos": "adv",
-                "tranEn": null
             }
         ]
     },
@@ -55652,22 +52049,6 @@
                 "tranCn": "向上的，上升的",
                 "pos": "adj",
                 "tranEn": "increasing to a higher level"
-            }
-        ]
-    },
-    {
-        "id": 3630,
-        "word": "urban",
-        "trans": [
-            {
-                "tranCn": "a.",
-                "pos": "adj",
-                "tranEn": null
-            },
-            {
-                "tranCn": "都市的,住在都市的",
-                "pos": "adj",
-                "tranEn": "relating to towns and cities"
             }
         ]
     },
@@ -55956,22 +52337,6 @@
         ]
     },
     {
-        "id": 3655,
-        "word": "venture",
-        "trans": [
-            {
-                "tranCn": "冒险",
-                "pos": "n&vi",
-                "tranEn": "a new business activity that involves taking risks"
-            },
-            {
-                "tranCn": "敢于",
-                "pos": "v",
-                "tranEn": null
-            }
-        ]
-    },
-    {
         "id": 3656,
         "word": "verify",
         "trans": [
@@ -56065,17 +52430,6 @@
         ]
     },
     {
-        "id": 3664,
-        "word": "vigorous",
-        "trans": [
-            {
-                "tranCn": "朝气蓬勃的",
-                "pos": "adj",
-                "tranEn": null
-            }
-        ]
-    },
-    {
         "id": 3665,
         "word": "vinegar",
         "trans": [
@@ -56149,17 +52503,6 @@
                 "tranCn": "视；想象力；梦幻",
                 "pos": "n",
                 "tranEn": "the ability to see"
-            }
-        ]
-    },
-    {
-        "id": 3672,
-        "word": "visual",
-        "trans": [
-            {
-                "tranCn": "看的；看得见的",
-                "pos": "adj",
-                "tranEn": null
             }
         ]
     },
@@ -56248,44 +52591,6 @@
                 "tranCn": "自愿的，志愿的",
                 "pos": "adj",
                 "tranEn": "done willingly and without being forced"
-            }
-        ]
-    },
-    {
-        "id": 3681,
-        "word": "voyage",
-        "trans": [
-            {
-                "tranCn": "航海，航空",
-                "pos": "n&vi",
-                "tranEn": "a long journey in a ship or spacecraft"
-            },
-            {
-                "tranCn": "字",
-                "pos": "n",
-                "tranEn": null
-            }
-        ]
-    },
-    {
-        "id": 3682,
-        "word": "wage",
-        "trans": [
-            {
-                "tranCn": "开展(运动)",
-                "pos": "v",
-                "tranEn": null
-            }
-        ]
-    },
-    {
-        "id": 3683,
-        "word": "waggon",
-        "trans": [
-            {
-                "tranCn": "四轮运货马车",
-                "pos": "n",
-                "tranEn": null
             }
         ]
     },
@@ -56514,17 +52819,6 @@
                 "tranCn": "轮，车轮",
                 "pos": "n",
                 "tranEn": "one of the round things under a car, bus, bicycle etc that turns when it moves"
-            }
-        ]
-    },
-    {
-        "id": 3702,
-        "word": "whilst",
-        "trans": [
-            {
-                "tranCn": "当…的时候",
-                "pos": "conj&n",
-                "tranEn": null
             }
         ]
     },
@@ -56790,22 +53084,6 @@
         ]
     },
     {
-        "id": 3724,
-        "word": "worship",
-        "trans": [
-            {
-                "tranCn": "礼拜；崇拜",
-                "pos": "n",
-                "tranEn": null
-            },
-            {
-                "tranCn": "崇拜",
-                "pos": "v",
-                "tranEn": "to admire and love someone very much"
-            }
-        ]
-    },
-    {
         "id": 3725,
         "word": "worst",
         "trans": [
@@ -56818,22 +53096,6 @@
                 "tranCn": "最坏地",
                 "pos": "adv",
                 "tranEn": "most badly"
-            }
-        ]
-    },
-    {
-        "id": 3726,
-        "word": "worth",
-        "trans": [
-            {
-                "tranCn": "值…的",
-                "pos": "adj",
-                "tranEn": null
-            },
-            {
-                "tranCn": "价值",
-                "pos": "n",
-                "tranEn": "an amount of something worth ten pounds, $500 etc"
             }
         ]
     },
@@ -56867,22 +53129,6 @@
                 "tranCn": "有价值的；值得的",
                 "pos": "adj",
                 "tranEn": "deserving respect from people"
-            }
-        ]
-    },
-    {
-        "id": 3730,
-        "word": "wound",
-        "trans": [
-            {
-                "tranCn": "创伤，伤",
-                "pos": "n",
-                "tranEn": "an injury to your body that is made by a weapon such as a knife or a bullet"
-            },
-            {
-                "tranCn": "使受伤",
-                "pos": "v",
-                "tranEn": null
             }
         ]
     },
@@ -57045,22 +53291,6 @@
                 "tranCn": " 众多的",
                 "pos": "adj",
                 "tranEn": "many"
-            }
-        ]
-    },
-    {
-        "id": 4,
-        "word": "govern",
-        "trans": [
-            {
-                "tranCn": " 居支配地位， 占优势",
-                "pos": "vi",
-                "tranEn": null
-            },
-            {
-                "tranCn": "统治，治理，支配",
-                "pos": "vt",
-                "tranEn": "to officially and legally control a country and make all the decisions about taxes, laws, public services etc"
             }
         ]
     },
@@ -58008,22 +54238,6 @@
         ]
     },
     {
-        "id": 83,
-        "word": "dominate",
-        "trans": [
-            {
-                "tranCn": " 拥有优势",
-                "pos": "vi",
-                "tranEn": null
-            },
-            {
-                "tranCn": "在…中占首要地位；支配，统治，控制；耸立于，俯视",
-                "pos": "vt",
-                "tranEn": "to control someone or something or to have more importance than other people or things"
-            }
-        ]
-    },
-    {
         "id": 84,
         "word": "imitate",
         "trans": [
@@ -58128,22 +54342,6 @@
         ]
     },
     {
-        "id": 93,
-        "word": "besides",
-        "trans": [
-            {
-                "tranCn": "而且",
-                "pos": "adv",
-                "tranEn": "used when adding another reason"
-            },
-            {
-                "tranCn": " 除…之外",
-                "pos": "prep",
-                "tranEn": null
-            }
-        ]
-    },
-    {
         "id": 94,
         "word": "preposition",
         "trans": [
@@ -58194,17 +54392,6 @@
                 "tranCn": " 输出， 出口； 输出品， 出口额",
                 "pos": "n",
                 "tranEn": "the business of selling and sending goods to other countries"
-            }
-        ]
-    },
-    {
-        "id": 98,
-        "word": "Christ",
-        "trans": [
-            {
-                "tranCn": " 基督， 救世主",
-                "pos": "n",
-                "tranEn": null
             }
         ]
     },
@@ -58450,17 +54637,6 @@
                 "tranCn": " 用绳捆",
                 "pos": "vt",
                 "tranEn": "to tie things together using rope"
-            }
-        ]
-    },
-    {
-        "id": 119,
-        "word": "provided",
-        "trans": [
-            {
-                "tranCn": " 假如， 若是",
-                "pos": "conj",
-                "tranEn": null
             }
         ]
     },
@@ -58928,17 +55104,6 @@
         ]
     },
     {
-        "id": 158,
-        "word": "offense",
-        "trans": [
-            {
-                "tranCn": " 犯规， 违法行为； 冒犯， 得罪",
-                "pos": "n",
-                "tranEn": null
-            }
-        ]
-    },
-    {
         "id": 159,
         "word": "breadth",
         "trans": [
@@ -58946,22 +55111,6 @@
                 "tranCn": " 宽度； 幅度， 幅面",
                 "pos": "n",
                 "tranEn": "the distance from one side of something to the other"
-            }
-        ]
-    },
-    {
-        "id": 160,
-        "word": "catalog",
-        "trans": [
-            {
-                "tranCn": "目录，目录册；一系列",
-                "pos": "n",
-                "tranEn": null
-            },
-            {
-                "tranCn": " 将…编入目录， 将编目",
-                "pos": "vt",
-                "tranEn": null
             }
         ]
     },
@@ -59316,22 +55465,6 @@
         ]
     },
     {
-        "id": 191,
-        "word": "bulk",
-        "trans": [
-            {
-                "tranCn": " 变得越来越大； 使更大",
-                "pos": "vi",
-                "tranEn": null
-            },
-            {
-                "tranCn": "物体；体积；大批",
-                "pos": "n",
-                "tranEn": "the size of something or someone"
-            }
-        ]
-    },
-    {
         "id": 192,
         "word": "coach",
         "trans": [
@@ -59409,17 +55542,6 @@
                 "tranCn": "松树，松木",
                 "pos": "n",
                 "tranEn": "a tall tree with long hard sharp leaves that do not fall off in winter"
-            }
-        ]
-    },
-    {
-        "id": 198,
-        "word": "magnificent",
-        "trans": [
-            {
-                "tranCn": " 宏伟的， 壮丽的； 华丽的； 极好的",
-                "pos": "n",
-                "tranEn": null
             }
         ]
     },
@@ -59718,17 +55840,6 @@
         ]
     },
     {
-        "id": 223,
-        "word": "undoubtedly",
-        "trans": [
-            {
-                "tranCn": " 毋庸置疑地， 肯定地",
-                "pos": "adv",
-                "tranEn": null
-            }
-        ]
-    },
-    {
         "id": 224,
         "word": "infect",
         "trans": [
@@ -59769,27 +55880,6 @@
                 "tranCn": "细菌",
                 "pos": "n",
                 "tranEn": "very small living things, some of which cause illness or disease"
-            }
-        ]
-    },
-    {
-        "id": 228,
-        "word": "minor",
-        "trans": [
-            {
-                "tranCn": " 辅修",
-                "pos": "vi",
-                "tranEn": null
-            },
-            {
-                "tranCn": "较小的，较少的；次要的",
-                "pos": "adj",
-                "tranEn": "small and not very important or serious, especially when compared with other things"
-            },
-            {
-                "tranCn": "未成年人；辅修科目",
-                "pos": "n",
-                "tranEn": "someone who is below the age at which they become legally responsible for their actions"
             }
         ]
     },
@@ -59947,22 +56037,6 @@
                 "tranCn": " 完全相同的， 同一的",
                 "pos": "adj",
                 "tranEn": "exactly the same, or very similar"
-            }
-        ]
-    },
-    {
-        "id": 241,
-        "word": "lag",
-        "trans": [
-            {
-                "tranCn": "走得慢",
-                "pos": "vi",
-                "tranEn": null
-            },
-            {
-                "tranCn": " 落后",
-                "pos": "n",
-                "tranEn": null
             }
         ]
     },
@@ -60140,22 +56214,6 @@
         ]
     },
     {
-        "id": 255,
-        "word": "beneath",
-        "trans": [
-            {
-                "tranCn": " 在下方， 在底下",
-                "pos": "adv",
-                "tranEn": "in or to a lower position than something, or directly under something"
-            },
-            {
-                "tranCn": "在…下方；低于，次于；在…掩盖下；连…也不值得，有失…的身份",
-                "pos": "prep",
-                "tranEn": null
-            }
-        ]
-    },
-    {
         "id": 256,
         "word": "terror",
         "trans": [
@@ -60174,22 +56232,6 @@
                 "tranCn": " 比较， 对照； 比拟， 比喻",
                 "pos": "n",
                 "tranEn": "the process of comparing two or more people or things"
-            }
-        ]
-    },
-    {
-        "id": 258,
-        "word": "surge",
-        "trans": [
-            {
-                "tranCn": "蜂拥而出；洋溢，奔放；汹涌，奔腾",
-                "pos": "vi",
-                "tranEn": "If a crowd of people surge forward, they suddenly move forward together"
-            },
-            {
-                "tranCn": " 大浪， 波涛； 高涨； 汹涌",
-                "pos": "n",
-                "tranEn": null
             }
         ]
     },
@@ -60358,17 +56400,6 @@
         ]
     },
     {
-        "id": 273,
-        "word": "rarely",
-        "trans": [
-            {
-                "tranCn": " 很少， 难得",
-                "pos": "adv",
-                "tranEn": null
-            }
-        ]
-    },
-    {
         "id": 274,
         "word": "evil",
         "trans": [
@@ -60468,22 +56499,6 @@
                 "tranCn": " 技术， 技巧， 技能",
                 "pos": "n",
                 "tranEn": "a special way of doing something"
-            }
-        ]
-    },
-    {
-        "id": 282,
-        "word": "combat",
-        "trans": [
-            {
-                "tranCn": "战争，斗争，格斗",
-                "pos": "n",
-                "tranEn": "fighting, especially during a war"
-            },
-            {
-                "tranCn": " 与…斗争， 与…战斗",
-                "pos": "vt",
-                "tranEn": null
             }
         ]
     },
@@ -60685,27 +56700,6 @@
                 "tranCn": " 首领， 长官； 酋长， 族长",
                 "pos": "n",
                 "tranEn": "the ruler of a tribe"
-            }
-        ]
-    },
-    {
-        "id": 299,
-        "word": "accord",
-        "trans": [
-            {
-                "tranCn": " 相符合； 相一致",
-                "pos": "vi",
-                "tranEn": null
-            },
-            {
-                "tranCn": "一致，符合；谅解，协议",
-                "pos": "n",
-                "tranEn": "a situation in which two people, ideas, or statements agree with each other"
-            },
-            {
-                "tranCn": "使符合；使一致；调节；授予，赠与，给予",
-                "pos": "vt",
-                "tranEn": "to give someone or something special attention or a particular type of treatment"
             }
         ]
     },
@@ -61280,38 +57274,6 @@
         ]
     },
     {
-        "id": 345,
-        "word": "stereotype",
-        "trans": [
-            {
-                "tranCn": "陈规，老套，固定的模式；铅版",
-                "pos": "n",
-                "tranEn": null
-            },
-            {
-                "tranCn": " 把…浇铸成铅版； 对…形成固定看法",
-                "pos": "vt",
-                "tranEn": null
-            }
-        ]
-    },
-    {
-        "id": 346,
-        "word": "enroll",
-        "trans": [
-            {
-                "tranCn": "入学，加入",
-                "pos": "vi",
-                "tranEn": null
-            },
-            {
-                "tranCn": " 招收， 吸收",
-                "pos": "vt",
-                "tranEn": null
-            }
-        ]
-    },
-    {
         "id": 347,
         "word": "offend",
         "trans": [
@@ -61401,22 +57363,6 @@
                 "tranCn": " 娱乐， 文娱节目， 表演会； 招待， 款待， 请客",
                 "pos": "n",
                 "tranEn": "things such as films, television, performances etc that are intended to amuse or interest people"
-            }
-        ]
-    },
-    {
-        "id": 355,
-        "word": "document",
-        "trans": [
-            {
-                "tranCn": "公文，文件；证件",
-                "pos": "n",
-                "tranEn": "a piece of paper that has official information on it"
-            },
-            {
-                "tranCn": " 用文件等证明",
-                "pos": "vt",
-                "tranEn": null
             }
         ]
     },
@@ -62269,22 +58215,6 @@
         ]
     },
     {
-        "id": 424,
-        "word": "ultimate",
-        "trans": [
-            {
-                "tranCn": "最后的，最终的",
-                "pos": "adj",
-                "tranEn": "someone’s ultimate aim is their main and most important aim, that they hope to achieve in the future"
-            },
-            {
-                "tranCn": " 终极， 顶点",
-                "pos": "n",
-                "tranEn": null
-            }
-        ]
-    },
-    {
         "id": 425,
         "word": "campus",
         "trans": [
@@ -62646,17 +58576,6 @@
                 "tranCn": " 病， 疾病； 不健全； 弊端",
                 "pos": "n",
                 "tranEn": "an illness which affects a person, animal, or plant"
-            }
-        ]
-    },
-    {
-        "id": 455,
-        "word": "center",
-        "trans": [
-            {
-                "tranCn": " 圆心， 正中； 中心",
-                "pos": "n",
-                "tranEn": null
             }
         ]
     },
@@ -63538,17 +59457,6 @@
         ]
     },
     {
-        "id": 528,
-        "word": "heterogeneity",
-        "trans": [
-            {
-                "tranCn": " 异种， 异质， 不同成分",
-                "pos": "n",
-                "tranEn": null
-            }
-        ]
-    },
-    {
         "id": 529,
         "word": "sword",
         "trans": [
@@ -63966,17 +59874,6 @@
                 "tranCn": " 抵抗， 反抗， 抵制； 抗， 耐； 忍住， 拒受…的影响",
                 "pos": "v",
                 "tranEn": "to stop yourself from having something that you like very much or doing something that you want to do"
-            }
-        ]
-    },
-    {
-        "id": 565,
-        "word": "liter",
-        "trans": [
-            {
-                "tranCn": " 升",
-                "pos": "n",
-                "tranEn": null
             }
         ]
     },
@@ -64538,22 +60435,6 @@
         ]
     },
     {
-        "id": 613,
-        "word": "account",
-        "trans": [
-            {
-                "tranCn": " 说明原因； 占",
-                "pos": "vi",
-                "tranEn": null
-            },
-            {
-                "tranCn": "记述；解释；账目",
-                "pos": "n",
-                "tranEn": "an arrangement in which a bank keeps your money safe so that you can pay more in or take money out"
-            }
-        ]
-    },
-    {
         "id": 614,
         "word": "uneasy",
         "trans": [
@@ -64767,22 +60648,6 @@
         ]
     },
     {
-        "id": 632,
-        "word": "cube",
-        "trans": [
-            {
-                "tranCn": " 清澈透明的",
-                "pos": "adj",
-                "tranEn": null
-            },
-            {
-                "tranCn": "立方形，立方",
-                "pos": "n",
-                "tranEn": "a solid object with six equal square sides"
-            }
-        ]
-    },
-    {
         "id": 633,
         "word": "rally",
         "trans": [
@@ -64931,17 +60796,6 @@
                 "tranCn": " 宿舍",
                 "pos": "n",
                 "tranEn": "a  dormitory "
-            }
-        ]
-    },
-    {
-        "id": 645,
-        "word": "whichever",
-        "trans": [
-            {
-                "tranCn": " 无论哪个， 无论哪些",
-                "pos": "pron&adj",
-                "tranEn": null
             }
         ]
     },
@@ -65157,17 +61011,6 @@
         ]
     },
     {
-        "id": 662,
-        "word": "pluralism",
-        "trans": [
-            {
-                "tranCn": " 多重性； 兼职， 兼任",
-                "pos": "n",
-                "tranEn": null
-            }
-        ]
-    },
-    {
         "id": 663,
         "word": "influential",
         "trans": [
@@ -65300,17 +61143,6 @@
                 "tranCn": " 抓； 理解",
                 "pos": "n",
                 "tranEn": "the way you hold something or your ability to hold it"
-            }
-        ]
-    },
-    {
-        "id": 674,
-        "word": "involvement",
-        "trans": [
-            {
-                "tranCn": " 连累； 包含",
-                "pos": "n",
-                "tranEn": null
             }
         ]
     },
@@ -65876,22 +61708,6 @@
         ]
     },
     {
-        "id": 721,
-        "word": "parcel",
-        "trans": [
-            {
-                "tranCn": "包裹，小包，邮包",
-                "pos": "n",
-                "tranEn": "an object that has been wrapped in paper or put in a special envelope, especially so that it can be sent by post"
-            },
-            {
-                "tranCn": " 分， 分配； 把…包起来， 捆扎",
-                "pos": "vt",
-                "tranEn": null
-            }
-        ]
-    },
-    {
         "id": 722,
         "word": "static",
         "trans": [
@@ -66411,27 +62227,6 @@
                 "tranCn": " 外面的； 外表的； 向外的",
                 "pos": "adj",
                 "tranEn": "relating to how a person or situation seems to be, rather than how it really is"
-            }
-        ]
-    },
-    {
-        "id": 765,
-        "word": "bloody",
-        "trans": [
-            {
-                "tranCn": "[用于加强语气]非常，很",
-                "pos": "adv",
-                "tranEn": null
-            },
-            {
-                "tranCn": "[用于加强语气]非常的；该死的；流血的；嗜杀的",
-                "pos": "adj",
-                "tranEn": "used to emphasize an angry statement or order"
-            },
-            {
-                "tranCn": " 血染",
-                "pos": "vt",
-                "tranEn": "to injure someone so that blood comes, or to cover something with blood"
             }
         ]
     },
@@ -67325,22 +63120,6 @@
         ]
     },
     {
-        "id": 835,
-        "word": "dot",
-        "trans": [
-            {
-                "tranCn": "点，圆点",
-                "pos": "n",
-                "tranEn": "a small round mark or spot"
-            },
-            {
-                "tranCn": " 打点于",
-                "pos": "vt",
-                "tranEn": null
-            }
-        ]
-    },
-    {
         "id": 836,
         "word": "skim",
         "trans": [
@@ -67615,17 +63394,6 @@
                 "tranCn": " 可比较的； 类似的； 比得上的",
                 "pos": "adj",
                 "tranEn": "similar to something else in size, number, quality etc, so that you can make a comparison"
-            }
-        ]
-    },
-    {
-        "id": 859,
-        "word": "specialize",
-        "trans": [
-            {
-                "tranCn": " 成为…专家； 专攻",
-                "pos": "vi",
-                "tranEn": null
             }
         ]
     },
@@ -68458,22 +64226,6 @@
         ]
     },
     {
-        "id": 928,
-        "word": "structure",
-        "trans": [
-            {
-                "tranCn": "结构，构造",
-                "pos": "n",
-                "tranEn": "the way in which the parts of something are connected with each other and form a whole, or the thing that these parts make up"
-            },
-            {
-                "tranCn": " 建造",
-                "pos": "vt",
-                "tranEn": null
-            }
-        ]
-    },
-    {
         "id": 929,
         "word": "intensity",
         "trans": [
@@ -68617,17 +64369,6 @@
                 "tranCn": " 烤， 烘， 焙",
                 "pos": "vt",
                 "tranEn": "to cook something using dry heat, in an  oven "
-            }
-        ]
-    },
-    {
-        "id": 941,
-        "word": "mere",
-        "trans": [
-            {
-                "tranCn": " 仅仅的； 纯粹的",
-                "pos": "adj",
-                "tranEn": null
             }
         ]
     },
@@ -69019,22 +64760,6 @@
                 "tranCn": " 磁的； 有吸引力的",
                 "pos": "adj",
                 "tranEn": "concerning or produced by  magnetism "
-            }
-        ]
-    },
-    {
-        "id": 973,
-        "word": "band",
-        "trans": [
-            {
-                "tranCn": "乐队；群，伙；带；条纹；波段",
-                "pos": "n",
-                "tranEn": "a group of musicians, especially a group that plays popular music"
-            },
-            {
-                "tranCn": " 用带绑扎",
-                "pos": "vt",
-                "tranEn": null
             }
         ]
     },
@@ -69485,22 +65210,6 @@
         ]
     },
     {
-        "id": 1010,
-        "word": "fundamental",
-        "trans": [
-            {
-                "tranCn": "基础的，基本的",
-                "pos": "adj",
-                "tranEn": "relating to the most basic and important parts of something"
-            },
-            {
-                "tranCn": " 基本原则",
-                "pos": "n",
-                "tranEn": null
-            }
-        ]
-    },
-    {
         "id": 1011,
         "word": "eliminate",
         "trans": [
@@ -69600,27 +65309,6 @@
                 "tranCn": " 超越； 过量， 过度",
                 "pos": "n",
                 "tranEn": "a larger amount of something than is allowed or needed"
-            }
-        ]
-    },
-    {
-        "id": 1019,
-        "word": "glance",
-        "trans": [
-            {
-                "tranCn": "看一下",
-                "pos": "vi",
-                "tranEn": "to quickly look at someone or something"
-            },
-            {
-                "tranCn": "一瞥",
-                "pos": "n",
-                "tranEn": "a quick look"
-            },
-            {
-                "tranCn": " 用扫视； 反射",
-                "pos": "vt",
-                "tranEn": null
             }
         ]
     },
@@ -69747,17 +65435,6 @@
                 "tranCn": " 狼",
                 "pos": "n",
                 "tranEn": "a wild animal that looks like a large dog and lives and hunts in groups"
-            }
-        ]
-    },
-    {
-        "id": 1031,
-        "word": "accordance",
-        "trans": [
-            {
-                "tranCn": " 一致； 和谐",
-                "pos": "n",
-                "tranEn": null
             }
         ]
     },
@@ -69908,17 +65585,6 @@
         ]
     },
     {
-        "id": 1043,
-        "word": "marvelous",
-        "trans": [
-            {
-                "tranCn": " 奇迹般的， 了不起的",
-                "pos": "adj",
-                "tranEn": null
-            }
-        ]
-    },
-    {
         "id": 1044,
         "word": "household",
         "trans": [
@@ -70008,22 +65674,6 @@
                 "tranCn": " 本能， 天性； 直觉",
                 "pos": "n",
                 "tranEn": "a natural tendency to behave in a particular way or a natural ability to know something, which is not learned"
-            }
-        ]
-    },
-    {
-        "id": 1052,
-        "word": "approximate",
-        "trans": [
-            {
-                "tranCn": " 近似的",
-                "pos": "adj",
-                "tranEn": null
-            },
-            {
-                "tranCn": " 近似； 估计",
-                "pos": "vt",
-                "tranEn": "to be close to a particular number"
             }
         ]
     },
@@ -70405,17 +66055,6 @@
                 "tranCn": "战役；运动",
                 "pos": "n",
                 "tranEn": "a series of actions intended to achieve a particular result relating to politics or business, or a social improvement"
-            }
-        ]
-    },
-    {
-        "id": 1084,
-        "word": "systematical",
-        "trans": [
-            {
-                "tranCn": " 有系统的， 有计划的",
-                "pos": "adj",
-                "tranEn": null
             }
         ]
     },
@@ -70990,22 +66629,6 @@
         ]
     },
     {
-        "id": 1130,
-        "word": "trend",
-        "trans": [
-            {
-                "tranCn": "伸向；倾向",
-                "pos": "vi",
-                "tranEn": null
-            },
-            {
-                "tranCn": " 倾向",
-                "pos": "n",
-                "tranEn": "a general tendency in the way a situation is changing or developing"
-            }
-        ]
-    },
-    {
         "id": 1131,
         "word": "achievement",
         "trans": [
@@ -71028,17 +66651,6 @@
         ]
     },
     {
-        "id": 1133,
-        "word": "desirable",
-        "trans": [
-            {
-                "tranCn": " 值得向往的， 令人满意的",
-                "pos": "adj",
-                "tranEn": null
-            }
-        ]
-    },
-    {
         "id": 1134,
         "word": "balcony",
         "trans": [
@@ -71046,17 +66658,6 @@
                 "tranCn": " 阳台； 楼厅， 楼座",
                 "pos": "n",
                 "tranEn": "a structure that you can stand on, that is attached to the outside wall of a building, above ground level"
-            }
-        ]
-    },
-    {
-        "id": 1135,
-        "word": "consist",
-        "trans": [
-            {
-                "tranCn": " 由…组成； 在于； 一致",
-                "pos": "vi",
-                "tranEn": null
             }
         ]
     },
@@ -71139,22 +66740,6 @@
                 "tranCn": " 使能够， 使可能",
                 "pos": "vt",
                 "tranEn": "to make it possible for someone to do something, or for something to happen"
-            }
-        ]
-    },
-    {
-        "id": 1143,
-        "word": "preliminary",
-        "trans": [
-            {
-                "tranCn": "预备的，初步的",
-                "pos": "adj",
-                "tranEn": "happening before something that is more important, often in order to prepare for it"
-            },
-            {
-                "tranCn": " 初步做法， 起始行为",
-                "pos": "n",
-                "tranEn": null
             }
         ]
     },
@@ -71842,22 +67427,6 @@
         ]
     },
     {
-        "id": 1202,
-        "word": "alongside",
-        "trans": [
-            {
-                "tranCn": "在旁边，沿着边，并排地",
-                "pos": "adv",
-                "tranEn": "next to the side of something"
-            },
-            {
-                "tranCn": " 在…旁边， 沿着…的边； 和…在一起",
-                "pos": "prep",
-                "tranEn": null
-            }
-        ]
-    },
-    {
         "id": 1203,
         "word": "swallow",
         "trans": [
@@ -71892,22 +67461,6 @@
                 "tranCn": " 礼券， 优惠券， 配给券； 联票； 票证",
                 "pos": "n",
                 "tranEn": "a small piece of printed paper that gives you the right to pay less for something or get something free"
-            }
-        ]
-    },
-    {
-        "id": 1206,
-        "word": "railroad",
-        "trans": [
-            {
-                "tranCn": "铁路",
-                "pos": "n",
-                "tranEn": "a railway or the railway"
-            },
-            {
-                "tranCn": " 由铁路运输",
-                "pos": "vt",
-                "tranEn": null
             }
         ]
     },
@@ -71967,17 +67520,6 @@
                 "tranCn": "刺伤处，蜇伤处",
                 "pos": "n",
                 "tranEn": "a wound or mark made when an insect or plant stings you"
-            }
-        ]
-    },
-    {
-        "id": 1211,
-        "word": "haste",
-        "trans": [
-            {
-                "tranCn": " 急速， 急忙； 草率",
-                "pos": "n",
-                "tranEn": null
             }
         ]
     },
@@ -72266,22 +67808,6 @@
                 "tranCn": " 蛙",
                 "pos": "n",
                 "tranEn": "a small green animal that lives near water and has long legs for jumping"
-            }
-        ]
-    },
-    {
-        "id": 1235,
-        "word": "spite",
-        "trans": [
-            {
-                "tranCn": "恶意，怨恨",
-                "pos": "n",
-                "tranEn": "a feeling of wanting to hurt or upset people, for example because you are  jealous  or think you have been unfairly treated"
-            },
-            {
-                "tranCn": " 刁难， 欺侮",
-                "pos": "vt",
-                "tranEn": null
             }
         ]
     },
@@ -72597,17 +68123,6 @@
         ]
     },
     {
-        "id": 1262,
-        "word": "according",
-        "trans": [
-            {
-                "tranCn": " 相等的， 一致的， 依…而定的",
-                "pos": "adj",
-                "tranEn": null
-            }
-        ]
-    },
-    {
         "id": 1263,
         "word": "insure",
         "trans": [
@@ -72724,17 +68239,6 @@
                 "tranCn": " 黑人",
                 "pos": "n",
                 "tranEn": "a word for a black person, usually considered offensive"
-            }
-        ]
-    },
-    {
-        "id": 1273,
-        "word": "modernization",
-        "trans": [
-            {
-                "tranCn": " 现代化",
-                "pos": "n",
-                "tranEn": null
             }
         ]
     },
@@ -73240,22 +68744,6 @@
         ]
     },
     {
-        "id": 1315,
-        "word": "visual",
-        "trans": [
-            {
-                "tranCn": "看得见的",
-                "pos": "adj",
-                "tranEn": null
-            },
-            {
-                "tranCn": " 视觉资料",
-                "pos": "n",
-                "tranEn": "something such as a picture or the part of a film, video etc that you can see, as opposed to the parts that you hear"
-            }
-        ]
-    },
-    {
         "id": 1316,
         "word": "understanding",
         "trans": [
@@ -73503,22 +68991,6 @@
         ]
     },
     {
-        "id": 1338,
-        "word": "institute",
-        "trans": [
-            {
-                "tranCn": "研究所，学院",
-                "pos": "n",
-                "tranEn": "an organization that has a particular purpose such as scientific or educational work, or the building where this organization is based"
-            },
-            {
-                "tranCn": " 建立， 设立",
-                "pos": "vt",
-                "tranEn": null
-            }
-        ]
-    },
-    {
         "id": 1339,
         "word": "aboard",
         "trans": [
@@ -73586,17 +69058,6 @@
                 "tranCn": " 适当的， 恰当的",
                 "pos": "adj",
                 "tranEn": "correct or suitable for a particular time, situation, or purpose"
-            }
-        ]
-    },
-    {
-        "id": 1345,
-        "word": "providing",
-        "trans": [
-            {
-                "tranCn": " 倘若",
-                "pos": "conj",
-                "tranEn": null
             }
         ]
     },
@@ -73734,17 +69195,6 @@
                 "tranCn": " 侵略的， 好斗的； 敢做敢为的； 有进取心的",
                 "pos": "adj",
                 "tranEn": "behaving in an angry threatening way, as if you want to fight or attack someone"
-            }
-        ]
-    },
-    {
-        "id": 1358,
-        "word": "behavior",
-        "trans": [
-            {
-                "tranCn": " 行为， 举止， 表现",
-                "pos": "n",
-                "tranEn": null
             }
         ]
     },
@@ -73940,22 +69390,6 @@
         ]
     },
     {
-        "id": 1375,
-        "word": "shallow",
-        "trans": [
-            {
-                "tranCn": "浅的；浅薄的",
-                "pos": "adj",
-                "tranEn": "measuring only a short distance from the top to the bottom"
-            },
-            {
-                "tranCn": " 浅滩， 浅水处",
-                "pos": "n",
-                "tranEn": null
-            }
-        ]
-    },
-    {
         "id": 1376,
         "word": "lease",
         "trans": [
@@ -73968,22 +69402,6 @@
                 "tranCn": " 出租； 租得， 租有",
                 "pos": "vt",
                 "tranEn": "to use a building, car etc under a lease"
-            }
-        ]
-    },
-    {
-        "id": 1377,
-        "word": "exploit",
-        "trans": [
-            {
-                "tranCn": " 剥削； 利用； 开拓",
-                "pos": "vt",
-                "tranEn": "to treat someone unfairly by asking them to do things for you, but giving them very little in return – used to show disapproval"
-            },
-            {
-                "tranCn": " 业绩， 功绩",
-                "pos": "n",
-                "tranEn": null
             }
         ]
     },
@@ -74270,17 +69688,6 @@
         ]
     },
     {
-        "id": 1400,
-        "word": "swift",
-        "trans": [
-            {
-                "tranCn": " 快的； 反应快的； 敏捷的",
-                "pos": "adj",
-                "tranEn": null
-            }
-        ]
-    },
-    {
         "id": 1401,
         "word": "surrender",
         "trans": [
@@ -74562,17 +69969,6 @@
         ]
     },
     {
-        "id": 1422,
-        "word": "hesitate",
-        "trans": [
-            {
-                "tranCn": " 犹豫， 踌躇； 含糊； 不情愿",
-                "pos": "vi",
-                "tranEn": null
-            }
-        ]
-    },
-    {
         "id": 1423,
         "word": "rifle",
         "trans": [
@@ -74842,22 +70238,6 @@
                 "tranCn": " 录音机， 录像机； 记录装置， 记录仪",
                 "pos": "n",
                 "tranEn": "a piece of electrical equipment that records music, films etc"
-            }
-        ]
-    },
-    {
-        "id": 1446,
-        "word": "identify",
-        "trans": [
-            {
-                "tranCn": " 一致",
-                "pos": "vi",
-                "tranEn": null
-            },
-            {
-                "tranCn": "认出，鉴定；把…等同于",
-                "pos": "vt",
-                "tranEn": "to recognize and correctly name someone or something"
             }
         ]
     },
@@ -75799,22 +71179,6 @@
         ]
     },
     {
-        "id": 1524,
-        "word": "electronic",
-        "trans": [
-            {
-                "tranCn": "电子的",
-                "pos": "adj",
-                "tranEn": "electronic equipment, such as computers and televisions, uses electricity that has passed through computer chips, transistors etc"
-            },
-            {
-                "tranCn": " 电子学； 电子设备",
-                "pos": "n",
-                "tranEn": null
-            }
-        ]
-    },
-    {
         "id": 1525,
         "word": "vacation",
         "trans": [
@@ -75876,17 +71240,6 @@
                 "tranCn": " 课程， 全部课程",
                 "pos": "n",
                 "tranEn": "the subjects that are taught by a school, college etc, or the things that are studied in a particular subject"
-            }
-        ]
-    },
-    {
-        "id": 1530,
-        "word": "meantime",
-        "trans": [
-            {
-                "tranCn": " 其间， 同时",
-                "pos": "n",
-                "tranEn": null
             }
         ]
     },
@@ -76153,17 +71506,6 @@
                 "tranCn": " 抚养， 饲养； 种植",
                 "pos": "vt",
                 "tranEn": "to look after a person or animal until they are fully grown"
-            }
-        ]
-    },
-    {
-        "id": 1552,
-        "word": "amongst",
-        "trans": [
-            {
-                "tranCn": " 在…之中",
-                "pos": "prep",
-                "tranEn": null
             }
         ]
     },
@@ -76639,22 +71981,6 @@
                 "tranCn": " 到国外； 在传播， 在流传",
                 "pos": "adv",
                 "tranEn": "in or to a foreign country"
-            }
-        ]
-    },
-    {
-        "id": 1593,
-        "word": "radical",
-        "trans": [
-            {
-                "tranCn": "根本的，基本的；激进的，激进派的",
-                "pos": "adv",
-                "tranEn": null
-            },
-            {
-                "tranCn": " 激进分子",
-                "pos": "n",
-                "tranEn": "someone who has new and different ideas, especially someone who wants complete social and political change"
             }
         ]
     },
@@ -77277,17 +72603,6 @@
         ]
     },
     {
-        "id": 1642,
-        "word": "skillful",
-        "trans": [
-            {
-                "tranCn": " 灵巧的， 娴熟的",
-                "pos": "adj",
-                "tranEn": null
-            }
-        ]
-    },
-    {
         "id": 1643,
         "word": "flash",
         "trans": [
@@ -77611,27 +72926,6 @@
                 "tranCn": " 授权于； 使能够",
                 "pos": "vt",
                 "tranEn": "to give a person or organization the legal right to do something"
-            }
-        ]
-    },
-    {
-        "id": 1670,
-        "word": "riot",
-        "trans": [
-            {
-                "tranCn": "聚众闹事",
-                "pos": "vi",
-                "tranEn": "if a crowd of people riot, they behave in a violent and uncontrolled way, for example by fighting the police and damaging cars or buildings"
-            },
-            {
-                "tranCn": "暴乱，骚乱；极度丰富",
-                "pos": "n",
-                "tranEn": "a situation in which a large crowd of people are behaving in a violent and uncontrolled way, especially when they are protesting about something"
-            },
-            {
-                "tranCn": " 把浪费在放荡的生活上",
-                "pos": "vt",
-                "tranEn": null
             }
         ]
     },
@@ -78034,22 +73328,6 @@
         ]
     },
     {
-        "id": 1704,
-        "word": "mold",
-        "trans": [
-            {
-                "tranCn": "霉，霉菌；模型，铸模；性格",
-                "pos": "n",
-                "tranEn": null
-            },
-            {
-                "tranCn": " 用模子制作， 塑造； 使形成， 影响…的形成",
-                "pos": "vt",
-                "tranEn": null
-            }
-        ]
-    },
-    {
         "id": 1705,
         "word": "engineering",
         "trans": [
@@ -78079,22 +73357,6 @@
                 "tranCn": " 勇敢的； 鲁莽的； 粗体的， 黑体的； 醒目的",
                 "pos": "adj",
                 "tranEn": "so confident or determined that you sometimes offend people"
-            }
-        ]
-    },
-    {
-        "id": 1708,
-        "word": "bleed",
-        "trans": [
-            {
-                "tranCn": " 出血， 流血； 泌脂",
-                "pos": "vi",
-                "tranEn": "to lose blood, especially because of an injury"
-            },
-            {
-                "tranCn": "勒索…的钱",
-                "pos": "vt",
-                "tranEn": null
             }
         ]
     },
@@ -78230,27 +73492,6 @@
                 "tranCn": " 闩门",
                 "pos": "vt",
                 "tranEn": "to lock a door or window by sliding a bolt across"
-            }
-        ]
-    },
-    {
-        "id": 1719,
-        "word": "string",
-        "trans": [
-            {
-                "tranCn": " 连成一串； 排成一行前进",
-                "pos": "vi",
-                "tranEn": null
-            },
-            {
-                "tranCn": "线，细绳；一串，一行",
-                "pos": "n",
-                "tranEn": "a strong thread made of several threads twisted together, used for tying or fastening things"
-            },
-            {
-                "tranCn": "缚，扎，挂；串起，穿；使排成一列；伸展，拉直",
-                "pos": "vt",
-                "tranEn": "to put things together onto a thread, chain etc"
             }
         ]
     },
@@ -78458,22 +73699,6 @@
                 "tranCn": " 负片， 底片； 负数",
                 "pos": "n",
                 "tranEn": "an image on a photographic film that shows dark areas as light and light areas as dark, from which the final picture is printed"
-            }
-        ]
-    },
-    {
-        "id": 1737,
-        "word": "impose",
-        "trans": [
-            {
-                "tranCn": " 利用， 占便宜； 欺骗",
-                "pos": "vi",
-                "tranEn": null
-            },
-            {
-                "tranCn": "把…强加于；征",
-                "pos": "vt",
-                "tranEn": "to force someone to have the same ideas, beliefs etc as you"
             }
         ]
     },
@@ -79026,17 +74251,6 @@
         ]
     },
     {
-        "id": 1781,
-        "word": "largely",
-        "trans": [
-            {
-                "tranCn": " 大部分， 大量地",
-                "pos": "adv",
-                "tranEn": null
-            }
-        ]
-    },
-    {
         "id": 1782,
         "word": "slice",
         "trans": [
@@ -79183,22 +74397,6 @@
         ]
     },
     {
-        "id": 1793,
-        "word": "violet",
-        "trans": [
-            {
-                "tranCn": " 紫色的",
-                "pos": "adj",
-                "tranEn": null
-            },
-            {
-                "tranCn": "紫罗兰",
-                "pos": "n",
-                "tranEn": "a plant with small dark purple flowers, or sometimes white or yellow ones"
-            }
-        ]
-    },
-    {
         "id": 1794,
         "word": "hollow",
         "trans": [
@@ -79239,17 +74437,6 @@
                 "tranCn": " 依靠， 依赖； 信赖， 指望",
                 "pos": "vi",
                 "tranEn": "If you rely on someone or something, you need them and depend on them in order to live or work properly"
-            }
-        ]
-    },
-    {
-        "id": 1798,
-        "word": "hospitalize",
-        "trans": [
-            {
-                "tranCn": " 就医",
-                "pos": "vt",
-                "tranEn": null
             }
         ]
     },
@@ -79347,22 +74534,6 @@
         ]
     },
     {
-        "id": 1807,
-        "word": "portion",
-        "trans": [
-            {
-                "tranCn": "一部分，一份",
-                "pos": "n",
-                "tranEn": "a part of something larger, especially a part that is different from the other parts"
-            },
-            {
-                "tranCn": " 分配， 把…分给",
-                "pos": "vt",
-                "tranEn": null
-            }
-        ]
-    },
-    {
         "id": 1808,
         "word": "settle",
         "trans": [
@@ -79370,22 +74541,6 @@
                 "tranCn": " 安排， 安放； 调停； 支付， 核算； 安家； 飞落， 停留； 安定",
                 "pos": "v",
                 "tranEn": "to become quiet and calm, or to make someone quiet and calm"
-            }
-        ]
-    },
-    {
-        "id": 1809,
-        "word": "pattern",
-        "trans": [
-            {
-                "tranCn": "型，式样，模型",
-                "pos": "n",
-                "tranEn": "a shape used as a guide for making something, especially a thin piece of paper used when cutting material to make clothes"
-            },
-            {
-                "tranCn": " 仿制， 使照…样子",
-                "pos": "vt",
-                "tranEn": null
             }
         ]
     },
@@ -79734,22 +74889,6 @@
                 "tranCn": "上",
                 "pos": "vt",
                 "tranEn": "to get on a bus, plane, train etc in order to travel somewhere"
-            }
-        ]
-    },
-    {
-        "id": 1838,
-        "word": "economic",
-        "trans": [
-            {
-                "tranCn": "经济的，经济学的",
-                "pos": "adj",
-                "tranEn": "relating to trade, in-dustry, and the management of money"
-            },
-            {
-                "tranCn": " 经济学； 经济状况",
-                "pos": "n",
-                "tranEn": null
             }
         ]
     },
@@ -80196,27 +75335,6 @@
                 "tranCn": " 冷漠的， 不积极的； 一般的， 平平的",
                 "pos": "adj",
                 "tranEn": "not particularly good"
-            }
-        ]
-    },
-    {
-        "id": 1875,
-        "word": "outside",
-        "trans": [
-            {
-                "tranCn": "外部的",
-                "pos": "adj",
-                "tranEn": "not inside a building"
-            },
-            {
-                "tranCn": " 在…的外面； 向…的外面； 除…以外",
-                "pos": "prep",
-                "tranEn": null
-            },
-            {
-                "tranCn": "外部，外表",
-                "pos": "n",
-                "tranEn": "the part or surface of something that is furthest from the centre"
             }
         ]
     },
@@ -80895,22 +76013,6 @@
         ]
     },
     {
-        "id": 1930,
-        "word": "gaol",
-        "trans": [
-            {
-                "tranCn": "监禁",
-                "pos": "vt",
-                "tranEn": null
-            },
-            {
-                "tranCn": "监狱",
-                "pos": "n",
-                "tranEn": null
-            }
-        ]
-    },
-    {
         "id": 1931,
         "word": "conversely",
         "trans": [
@@ -81160,22 +76262,6 @@
         ]
     },
     {
-        "id": 1950,
-        "word": "gang",
-        "trans": [
-            {
-                "tranCn": " 聚集， 结成一伙",
-                "pos": "vi",
-                "tranEn": null
-            },
-            {
-                "tranCn": "一帮，一伙",
-                "pos": "n",
-                "tranEn": "a group of criminals who work together"
-            }
-        ]
-    },
-    {
         "id": 1951,
         "word": "shrink",
         "trans": [
@@ -81194,22 +76280,6 @@
                 "tranCn": " 祖宗， 祖先； 原型； 先驱",
                 "pos": "n",
                 "tranEn": "a member of your family who lived a long time ago"
-            }
-        ]
-    },
-    {
-        "id": 1953,
-        "word": "textile",
-        "trans": [
-            {
-                "tranCn": " 纺织的",
-                "pos": "adj",
-                "tranEn": null
-            },
-            {
-                "tranCn": "纺织品；纺织业",
-                "pos": "n",
-                "tranEn": "any type of woven cloth that is made in large quantities, used especially by people in the business of making clothes etc"
             }
         ]
     },
@@ -81327,17 +76397,6 @@
         ]
     },
     {
-        "id": 1962,
-        "word": "ax",
-        "trans": [
-            {
-                "tranCn": " 斧子",
-                "pos": "n",
-                "tranEn": null
-            }
-        ]
-    },
-    {
         "id": 1963,
         "word": "intermediate",
         "trans": [
@@ -81378,17 +76437,6 @@
                 "tranCn": " 竞争的， 比赛的； 好竞争的， 求胜心切的； 有竞争力的",
                 "pos": "adj",
                 "tranEn": "determined or trying very hard to be more successful than other people or businesses"
-            }
-        ]
-    },
-    {
-        "id": 1967,
-        "word": "enquiry",
-        "trans": [
-            {
-                "tranCn": " 询问",
-                "pos": "n",
-                "tranEn": null
             }
         ]
     },
@@ -81513,22 +76561,6 @@
         ]
     },
     {
-        "id": 1978,
-        "word": "drain",
-        "trans": [
-            {
-                "tranCn": "排去，放水",
-                "pos": "v",
-                "tranEn": null
-            },
-            {
-                "tranCn": " 耗竭； 排水沟， 排水管",
-                "pos": "n",
-                "tranEn": "a pipe that carries water or waste liquids away"
-            }
-        ]
-    },
-    {
         "id": 1979,
         "word": "isolate",
         "trans": [
@@ -81585,17 +76617,6 @@
                 "tranCn": " 责任， 责任心； 职责， 义务",
                 "pos": "n",
                 "tranEn": "a duty to be in charge of someone or something, so that you make decisions and can be blamed if something bad happens"
-            }
-        ]
-    },
-    {
-        "id": 1984,
-        "word": "enquire",
-        "trans": [
-            {
-                "tranCn": " 询问",
-                "pos": "v",
-                "tranEn": null
             }
         ]
     },
@@ -81840,22 +76861,6 @@
         ]
     },
     {
-        "id": 2005,
-        "word": "somewhat",
-        "trans": [
-            {
-                "tranCn": " 有点儿",
-                "pos": "adv",
-                "tranEn": "more than a little but not very"
-            },
-            {
-                "tranCn": "一点儿",
-                "pos": "pron",
-                "tranEn": null
-            }
-        ]
-    },
-    {
         "id": 2006,
         "word": "earnest",
         "trans": [
@@ -82080,17 +77085,6 @@
                 "tranCn": " 把…排除在外",
                 "pos": "vt",
                 "tranEn": "to deliberately not include something"
-            }
-        ]
-    },
-    {
-        "id": 2024,
-        "word": "scary",
-        "trans": [
-            {
-                "tranCn": " 引起惊慌的",
-                "pos": "adj",
-                "tranEn": null
             }
         ]
     },
@@ -82433,22 +77427,6 @@
         ]
     },
     {
-        "id": 2053,
-        "word": "burden",
-        "trans": [
-            {
-                "tranCn": "重担，精神负担",
-                "pos": "n",
-                "tranEn": "something difficult or worrying that you are responsible for"
-            },
-            {
-                "tranCn": " 加重压于， 烦扰； 负担， 装载",
-                "pos": "vt",
-                "tranEn": null
-            }
-        ]
-    },
-    {
         "id": 2054,
         "word": "precaution",
         "trans": [
@@ -82693,32 +77671,6 @@
                 "tranCn": " 炉， 烤箱",
                 "pos": "n",
                 "tranEn": "a piece of equipment that food is cooked inside, shaped like a metal box with a door on the front"
-            }
-        ]
-    },
-    {
-        "id": 2072,
-        "word": "bound",
-        "trans": [
-            {
-                "tranCn": "跳跃；弹回，反跃",
-                "pos": "vi",
-                "tranEn": "to run with a lot of energy, because you are happy, excited, or frightened"
-            },
-            {
-                "tranCn": "一定的；有义务的",
-                "pos": "adj",
-                "tranEn": null
-            },
-            {
-                "tranCn": "跳跃；弹回，反跃；成为…的界限，给…划界",
-                "pos": "vt",
-                "tranEn": "to run with a lot of energy, because you are happy, excited, or frightened"
-            },
-            {
-                "tranCn": " 跳跃； 界限， 限制",
-                "pos": "n",
-                "tranEn": "a long or high jump made with a lot of energy"
             }
         ]
     },
@@ -82989,22 +77941,6 @@
         ]
     },
     {
-        "id": 2094,
-        "word": "expert",
-        "trans": [
-            {
-                "tranCn": " 熟练的",
-                "pos": "adj",
-                "tranEn": null
-            },
-            {
-                "tranCn": "专家",
-                "pos": "n",
-                "tranEn": "someone who has a special skill or special knowledge of a subject, gained as a result of training or experience"
-            }
-        ]
-    },
-    {
         "id": 2095,
         "word": "select",
         "trans": [
@@ -83017,17 +77953,6 @@
                 "tranCn": "选择，挑选",
                 "pos": "vt",
                 "tranEn": "to choose something or someone by thinking carefully about which is the best, most suitable etc"
-            }
-        ]
-    },
-    {
-        "id": 2096,
-        "word": "fulfill",
-        "trans": [
-            {
-                "tranCn": " 履行， 实现， 完成； 满足， 使满意",
-                "pos": "vt",
-                "tranEn": null
             }
         ]
     },
@@ -83131,22 +78056,6 @@
                 "tranCn": " 输出",
                 "pos": "vt",
                 "tranEn": "if a computer outputs information, it produces it"
-            }
-        ]
-    },
-    {
-        "id": 2105,
-        "word": "fatigue",
-        "trans": [
-            {
-                "tranCn": " 疲劳",
-                "pos": "v",
-                "tranEn": null
-            },
-            {
-                "tranCn": "疲劳，劳累",
-                "pos": "n",
-                "tranEn": "very great tiredness"
             }
         ]
     },
@@ -83413,17 +78322,6 @@
                 "tranCn": " 段， 节",
                 "pos": "n",
                 "tranEn": "part of a piece of writing which starts on a new line and contains at least one sentence"
-            }
-        ]
-    },
-    {
-        "id": 2127,
-        "word": "judgement",
-        "trans": [
-            {
-                "tranCn": " 意见； 审判； 判断",
-                "pos": "n",
-                "tranEn": null
             }
         ]
     },
@@ -84246,22 +79144,6 @@
         ]
     },
     {
-        "id": 2196,
-        "word": "license",
-        "trans": [
-            {
-                "tranCn": "许可，执照",
-                "pos": "n",
-                "tranEn": null
-            },
-            {
-                "tranCn": " 准许",
-                "pos": "vt",
-                "tranEn": "to give official permission for someone to do or produce something, or for an activity to take place"
-            }
-        ]
-    },
-    {
         "id": 2197,
         "word": "synthetic",
         "trans": [
@@ -84848,17 +79730,6 @@
         ]
     },
     {
-        "id": 2243,
-        "word": "whilst",
-        "trans": [
-            {
-                "tranCn": " 当…的时候",
-                "pos": "conj",
-                "tranEn": null
-            }
-        ]
-    },
-    {
         "id": 2244,
         "word": "clerk",
         "trans": [
@@ -85192,17 +80063,6 @@
                 "tranCn": " 训练； 惩罚， 处罚",
                 "pos": "vt",
                 "tranEn": "to punish someone in order to keep order and control"
-            }
-        ]
-    },
-    {
-        "id": 2271,
-        "word": "behalf",
-        "trans": [
-            {
-                "tranCn": " 利益",
-                "pos": "n",
-                "tranEn": null
             }
         ]
     },
@@ -85719,22 +80579,6 @@
         ]
     },
     {
-        "id": 2314,
-        "word": "primitive",
-        "trans": [
-            {
-                "tranCn": "原始的，早期的；简单的；粗糙的",
-                "pos": "adj",
-                "tranEn": "belonging to a simple way of life that existed in the past and does not have modern industries and machines"
-            },
-            {
-                "tranCn": " 原人； 原始事物",
-                "pos": "n",
-                "tranEn": null
-            }
-        ]
-    },
-    {
         "id": 2315,
         "word": "advisable",
         "trans": [
@@ -85786,22 +80630,6 @@
                 "tranCn": " 小屋； 船舱， 机舱",
                 "pos": "n",
                 "tranEn": "a small house, especially one built of wood in an area of forest or mountains"
-            }
-        ]
-    },
-    {
-        "id": 2320,
-        "word": "sum",
-        "trans": [
-            {
-                "tranCn": " 共计",
-                "pos": "vi",
-                "tranEn": null
-            },
-            {
-                "tranCn": "总数；金额；算术",
-                "pos": "n",
-                "tranEn": "an amount of money"
             }
         ]
     },
@@ -86513,22 +81341,6 @@
         ]
     },
     {
-        "id": 2378,
-        "word": "epidemic",
-        "trans": [
-            {
-                "tranCn": "流行性的；传染的",
-                "pos": "adj",
-                "tranEn": null
-            },
-            {
-                "tranCn": " 流行病； 传播",
-                "pos": "n",
-                "tranEn": "a large number of cases of a disease that happen at the same time"
-            }
-        ]
-    },
-    {
         "id": 2379,
         "word": "suppose",
         "trans": [
@@ -86536,22 +81348,6 @@
                 "tranCn": " 猜想， 假定， 让； [常用于被动语态]期望， 认为应该",
                 "pos": "vt",
                 "tranEn": "to think that something is probably true, based on what you know"
-            }
-        ]
-    },
-    {
-        "id": 2380,
-        "word": "upright",
-        "trans": [
-            {
-                "tranCn": " 挺直着， 竖立着",
-                "pos": "adv",
-                "tranEn": null
-            },
-            {
-                "tranCn": "垂直的；正直的，诚实的",
-                "pos": "adj",
-                "tranEn": "standing or sitting straight up"
             }
         ]
     },
@@ -87437,22 +82233,6 @@
         ]
     },
     {
-        "id": 2452,
-        "word": "proof",
-        "trans": [
-            {
-                "tranCn": " 耐…的， 能防…的",
-                "pos": "adj",
-                "tranEn": null
-            },
-            {
-                "tranCn": "证据，证明；校样，样张",
-                "pos": "n",
-                "tranEn": "facts, information, documents etc that prove something is true"
-            }
-        ]
-    },
-    {
         "id": 2453,
         "word": "timber",
         "trans": [
@@ -87707,22 +82487,6 @@
         ]
     },
     {
-        "id": 2472,
-        "word": "indoor",
-        "trans": [
-            {
-                "tranCn": " 在室内， 在户内",
-                "pos": "adv",
-                "tranEn": null
-            },
-            {
-                "tranCn": "室内的",
-                "pos": "adj",
-                "tranEn": "used or happening inside a building"
-            }
-        ]
-    },
-    {
         "id": 2473,
         "word": "force",
         "trans": [
@@ -87875,27 +82639,6 @@
         ]
     },
     {
-        "id": 2485,
-        "word": "impress",
-        "trans": [
-            {
-                "tranCn": "给人印象，引人注目",
-                "pos": "vi",
-                "tranEn": null
-            },
-            {
-                "tranCn": "给…深刻印象；印，压印",
-                "pos": "vt",
-                "tranEn": "to press something into a soft surface so that a mark or pattern appears on it"
-            },
-            {
-                "tranCn": " 印记； 特征",
-                "pos": "n",
-                "tranEn": null
-            }
-        ]
-    },
-    {
         "id": 2486,
         "word": "confess",
         "trans": [
@@ -87930,27 +82673,6 @@
                 "tranCn": " 鬼， 灵魂， 鬼魂",
                 "pos": "n",
                 "tranEn": "the spirit of a dead person that some people think they can feel or see in a place"
-            }
-        ]
-    },
-    {
-        "id": 2489,
-        "word": "feature",
-        "trans": [
-            {
-                "tranCn": " 起重要作用",
-                "pos": "vi",
-                "tranEn": null
-            },
-            {
-                "tranCn": "特征，特色；面貌；特写，专题节目；故事片",
-                "pos": "n",
-                "tranEn": "a part of something that you notice because it seems important, interesting, or typical"
-            },
-            {
-                "tranCn": "突出；由…主演",
-                "pos": "vt",
-                "tranEn": "When something such as a film or exhibition features a particular person or thing, they are an important part of it"
             }
         ]
     },
@@ -88581,27 +83303,6 @@
                 "tranCn": "犯人，罪犯，刑事犯",
                 "pos": "n",
                 "tranEn": "someone who is involved in illegal activities or has been proved guilty of a crime"
-            }
-        ]
-    },
-    {
-        "id": 2540,
-        "word": "tag",
-        "trans": [
-            {
-                "tranCn": " 尾随",
-                "pos": "vi",
-                "tranEn": null
-            },
-            {
-                "tranCn": "附加语；标签",
-                "pos": "n",
-                "tranEn": "a small piece of paper, plastic etc attached to something to show what it is, who owns it, what it costs etc"
-            },
-            {
-                "tranCn": "给…加上标签",
-                "pos": "vt",
-                "tranEn": "to attach a tag to something"
             }
         ]
     },
@@ -89401,27 +84102,6 @@
                 "tranCn": " 种类， 类， 类别",
                 "pos": "n",
                 "tranEn": "a group of people or things that are all of the same type"
-            }
-        ]
-    },
-    {
-        "id": 2605,
-        "word": "rival",
-        "trans": [
-            {
-                "tranCn": "竞争的，对抗的",
-                "pos": "adj",
-                "tranEn": null
-            },
-            {
-                "tranCn": "竞争对手，敌手；可与匹敌的人",
-                "pos": "n",
-                "tranEn": "a person, group, or organization that you compete with in sport, business, a fight etc"
-            },
-            {
-                "tranCn": " 与 …竞争； 与…匹敌， 比得上",
-                "pos": "vt",
-                "tranEn": "to be as good or important as someone or something else"
             }
         ]
     },
