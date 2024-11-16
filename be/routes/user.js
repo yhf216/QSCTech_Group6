@@ -38,6 +38,6 @@ export default (app, db) => {
         }
         const user = await db.run(`INSERT INTO users (username, password, created_at) VALUES (?,?, CURRENT_TIMESTAMP)`, [username, password]);
         HandleJWT(user, res);
-        res.json({ message: 'Registration successful', user });
+        res.json({ message: 'Registration successful', data:user,code:200});
     })
 };

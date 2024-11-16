@@ -71,6 +71,11 @@ import { ref } from 'vue';
 import {API} from '@/utils/APIHelper';
 import { useMessage } from 'naive-ui';
 import cryptojs from 'crypto-js';
+import { useRouter } from 'vue-router';
+
+
+const router = useRouter();
+const message = useMessage();
 
 
 onMounted(() => {
@@ -97,11 +102,12 @@ const signIn = () => {
    .then((response) => {
       console.log(response);
       loading.value = false;
-      useMessage().success('Login successfully!');
+      message.success('Login successfully!');
+      router.push('/exam/start')
     }).catch((error) => {
       console.log(error);
       loading.value = false;
-      useMessage().error('Loging failed!');
+      message.error('Loging failed!');
     });
 }
 
@@ -115,11 +121,11 @@ const signUp = () => {
    .then((response) => {
       console.log(response);
       loading.value = false;
-      useMessage().success('Register successfully!');
+      message.success('Register successfully!');
    }).catch((error) => {    
       console.log(error);
       loading.value = false;
-      useMessage().error('Register failed!');
+      message.error('Register failed!');
    });
 }
 
