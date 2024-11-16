@@ -70,6 +70,7 @@ import { onMounted } from 'vue';
 import { ref } from 'vue';
 import {API} from '@/utils/APIHelper';
 import { useMessage } from 'naive-ui';
+import cryptojs from 'crypto-js';
 
 
 onMounted(() => {
@@ -91,7 +92,7 @@ const signIn = () => {
     loading.value = true;
   API.post("/user/login",{
     username: username.value,
-    password: password.value,
+    password: cryptojs.SHA256(password.value).toString(cryptojs.enc.Hex),
   })
    .then((response) => {
       console.log(response);
@@ -109,7 +110,7 @@ const signUp = () => {
   API.post("/user/register",{
     email: email.value,
     username: username.value,
-    password: password.value,
+    password: cryptojs.SHA256(password.value).toString(cryptojs.enc.Hex),
   })
    .then((response) => {
       console.log(response);

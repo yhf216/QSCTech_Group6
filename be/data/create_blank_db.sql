@@ -2,7 +2,7 @@
 
 create table users(
     id integer primary key,
-    name text,
+    username text,
     email text,
     password text,
     created_at text,

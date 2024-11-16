@@ -1,5 +1,5 @@
-import jwt from 'express-jwt'
-const secret = process.env.JWT_SECRET;
+import jwt from 'jsonwebtoken'
+const secret = process.env.JWT_SECRET_KEY;
 
 const HandleJWT = (user, res) => {
     const token = jwt.sign({ id: user.id }, secret, { expiresIn: '2d' });
@@ -20,7 +20,7 @@ export default (app, db) => {
             return res.status(200).json({ message: 'Invalid username or password' });
         }
         HandleJWT(user, res);
-        res.json({ message: 'Login successful', user });
+        res.json({ message: 'Login successful', data:user,code:200 });
     })
     app.post('/user/register', async (req, res) => {    
         const { username, password /* password is SHA256 hashed */ } = req.body;

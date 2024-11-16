@@ -52,22 +52,32 @@ import sqlite3 from "sqlite3";
 /**
  * @type sqlite.Database<sqlite3.Database, sqlite3.Statement>
  */
-let db;
+// let db;
 
-let openedFlag = false;
+// let openedFlag = false;
 
-app.use(async (_, $, next) => {
-  if (!openedFlag) {
-    db = await sqlite.open({
-      filename: "./data/data.db",
-      driver: sqlite3.cached.Database,
-    });
-    openedFlag = true;
-  }
+// app.use(async (_, $, next) => {
+//   if (!openedFlag) {
+//     db = await sqlite.open({
+//       filename: "./data/data.db",
+//       driver: sqlite3.cached.Database,
+//     });
+//     openedFlag = true;
+//   }
 
-  next();
-});
+//   next();
+// });
+import UsersRouteFactory from "./routes/user.js";
+import ExamRouteFactory from "./routes/exam.js";
 
+;(async()=>{
+  const  db = await sqlite.open({
+    filename: "./data/data.db",
+    driver: sqlite3.cached.Database,
+  });
+  UsersRouteFactory(app, db);
+  ExamRouteFactory(app, db);
+})();
 
 
 // Write as if you were in the root directory of the project
@@ -78,7 +88,7 @@ app.use(async (_, $, next) => {
 // You can refactor it using Fastify if you want! 
 
 // BTW, I hate typescript ( when I need to write something quickly ).
-import UsersRouteFactory from "./routes/user.js";
-UsersRouteFactory(app, db);
-import ExamRouteFactory from "./routes/exam.js";
-ExamRouteFactory(app, db);
+// import UsersRouteFactory from "./routes/user.js";
+// UsersRouteFactory(app, db);
+// import ExamRouteFactory from "./routes/exam.js";
+// ExamRouteFactory(app, db);
