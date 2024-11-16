@@ -30,6 +30,7 @@
         >
           <n-space vertical>
             <n-button
+            style="max-width: 100%;"
               :type="
                 option.id == question.answer
                   ? 'success'
@@ -62,7 +63,7 @@
               v-for="option in question.question.options"
               :key="option.id"
             >
-              {{ option.desc.tranEn }}
+            <n-ellipsis>{{ option.desc.tranEn }}</n-ellipsis>
             </n-button>
           </n-space>
         </n-card>
