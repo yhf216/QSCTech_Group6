@@ -35,5 +35,6 @@ declare module 'vue' {
     VProgressLinear: typeof import('vuetify/components')['VProgressLinear']
     VSelect: typeof import('vuetify/components')['VSelect']
     VSheet: typeof import('vuetify/components')['VSheet']
+    VTextField: typeof import('vuetify/components')['VTextField']
   }
 }

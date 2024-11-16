@@ -5,9 +5,17 @@ import 'vuetify/styles'
 import { createVuetify } from 'vuetify'
 
 import './assets/blockify.css'
+// import { aliases, mdi } from 'vuetify/iconsets/mdi-svg'
 
 const vuetify = createVuetify({
   ssr: true,
+  // icons: {
+  //   defaultSet: 'mdi',
+  //   aliases,
+  //   sets: {
+  //     mdi,
+  //   },
+  // },
 })
 
 const app = createApp(App)

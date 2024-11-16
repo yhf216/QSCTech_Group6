@@ -22,5 +22,6 @@ declare module 'vue-router/auto-routes' {
     '/exam/ongoing.[id]': RouteRecordInfo<'/exam/ongoing.[id]', '/exam/ongoing/:id', { id: ParamValue<true> }, { id: ParamValue<false> }>,
     '/exam/result.[id]': RouteRecordInfo<'/exam/result.[id]', '/exam/result/:id', { id: ParamValue<true> }, { id: ParamValue<false> }>,
     '/exam/start': RouteRecordInfo<'/exam/start', '/exam/start', Record<never, never>, Record<never, never>>,
+    '/user/signxx': RouteRecordInfo<'/user/signxx', '/user/signxx', Record<never, never>, Record<never, never>>,
   }
 }
