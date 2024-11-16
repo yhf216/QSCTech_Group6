@@ -18,6 +18,7 @@
           variant="underlined"
           clearable
           type="password"
+          :hint="passwordStrength(password)"
         ></v-text-field>
     </label>
     <p class="forgot-pass">Forgot password?</p>
@@ -43,7 +44,7 @@
       <h2>Time to get in love with English,</h2>
       <label>
         <v-text-field label="Email" variant="underlined"
-        placeholder="Enter your username" clearable v-model="email"></v-text-field>
+        placeholder="Enter your email" clearable v-model="email"></v-text-field>
       </label>
       <label>
         <v-text-field label="Username" variant="underlined"
@@ -57,6 +58,7 @@
           variant="underlined"
           clearable
           type="password"
+           :hint="passwordStrength(password).value"
         ></v-text-field>
       </label>
       <button type="button" class="submit"  @click="signUp()">Sign Up</button>
@@ -72,6 +74,7 @@ import {API} from '@/utils/APIHelper';
 import { useMessage } from 'naive-ui';
 import cryptojs from 'crypto-js';
 import { useRouter } from 'vue-router';
+import { passwordStrength } from 'check-password-strength'
 
 
 const router = useRouter();
