@@ -23,7 +23,7 @@
     </label>
     <p class="forgot-pass">Forgot password?</p>
     <button type="button" class="submit" @click="signIn()">Sign In</button>
-    <button type="button" class="fb-btn">Connect with <span>Auth0</span></button>
+    <button type="button" class="fb-btn" @click="loginWithRedirect()">Connect with <span>Auth0</span></button>
   </div>
   <div class="sub-cont">
     <div class="img">
@@ -62,7 +62,7 @@
         ></v-text-field>
       </label>
       <button type="button" class="submit"  @click="signUp()">Sign Up</button>
-      <button type="button" class="fb-btn">Join with <span>Auth0</span></button>
+      <button type="button" class="fb-btn" @click="loginWithRedirect()">Join with <span>Auth0</span></button>
     </div>
   </div>
 </n-spin>
@@ -75,6 +75,10 @@ import { useMessage } from 'naive-ui';
 import cryptojs from 'crypto-js';
 import { useRouter } from 'vue-router';
 import { passwordStrength } from 'check-password-strength'
+import { useAuth0 } from '@auth0/auth0-vue';
+
+
+const { loginWithRedirect } = useAuth0();
 
 
 const router = useRouter();
