@@ -18,7 +18,7 @@
           variant="underlined"
           clearable
           type="password"
-          :hint="passwordStrength(password)"
+          :hint="passwordStrength(password).value"
         ></v-text-field>
     </label>
     <p class="forgot-pass">Forgot password?</p>
@@ -114,7 +114,7 @@ const signIn = () => {
     }).catch((error) => {
       console.log(error);
       loading.value = false;
-      message.error('Loging failed!');
+      // message.error('Loging failed!');
     });
 }
 
