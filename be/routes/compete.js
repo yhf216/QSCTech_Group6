@@ -189,10 +189,11 @@ export default (app, db, io) => {
   }
 
   async function updateUserCount(){
+    console.log(await io.sockets.allSockets());
     
     io.to("waiting_room").emit("CurrentUserUpdate", {
-      currentOnline: await io.sockets.allSockets(),
-      currentWaiting: await io.in("waiting_room").allSockets(),
+      currentOnline: (await io.allSockets()).size,
+      currentWaiting: (await io.in("waiting_room").allSockets()).size,
     });
   }
 };

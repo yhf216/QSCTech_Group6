@@ -333,7 +333,7 @@ socket.on("GameOver", (data) => {
         colors: colors,
       });
 
-      if (Date.now() < end || step.value === 4) {
+      if (step.value === 4) {
         requestAnimationFrame(frame);
       }
     })();
@@ -348,6 +348,7 @@ const onemoretime = () => {
   socket.emit("OneMoreTime");
   Background.value = null;
   step.value = 1;
+  switchTheme.value = false;
 };
 
 onUnmounted(() => {
