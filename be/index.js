@@ -69,14 +69,26 @@ import sqlite3 from "sqlite3";
 // });
 import UsersRouteFactory from "./routes/user.js";
 import ExamRouteFactory from "./routes/exam.js";
+import CompeteRouteFactory from "./routes/compete.js";
+import { Server } from "socket.io";
 
 ;(async()=>{
   const  db = await sqlite.open({
     filename: "./data/data.db",
     driver: sqlite3.cached.Database,
   });
+
+  const io = new Server(httpServer, {  cors: {
+    origin: "*"
+  },path:"/api/competing-hall"
+  });
+
+
   UsersRouteFactory(app, db);
   ExamRouteFactory(app, db);
+  CompeteRouteFactory(app, db, io);
+
+  console.log("Routes are ready");
 })();
 
 

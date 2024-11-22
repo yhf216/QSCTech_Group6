@@ -110,6 +110,8 @@ const signIn = () => {
       console.log(response);
       loading.value = false;
       message.success('Login successfully!');
+      localStorage.setItem('token', response.token);
+      localStorage.setItem('uid', response.id);
       router.push('/exam/start')
     }).catch((error) => {
       console.log(error);

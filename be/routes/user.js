@@ -20,7 +20,12 @@ export default (app, db) => {
             return res.status(200).json({ message: 'Invalid username or password' });
         }
         HandleJWT(user, res);
-        res.json({ message: 'Login successful', data:user,code:200 });
+        res.json({ message: 'Login successful', data:{
+            id: user.id,
+            username: user.username,
+            created_at: user.created_at,
+            token:jwt.sign({ id: user.id, username: user.username}, secret, { expiresIn: '2d' })
+        },code:200 });
     })
     app.post('/user/register', async (req, res) => {    
         const { username, password /* password is SHA256 hashed */ } = req.body;
