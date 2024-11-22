@@ -2,15 +2,31 @@
 
 ## 运行指南
 后端：
+
+```
 cd be
 npm install
 node index
+```
+
 前端：
+
+```
 cd fe
 npm init -y
 npx vite .
+```
 
 点击Local后url进入起始页
 /user/signxx 注册登录页面
 /exam/start 单词答题页面
 /compete （package.json还没改完，暂时跑不了）
+
+我操这readme写的什么jb玩意
+
+
+## 配置.env文件
+
+把example.env复制一份命名为.env
+
+要是有要修改的部分就改
