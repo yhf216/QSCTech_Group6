@@ -42,12 +42,7 @@ export default (app, db, io) => {
         console.log("Joined User ID:", user_id);
         usermap[socket.id] = decoded;
         socket.join("waiting_room");
-        currentWaiting++;
-        currentOnline++;
-        io.to("waiting_room").emit("CurrentUserUpdate", {
-          currentOnline: currentOnline,
-          currentWaiting: currentWaiting,
-        });
+        updateUserCount()
         socket.on("prepare-for", async (room_id) => {
           if (
             room_id === 1 ||
@@ -75,11 +70,7 @@ export default (app, db, io) => {
                 s.leave(`preparing_room_${room_id}`);
                 s.leave("waiting_room");
                 s.join("room:" + roomId);
-                currentWaiting--;
-                io.to("waiting_room").emit("CurrentUserUpdate", {
-                  currentOnline: currentOnline,
-                  currentWaiting: currentWaiting,
-                });
+                updateUserCount()
               });
               handleRooming(roomId, room_id);
             }
@@ -90,16 +81,11 @@ export default (app, db, io) => {
         socket.on("oneMoreTime", () => {
           socket.off("Answer");
           socket.join("waiting_room");
-          currentOnline++;
-          io.to("waiting_room").emit("CurrentUserUpdate", {
-            currentOnline: currentOnline,
-            currentWaiting: currentWaiting,
-          });
+          updateUserCount()
         });
         socket.on("disconnect", () => {
           console.log("User Disconnected:", user_id);
-          currentOnline--;
-          currentWaiting--;
+          updateUserCount()
         });
       });
     });
@@ -199,6 +185,14 @@ export default (app, db, io) => {
           freezeflag = new Date().getTime();
         }
       });
+    });
+  }
+
+  async function updateUserCount(){
+    
+    io.to("waiting_room").emit("CurrentUserUpdate", {
+      currentOnline: await io.sockets.allSockets(),
+      currentWaiting: await io.in("waiting_room").allSockets(),
     });
   }
 };

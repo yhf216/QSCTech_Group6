@@ -346,6 +346,7 @@ socket.on("GameOver", (data) => {
 
 const onemoretime = () => {
   socket.emit("OneMoreTime");
+  Background.value = null;
   step.value = 1;
 };
 
