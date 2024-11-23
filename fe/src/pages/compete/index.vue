@@ -4,6 +4,7 @@
     :theme="switchTheme ? darkTheme : lightTheme"
     style="width: 70%; min-width: 800px; max-width: 100%; margin: auto auto"
   >
+    <home />
     <div style="position: absolute; right: 45px; top: 35px" v-if="connected">
       <n-button round>
         <template #icon>
@@ -194,6 +195,7 @@ import { useMessage } from "naive-ui";
 import loseBg from "@/components/lose-bg.vue";
 import { darkTheme, lightTheme } from "naive-ui";
 import confetti from "canvas-confetti";
+import home from "@/components/home.vue"
 
 const message = useMessage();
 

@@ -11,7 +11,7 @@
   "type": "module",
   "author": "5dbwat4 & more",
   "license": "MIT",
-  "description": "",
+  "description": "( You must set workdir to `path/to/QSCTech-Group6/be` )",
   "dependencies": {
     "dotenv": "^16.4.5",
     "express-jwt": "^8.4.1",
@@ -24,5 +24,7 @@
     "tsx": "^4.19.2",
     "typescript": "^5.6.3",
     "uuid": "^11.0.2"
-  }
+  },
+  "devDependencies": {},
+  "keywords": []
 }

@@ -1,7 +1,9 @@
 <template>
    
 <n-spin :show="loading" class="cont">
-    
+  <div class="back" @click="back()">
+    <span class="iconfont icon-home"></span>
+  </div>
   <div class="form sign-in">
     <h2>Welcome back,</h2>
     <label>
@@ -76,6 +78,7 @@ import cryptojs from 'crypto-js';
 import { useRouter } from 'vue-router';
 import { passwordStrength } from 'check-password-strength'
 import { useAuth0 } from '@auth0/auth0-vue';
+import '../../assets/login_home/iconfont.css' ;
 
 
 const { loginWithRedirect } = useAuth0();
@@ -88,6 +91,7 @@ const message = useMessage();
 onMounted(() => {
     document.querySelector('.img__btn').addEventListener('click', function() {
   document.querySelector('.cont').classList.toggle('s--signup');
+  document.querySelector('.back').classList.toggle("col_change");
 });
 });
 
@@ -136,6 +140,10 @@ const signUp = () => {
       loading.value = false;
       message.error('Register failed!');
    });
+}
+
+const back = () => {
+  router.push('/')
 }
 
 </script>
@@ -403,5 +411,19 @@ input {
   left: 50%;
   bottom: 0;
   transform: translateX(-50%);
+}
+.back{
+  position: absolute;
+  z-index: 3;
+}
+.back:hover{
+  color: blue;
+}
+.icon-home{
+  font-size: 30px;
+  margin-left: 10px;
+}
+.col_change{
+  color: #fff;
 }
 </style>

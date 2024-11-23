@@ -3,6 +3,7 @@
     style="width: 70%; min-width: 800px; max-width: 100%; margin: auto auto"
     hoverable
   >
+    <home />
     <n-h1 style="text-align: center; margin-top: 20px">开始答题！</n-h1>
     <v-select
       label="题目范围"
@@ -26,6 +27,7 @@ import { ref, watch } from "vue";
 import { VNumberInput } from "vuetify/labs/VNumberInput";
 import { API } from "@/utils/APIHelper";
 import { useRouter } from "vue-router";
+import home from "@/components/home.vue"
 
 const router = useRouter();
 

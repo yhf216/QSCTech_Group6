@@ -1,0 +1,23 @@
+{
+  "id": "4757252",
+  "name": "qsc大作业主页",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1444859",
+      "name": "login",
+      "font_class": "login",
+      "unicode": "e7db",
+      "unicode_decimal": 59355
+    },
+    {
+      "icon_id": "5924830",
+      "name": "home",
+      "font_class": "home",
+      "unicode": "e647",
+      "unicode_decimal": 58951
+    }
+  ]
+}
