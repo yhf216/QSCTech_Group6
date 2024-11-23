@@ -29,7 +29,7 @@
           <v-btn variant="outlined" @click="preparing(1)">新手场</v-btn>
           <v-btn variant="outlined" @click="preparing(2)">标准场</v-btn>
           <v-btn variant="outlined" @click="preparing(3)">高级场</v-btn>
-          <!--<v-btn variant="outlined" @click="preparing(4)">结果页测试</v-btn>-->
+          <v-btn variant="outlined" @click="preparing(4)">仅用作演示的场次</v-btn>
         </n-space>
         <n-p style="text-align: center; margin-top: 20px"
           >当前在线人数：{{ waitinghallOpt.currentOnline }} | 当前等待人数：{{
@@ -357,3 +357,12 @@ onUnmounted(() => {
   socket.disconnect();
 });
 </script>
+
+<style>
+.v-btn__content {
+  text-overflow: ellipsis;
+  text-indent: 0;
+  overflow-x: hidden;
+  display: block;
+}
+</style>
