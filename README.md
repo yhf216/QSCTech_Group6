@@ -22,7 +22,7 @@ npx vite .
 /exam/start 单词答题页面
 /compete pk页面
 
-我操这readme写的什么jb玩意
+
 
 
 ## 配置.env文件
