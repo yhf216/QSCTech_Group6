@@ -91,11 +91,11 @@ const handleSubmit = () => {
 };
 </script>
 
-
 <style>
 .v-btn__content {
   text-overflow: ellipsis;
   text-indent: 0;
+  overflow-x: hidden;
+  display: block;
 }
-
 </style>
